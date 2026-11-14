@@ -1,0 +1,1 @@
+1b 2b: test suite went from ~2,000 to ~9,000 tests in a year, mostly AI-written. Nightly run went from 20 min to 3 hours. Pretty sure most of the new ones check the same stuff. 3a, mostly engineers, some PMs. 4c

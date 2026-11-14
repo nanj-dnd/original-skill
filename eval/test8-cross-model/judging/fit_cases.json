@@ -1,0 +1,98 @@
+[
+ {
+  "qid": "2",
+  "A": "marcus",
+  "B": "jo",
+  "truth": "B"
+ },
+ {
+  "qid": "12",
+  "A": "jo",
+  "B": "marcus",
+  "truth": "B"
+ },
+ {
+  "qid": "10",
+  "A": "marcus",
+  "B": "priya",
+  "truth": "B"
+ },
+ {
+  "qid": "7",
+  "A": "marcus",
+  "B": "raj",
+  "truth": "B"
+ },
+ {
+  "qid": "6",
+  "A": "raj",
+  "B": "jo",
+  "truth": "B"
+ },
+ {
+  "qid": "8",
+  "A": "priya",
+  "B": "marcus",
+  "truth": "B"
+ },
+ {
+  "qid": "11",
+  "A": "priya",
+  "B": "jo",
+  "truth": "A"
+ },
+ {
+  "qid": "19",
+  "A": "priya",
+  "B": "raj",
+  "truth": "B"
+ },
+ {
+  "qid": "17",
+  "A": "jo",
+  "B": "priya",
+  "truth": "A"
+ },
+ {
+  "qid": "4",
+  "A": "priya",
+  "B": "marcus",
+  "truth": "B"
+ },
+ {
+  "qid": "1",
+  "A": "marcus",
+  "B": "priya",
+  "truth": "B"
+ },
+ {
+  "qid": "16",
+  "A": "raj",
+  "B": "jo",
+  "truth": "A"
+ },
+ {
+  "qid": "23",
+  "A": "priya",
+  "B": "jo",
+  "truth": "B"
+ },
+ {
+  "qid": "14",
+  "A": "priya",
+  "B": "marcus",
+  "truth": "B"
+ },
+ {
+  "qid": "13",
+  "A": "priya",
+  "B": "jo",
+  "truth": "A"
+ },
+ {
+  "qid": "15",
+  "A": "priya",
+  "B": "raj",
+  "truth": "B"
+ }
+]

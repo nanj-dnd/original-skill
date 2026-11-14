@@ -1,0 +1,270 @@
+{
+ "1": {
+  "main_claim": "AI has shifted engineering's main cost from writing code to reviewing it, so the team needs guardrails to protect overloaded senior reviewers.",
+  "choices": [
+   "PR volume up 60% and senior review time up from 4 to 11 hours/week",
+   "three rules: own every line, no 'AI wrote it' excuse, 400-line PR limit",
+   "jargon explained for sales/ops/compliance",
+   "minute-by-minute structure"
+  ],
+  "quality": 4,
+  "quality_reason": "Clear and concrete with a strong cost-shift framing; relies on specific internal stats the speaker must verify."
+ },
+ "2": {
+  "main_claim": "Use AI freely for repetitive, cheap-to-verify work and be careful where mistakes are expensive.",
+  "choices": [
+   "boilerplate, tests and translation as the 'yes' column",
+   "business logic, architecture, security and understanding as the 'careful' column",
+   "rule of thumb: how expensive is it if this is wrong?",
+   "closing ask for staff to share stories",
+   "e-commerce/checkout context"
+  ],
+  "quality": 5,
+  "quality_reason": "Well balanced, practical heuristic, natural opener that works for mixed audiences."
+ },
+ "3": {
+  "main_claim": "AI should be the default for most code, but explicitly not for a short list of high-risk areas.",
+  "choices": [
+   "'where does the default flip' framing",
+   "default-yes zone vs default-no zone (auth, payments, architecture)",
+   "three team norms including disclosure in PRs",
+   "delivery tips such as word count and skipping Q&A"
+  ],
+  "quality": 5,
+  "quality_reason": "Sharp thesis, concrete norms, useful delivery advice."
+ },
+ "4": {
+  "main_claim": "Junior engineers should debug manually for their first six months because reliance on AI is eroding debugging skill and slowing incident resolution.",
+  "choices": [
+   "P2 time-to-resolve up from 38 to 61 minutes",
+   "aviation autopilot/hand-flying analogy",
+   "six-month no-AI debugging rule for juniors",
+   "aimed at managers and seniors"
+  ],
+  "quality": 4,
+  "quality_reason": "Coherent and persuasive with a specific proposal; somewhat narrower than the question asked."
+ },
+ "5": {
+  "main_claim": "AI is a great exoskeleton but a terrible architect, so use it for low-risk repetitive work and keep humans on design and judgment.",
+  "choices": [
+   "exoskeleton vs architect metaphor",
+   "where AI shines vs where humans rule",
+   "rule: don't commit code you don't understand",
+   "Slack channel for wins and fails"
+  ],
+  "quality": 4,
+  "quality_reason": "Solid and usable for a mixed audience, though fairly generic."
+ },
+ "6": {
+  "main_claim": "Whether to use AI is a settled draw; the real issue is ensuring every merged line has an author who understands it.",
+  "choices": [
+   "'unread code' and ownership blur as the real problem",
+   "three concrete failure patterns",
+   "one norm: if you submit it, you can explain it",
+   "no disclosure labels on PRs",
+   "candid, conversational tone"
+  ],
+  "quality": 5,
+  "quality_reason": "Distinctive, well argued, actionable, with a natural voice."
+ },
+ "7": {
+  "main_claim": "Lean on AI heavily, but from a QA view the risk is plausible code nobody understands before it ships.",
+  "choices": [
+   "QA speaker perspective",
+   "bottleneck shifts to verification",
+   "rule: you must be able to explain what you ship",
+   "closes with open discussion questions instead of a policy"
+  ],
+  "quality": 4,
+  "quality_reason": "Clear and well tailored; ends with an open question rather than a firm ask."
+ },
+ "8": {
+  "main_claim": "Juniors should debug without AI for six months because engineers are losing the ability to read stack traces during incidents.",
+  "choices": [
+   "2am outage story with four wrong AI fixes",
+   "P2 resolution time up from 38 to 61 minutes",
+   "the speaker's own flying as an autopilot analogy",
+   "explicit ask that managers budget extra time"
+  ],
+  "quality": 5,
+  "quality_reason": "Vivid story, a clear ask, and it anticipates objections well."
+ },
+ "9": {
+  "main_claim": "Use AI aggressively for 'typing' work but don't hand it the 'deciding' work engineers are paid for.",
+  "choices": [
+   "typing vs deciding split",
+   "understanding debt, confident wrongness, skill atrophy",
+   "rule: use AI only for what you can review well",
+   "placeholder for an internal example"
+  ],
+  "quality": 5,
+  "quality_reason": "Crisp framing, well structured, strong opener."
+ },
+ "10": {
+  "main_claim": "AI moved the cost of shipping from writing to reviewing, so the team needs ownership rules and PR size limits.",
+  "choices": [
+   "August migration that dropped a constraint as the opening story",
+   "60% more PRs and senior review time from 4 to 11 hours",
+   "three rules including a 400-line split",
+   "translations for non-engineers",
+   "month-long trial ask"
+  ],
+  "quality": 5,
+  "quality_reason": "Compelling story, honest about costs, concrete policy."
+ },
+ "11": {
+  "main_claim": "The August incident showed AI-generated code without an owner, so authors must own every line and PRs must stay small.",
+  "choices": [
+   "August migration story: 'nobody did anything wrong by the rules'",
+   "legal-contract analogy for non-engineers",
+   "three-part rule",
+   "engineering-handbook ask"
+  ],
+  "quality": 5,
+  "quality_reason": "Strong narrative and good cross-functional translation; one small numeric looseness."
+ },
+ "12": {
+  "main_claim": "Debugging skill is atrophying from AI reliance, so juniors should debug without the assistant for six months.",
+  "choices": [
+   "2am P2 story",
+   "honest about correlation vs causation in the 38-to-61-minute data",
+   "autopilot analogy",
+   "tailored asks for managers, everyone and PMs",
+   "slide cues"
+  ],
+  "quality": 5,
+  "quality_reason": "Thoughtful, nuanced and delivery-ready."
+ },
+ "13": {
+  "main_claim": "AI speed has shifted the workload onto senior reviewers, so the team needs absolute ownership and a 400-line PR limit.",
+  "choices": [
+   "August dropped-constraint incident",
+   "60% more PRs and review time from 4 to 11 hours",
+   "ghostwriter vs author metaphor",
+   "guardrails, not brakes"
+  ],
+  "quality": 4,
+  "quality_reason": "Clear and usable, but '11 hours = two days a week' is an arithmetic overstatement."
+ },
+ "14": {
+  "main_claim": "Engineers are losing the ability to debug their own systems, so new hires should debug without AI for six months.",
+  "choices": [
+   "P2 resolution time up from 38 to 61 minutes",
+   "2am story with four wrong fixes",
+   "stick-and-rudder pilot analogy",
+   "directive aimed at engineering managers"
+  ],
+  "quality": 3,
+  "quality_reason": "Solid content, but the outline formatting is broken and flattened."
+ },
+ "15": {
+  "main_claim": "AI generates volume, not architecture, as redundant AI tests that bloated CI show; humans must own and prune its output.",
+  "choices": [
+   "tests grew from 2,000 to 9,000 and the nightly run from 20 minutes to 3 hours",
+   "good vs bad uses",
+   "review AI output like a junior's PR",
+   "plan to prune tests"
+  ],
+  "quality": 4,
+  "quality_reason": "Concrete and coherent, if somewhat thin."
+ },
+ "16": {
+  "main_claim": "AI is a strong accelerator for mundane work but a dangerous substitute for judgment, so the team needs rules of engagement.",
+  "choices": [
+   "enterprise licenses already rolled out",
+   "green zone vs danger zones",
+   "zero-trust review and accountability",
+   "data-security reminder and wiki pointer"
+  ],
+  "quality": 4,
+  "quality_reason": "Competent and complete, but generic corporate tone."
+ },
+ "17": {
+  "main_claim": "Engineers shouldn't use AI for everything; it's a power tool for tedious work but needs human craft and caution.",
+  "choices": [
+   "power saw and carpenter analogy",
+   "aimed at a non-technical company audience",
+   "confident-liar and security risks",
+   "suggests future guidelines or a sandbox"
+  ],
+  "quality": 3,
+  "quality_reason": "Usable and accessible, but vague with a weak call to action."
+ },
+ "18": {
+  "main_claim": "AI is like a fast junior developer: use it for tedious tasks but keep humans on architecture, security and review.",
+  "choices": [
+   "regex/StackOverflow hook",
+   "yes, no and red-lines sections",
+   "rule: never let AI approve AI PRs",
+   "junior pair programmer rule"
+  ],
+  "quality": 4,
+  "quality_reason": "Thorough and clear, though conventional."
+ },
+ "19": {
+  "main_claim": "Use AI for nearly everything, but humans must decide what gets added to shared infrastructure, because the tool doesn't know when to stop.",
+  "choices": [
+   "test suite growth as the case study (4.5x tests, 9x runtime)",
+   "producing vs carrying principle",
+   "'would I have added this if I had to type it' as a review test",
+   "proposed audit with an under-one-hour target"
+  ],
+  "quality": 5,
+  "quality_reason": "Original, careful with claims, and actionable."
+ },
+ "20": {
+  "main_claim": "Use AI aggressively for typing-heavy work and deliberately for thinking-heavy work, with humans owning the merge.",
+  "choices": [
+   "'where is the line' framing",
+   "design, unverifiable code and skill atrophy as limits",
+   "norm: AI drafts, a human owns the merge",
+   "two review habits"
+  ],
+  "quality": 5,
+  "quality_reason": "Clean thesis, balanced, strong opener."
+ },
+ "21": {
+  "main_claim": "AI is an eager junior developer: use it for grunt work but keep humans on security, architecture and understanding.",
+  "choices": [
+   "headline-joke opener",
+   "shift from authors to reviewers",
+   "sweet spots vs danger zones",
+   "closing clich\u00e9 that AI won't replace engineers"
+  ],
+  "quality": 3,
+  "quality_reason": "Usable, but clich\u00e9-heavy with some odd phrasing ('sensitive data loops')."
+ },
+ "22": {
+  "main_claim": "AI is a great co-pilot but a bad autopilot: offload predictable work and keep humans on context-heavy decisions.",
+  "choices": [
+   "co-pilot vs autopilot",
+   "green light vs red light zones",
+   "review AI code like a junior's PR",
+   "security reminder and Slack sharing"
+  ],
+  "quality": 4,
+  "quality_reason": "Clear and usable, though generic."
+ },
+ "23": {
+  "main_claim": "Keep using Copilot for grunt work, but you own the PR and can't let it write everything.",
+  "choices": [
+   "casual first-person tone",
+   "good stuff vs confidence illusion",
+   "you-own-the-PR rule",
+   "very brief outline"
+  ],
+  "quality": 3,
+  "quality_reason": "Natural and usable, but thin."
+ },
+ "24": {
+  "main_claim": "The question is which parts of engineering to delegate to AI, decided by a simple three-question test.",
+  "choices": [
+   "approved PR that broke payment retries as the opener",
+   "wins vs breakdowns including verification debt",
+   "three-question delegation check",
+   "specific ask with placeholders"
+  ],
+  "quality": 5,
+  "quality_reason": "Strong hook, memorable heuristic, well structured."
+ }
+}

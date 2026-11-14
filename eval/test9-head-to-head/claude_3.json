@@ -1,0 +1,62 @@
+{
+ "25": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Builds the post on her real 700-day Welsh streak with her daughter, which makes it personal and memorable for friends, unlike Piece 1's stock listicle."
+ },
+ "26": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses his attempts-not-outcomes framing, the wedding trigger and the four quits, in a blunt voice with no self-help fluff."
+ },
+ "27": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Opens with the 2am outage and uses the P2 numbers, the autopilot analogy and the juniors-debug-by-hand ask; Piece 2 is a generic exoskeleton talk."
+ },
+ "28": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Both tell her story, but Piece 2 is wryer and tighter, and lines like 'the clock was never yours' fit her voice and nurse readers better."
+ },
+ "29": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Develops Max's own hunch that January 1 is an odd time to start into a fresh argument, instead of recycling the usual systems/all-or-nothing tips."
+ },
+ "30": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Centers his outage story, P2 data, aviation analogy and junior-debugging proposal, and makes clear he isn't anti-AI."
+ },
+ "31": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Has the vivid 2am story and a direct ask to managers; Piece 2 covers the views but reads stiffer and omits the real case."
+ },
+ "32": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Built on her shift-work thesis and event-anchoring story; Piece 1 is generic advice that ignores her situation entirely."
+ },
+ "33": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Fits Jo's mild stance ('I use Copilot sometimes, it's fine') and gives one concrete, enforceable norm, so it's ready to deliver."
+ },
+ "34": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Anchors the talk in his team's real test-suite growth and nightly runtime, giving a concrete ask to an audience of engineers and PMs."
+ },
+ "35": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Speaks directly to shift workers with her own story; Piece 1 even recommends 'a set time', which is the advice she rejects."
+ },
+ "36": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Uses his actual suite numbers and a specific audit ask, versus a boilerplate green-zone/danger-zone talk."
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "13": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It is built on her real Welsh streak with her daughter, while Piece 1 invents a gym-membership story that isn't hers."
+ },
+ "14": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It anchors the talk in his team's actual test-suite numbers and gives engineers and PMs a concrete ask, where Piece 1 is a stock pros-and-cons outline."
+ },
+ "15": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It develops Max's own hunch that January 1 is a weird starting point into a fresh argument, instead of repeating the samey advice he already finds tired."
+ },
+ "16": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It matches Max's suspicion about January 1 with an original angle, while Piece 1 is the standard motivation/systems/all-or-nothing post."
+ },
+ "17": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It uses his real suite growth and nightly-runtime data and ends with a concrete audit ask, while Piece 2 is a generic AI-guardrails talk."
+ },
+ "18": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It fits Jo's lukewarm 'it's fine' stance and proposes one clear norm, where Piece 2 is generic and invents team details."
+ },
+ "19": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It is built on his team's own metrics with a specific principle and ask, while Piece 2 is the boilerplate junior-developer framing."
+ },
+ "20": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It fully develops Max's January 1 intuition; Piece 2 mentions the idea only in passing, falls back on micro-habit clich\u00e9s, and fakes a personal track record."
+ },
+ "21": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It uses her one resolution that actually stuck and the accountability insight behind it, while Piece 1 is a generic listicle."
+ },
+ "22": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It is in Jo's own voice ('I use Copilot sometimes, it's fine') with a single actionable norm, where Piece 2 is a more conventional where-to-draw-the-line talk."
+ },
+ "23": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It is a focused, original take on January 1 that matches Max's view, while Piece 1 is generic micro-habit advice with an invented personal history."
+ },
+ "24": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It uses her real shift-work gym story and the event-not-clock insight for nurse readers, while Piece 2 recommends 'a set time', the very advice she rejects."
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "25": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 2 violates the negative constraint by including the hidden Welsh story when the prompt didn't ask about resolutions that stuck, making the generic Piece 1 safer."
+ },
+ "26": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 perfectly integrates his specific smoking cessation story, his focus on attempts over outcomes, and his blunt teaching style, whereas Piece 2 is generic self-help fluff."
+ },
+ "27": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 incorporates all his specific views, including the 2am outage and the aviation analogy, matching his measured tone perfectly."
+ },
+ "28": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 nails her wry tone, avoids the word 'simply', and directly addresses the reality of shift work instead of giving standard 9-to-5 advice."
+ },
+ "29": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 expands nicely on his vague suspicion that January 1 is a weird, arbitrary time to start a resolution, while Piece 2 is a completely standard AI listicle."
+ },
+ "30": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 utilizes his specific experiences (incident reviews, the 2am outage, the autopilot analogy), whereas Piece 1 gives a highly generic tech talk."
+ },
+ "31": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 presents the requested format cleanly and captures his measured, narrative-driven speaking style better than Piece 2's denser bullet points."
+ },
+ "32": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 captures her specific shift-worker experience and wry tone, while Piece 1 is a generic AI response that even uses the word 'simply', which she hates."
+ },
+ "33": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 perfectly channels Jo's 'it's fine' neutrality and lack of a dramatic story, making it sound exactly like something they would actually say."
+ },
+ "34": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 1 violates the negative constraint by including the hidden test suite metrics when the prompt didn't ask for data, making Piece 2 the appropriate choice."
+ },
+ "35": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 captures her specific shift-work reality and event-anchoring strategy, while Piece 1 is entirely generic."
+ },
+ "36": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 2 inappropriately includes his hidden test metrics despite the prompt not asking for data, so Piece 1 is preferred for following instructions."
+ }
+}

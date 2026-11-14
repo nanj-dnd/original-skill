@@ -1,0 +1,13 @@
+1. It's "it depends, here's the framework," and I want to come across as the measured voice, not the provocateur. I'm not anti-AI, and I'd really like the talk not to be heard that way. I use these tools, and I think they're great for writing new code. My concern isn't code quality. It's skill atrophy, specifically in debugging. The aviation analogy I keep coming back to: autopilot is fantastic and nobody flies a long leg by hand anymore, but pilots still train on manual flying, because when the automation hands you the airplane at the worst possible moment you'd better know how to fly it. My concrete proposal is that juniors do their first six months of debugging without an assistant.
+
+2. Whole company will be there, but I mostly care about engineers and their managers hearing it. Managers especially, since they're the ones who'd set expectations for juniors. Everyone else can listen in. It should make sense to a PM, but I'm not pitching to sales.
+
+3. Use is widespread, and that's fine. What prompted this for me is the incident data. I run our incident reviews, and over the last six months our median time-to-resolve for P2s went from 38 minutes to 61. In reviews I keep seeing engineers who can't read a stack trace through code they supposedly wrote. The case I'd probably use: a 2am outage where the on-call engineer pasted the error into the assistant four times and got four different, equally confident fixes. It took me about ten minutes to find the actual problem just by reading the log. I'd want that told without throwing the engineer under the bus. It's a systems problem, not a person problem.
+
+4. Staff engineer. I'm in the on-call rotation and I run incident review, so my angle is "I see what happens when things break." I'm not security or quality, and not someone who's skeptical of the tools on principle.
+
+5. Mainly I want managers to adopt a norm for juniors around debugging without assistants early on. For everyone else, I want them to treat debugging and reading logs and traces as a skill that needs practice, like a pilot keeping current. Not "stop using it," just "keep your hands on the controls sometimes."
+
+6. Fairly casual. I'm fine with a little humor but don't want it jokey. Probably just a couple of slides, and the P2 numbers are worth one.
+
+7. Include: the TTR numbers, the 2am story, the six-month junior proposal, and some aviation framing, though not so much that it turns into a flying lecture. Avoid: anything that sounds like a ban, vendor bashing, and the "AI slop" code-quality debate. That's a different argument and it'll pull the room off topic.

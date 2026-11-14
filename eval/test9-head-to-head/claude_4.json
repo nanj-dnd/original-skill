@@ -1,0 +1,62 @@
+{
+ "37": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 is built on his 2am outage, P2 numbers, aviation analogy and six-month junior rule; Piece 1 is a generic pro/con talk."
+ },
+ "38": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 turns her Welsh streak with her daughter into a warm, personal post; Piece 2 is stock resolution advice."
+ },
+ "39": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 is anchored in his team's test-suite growth and runtime numbers, a concrete case engineers and PMs will recognize."
+ },
+ "40": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Both use his data and aviation analogy, but Piece 2 opens on the real 2am outage and speaks plainly to managers about the cost."
+ },
+ "41": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 opens with the August migration, explains it for non-engineers and frames her rule as accountability, not a pro/con talk."
+ },
+ "42": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 1 is exactly the generic green-light/red-light pro/con talk she hates; Piece 2 uses her incident, numbers and rule."
+ },
+ "43": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 keeps Jo's low-key voice ('I use Copilot sometimes, it's fine') while giving a concrete, deliverable talk without inventing a story."
+ },
+ "44": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 uses his outage, metrics, autopilot analogy and junior proposal; Piece 2 is a generic typing-vs-deciding talk."
+ },
+ "45": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 leads with the August migration and translates the stakes for sales, ops and compliance; Piece 2 lacks the story and reads flatter."
+ },
+ "46": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 matches his blunt, non-self-help voice and attempts-not-outcomes framing; Piece 1's 'Stop Whining' title and dubious stats feel off."
+ },
+ "47": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 is built on her real incident, numbers and three-part rule; Piece 2 is a generic pro/con talk."
+ },
+ "48": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 gives Jo a clear, low-key, ready-to-deliver talk in Jo's own voice; Piece 1 is boilerplate with an invented debugging anecdote."
+ }
+}

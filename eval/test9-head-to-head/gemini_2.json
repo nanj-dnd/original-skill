@@ -1,0 +1,62 @@
+{
+ "13": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 heavily incorporates her specific Welsh app streak and daughter to illustrate her views on motivation."
+ },
+ "14": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 uses his actual test suite metrics and his specific realization about AI generating redundant tests."
+ },
+ "15": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 focuses entirely on his specific suspicion that January 1 is an arbitrary and weird time to start something."
+ },
+ "16": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 avoids generic AI advice and specifically expands on his thought about January 1 being the actual problem."
+ },
+ "17": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 successfully anchors the talk in his real-world data about the test suite exploding from 2,000 to 9,000 tests."
+ },
+ "18": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 perfectly captures his 'it's fine, I have no strong view' stance without inventing a fake personal story."
+ },
+ "19": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 leverages his actual experience with the test suite rather than defaulting to a generic tech talk."
+ },
+ "20": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 leans into his specific, vague suspicion about January 1, while Piece 2 relies on generic AI tropes like kale smoothies."
+ },
+ "21": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 weaves in her exact Welsh language app streak and the dynamic with her daughter."
+ },
+ "22": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 naturally incorporates his exact casual stance ('I use Copilot sometimes. It's fine.') into a pragmatic argument."
+ },
+ "23": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 develops his specific idea about January 1, avoiding the clich\u00e9 system-vs-motivation formatting of Piece 1."
+ },
+ "24": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 uses her exact experience as a shift-working ER nurse and her specific gym habit success story."
+ }
+}

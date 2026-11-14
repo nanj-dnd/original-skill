@@ -1,0 +1,7 @@
+1. Practical and warm, a little wry. Think "tired coworker in the break room at 3am who actually has good advice." Not tough-love, not inspirational-poster. And please no "simply." Nothing is simple at hour 11 of a shift.
+
+2. Don't need a placeholder, I'll give you the real one. I tried a 6am gym habit three years in a row and failed every single time by February, because my rotation flips between days and nights every few weeks and "6am" means something totally different depending on the week. What finally worked was anchoring it to an event instead of a time: the gym is the first thing I do after any shift ends, day or night. I've kept that going 14 months now.
+
+3. Yes, that, basically. Anchor habits to events, not clock times. Micro-habits and systems are fine but most of that advice still assumes you wake up at the same time every day. The pitch is: pick something that happens reliably in YOUR life (end of shift, after the baby's first feed, when you get home) and hang the habit on that.
+
+4. Mostly other nurses and healthcare workers who found me through Instagram. Probably some warehouse/shift folks and new parents too. I want them to feel like it wasn't a personal failing that their resolutions died. The advice was written for 9-to-5 office people. Then I want them to actually try one event-anchored habit this year.

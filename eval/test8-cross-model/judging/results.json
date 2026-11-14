@@ -1,0 +1,176 @@
+{
+ "rows": [
+  {
+   "judge": "claude",
+   "model": "claude",
+   "arm": "plain",
+   "quality": 5,
+   "spread": 2.17,
+   "distance": null,
+   "fit": null
+  },
+  {
+   "judge": "claude",
+   "model": "claude",
+   "arm": "asks",
+   "quality": 4.75,
+   "spread": 0.5,
+   "distance": 1.31,
+   "fit": 1.0
+  },
+  {
+   "judge": "claude",
+   "model": "claude",
+   "arm": "skill",
+   "quality": 5,
+   "spread": 0.67,
+   "distance": 0.88,
+   "fit": 1.0
+  },
+  {
+   "judge": "claude",
+   "model": "gemini",
+   "arm": "plain",
+   "quality": 3.75,
+   "spread": 2.67,
+   "distance": null,
+   "fit": null
+  },
+  {
+   "judge": "claude",
+   "model": "gemini",
+   "arm": "asks",
+   "quality": 3.75,
+   "spread": 0.5,
+   "distance": 1.31,
+   "fit": 1.0
+  },
+  {
+   "judge": "claude",
+   "model": "gemini",
+   "arm": "skill",
+   "quality": 3.5,
+   "spread": 0.5,
+   "distance": 1,
+   "fit": 1.0
+  },
+  {
+   "judge": "gemini",
+   "model": "claude",
+   "arm": "plain",
+   "quality": 4.25,
+   "spread": 2,
+   "distance": null,
+   "fit": null
+  },
+  {
+   "judge": "gemini",
+   "model": "claude",
+   "arm": "asks",
+   "quality": 4.5,
+   "spread": 0.33,
+   "distance": 0.75,
+   "fit": 1.0
+  },
+  {
+   "judge": "gemini",
+   "model": "claude",
+   "arm": "skill",
+   "quality": 5,
+   "spread": 0.17,
+   "distance": 0.75,
+   "fit": 1.0
+  },
+  {
+   "judge": "gemini",
+   "model": "gemini",
+   "arm": "plain",
+   "quality": 3,
+   "spread": 2,
+   "distance": null,
+   "fit": null
+  },
+  {
+   "judge": "gemini",
+   "model": "gemini",
+   "arm": "asks",
+   "quality": 4,
+   "spread": 0.33,
+   "distance": 1,
+   "fit": 0.75
+  },
+  {
+   "judge": "gemini",
+   "model": "gemini",
+   "arm": "skill",
+   "quality": 3.5,
+   "spread": 0,
+   "distance": 0.5,
+   "fit": 1.0
+  }
+ ],
+ "own_numbers_used": {
+  "claude/asks": [
+   [
+    "marcus",
+    true
+   ],
+   [
+    "priya",
+    true
+   ],
+   [
+    "raj",
+    false
+   ]
+  ],
+  "claude/skill": [
+   [
+    "marcus",
+    true
+   ],
+   [
+    "priya",
+    true
+   ],
+   [
+    "raj",
+    true
+   ]
+  ],
+  "gemini/asks": [
+   [
+    "marcus",
+    true
+   ],
+   [
+    "priya",
+    true
+   ],
+   [
+    "raj",
+    false
+   ]
+  ],
+  "gemini/skill": [
+   [
+    "marcus",
+    true
+   ],
+   [
+    "priya",
+    true
+   ],
+   [
+    "raj",
+    true
+   ]
+  ]
+ },
+ "quality_corr_between_judges": 0.72,
+ "fit_agreement": 0.9375,
+ "mean_quality_by_judge": {
+  "claude": 4.29,
+  "gemini": 4.04
+ }
+}

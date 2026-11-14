@@ -1,0 +1,228 @@
+{
+ "claude": {
+  "by_opponent": {
+   "gemini_asks": {
+    "prefer": [
+     8,
+     0,
+     0
+    ],
+    "less_generic": [
+     8,
+     0,
+     0
+    ]
+   },
+   "gemini_asks|blog": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "claude_plain": {
+    "prefer": [
+     8,
+     0,
+     0
+    ],
+    "less_generic": [
+     8,
+     0,
+     0
+    ]
+   },
+   "claude_plain|talk": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "gemini_plain": {
+    "prefer": [
+     8,
+     0,
+     0
+    ],
+    "less_generic": [
+     8,
+     0,
+     0
+    ]
+   },
+   "gemini_plain|blog": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "claude_plain|blog": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "gemini_plain|talk": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "gemini_asks|talk": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   }
+  },
+  "first_position_rate": 0.5
+ },
+ "gemini": {
+  "by_opponent": {
+   "gemini_asks": {
+    "prefer": [
+     7,
+     1,
+     0
+    ],
+    "less_generic": [
+     8,
+     0,
+     0
+    ]
+   },
+   "gemini_asks|blog": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "claude_plain": {
+    "prefer": [
+     7,
+     1,
+     0
+    ],
+    "less_generic": [
+     8,
+     0,
+     0
+    ]
+   },
+   "claude_plain|talk": {
+    "prefer": [
+     3,
+     1,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "gemini_plain": {
+    "prefer": [
+     7,
+     1,
+     0
+    ],
+    "less_generic": [
+     8,
+     0,
+     0
+    ]
+   },
+   "gemini_plain|blog": {
+    "prefer": [
+     3,
+     1,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "claude_plain|blog": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "gemini_plain|talk": {
+    "prefer": [
+     4,
+     0,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   },
+   "gemini_asks|talk": {
+    "prefer": [
+     3,
+     1,
+     0
+    ],
+    "less_generic": [
+     4,
+     0,
+     0
+    ]
+   }
+  },
+  "first_position_rate": 0.52
+ }
+}

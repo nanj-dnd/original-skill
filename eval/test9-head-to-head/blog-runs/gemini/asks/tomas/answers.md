@@ -1,0 +1,5 @@
+Tone: blunt, a bit of tough love, some research where it actually matters. No "be kind to yourself" stuff. Half my readers are from a quit-smoking forum and they've heard all of that already. Some are former students, so it can sound a bit like me in class.
+
+Anecdote: yes. I smoked for 15 years and quit on my 4th serious attempt, six years ago now. Attempt 2 lasted 5 weeks and fell apart at a wedding. That's how I learned weddings plus drinking were my big trigger. Attempt 4 was planned around exactly that. The earlier ones taught me the others too: the first coffee, driving, my brother.
+
+Takeaway: none of those options. Get the framing right. "Most resolutions fail" is the wrong way to look at it. Most *attempts* fail, and that's normal. Count your attempts, not your outcomes. Each failed one is information about what breaks you. Most people who successfully quit needed several tries. Don't dress it up as "systems vs goals" or anything that sounds like a self-help book.

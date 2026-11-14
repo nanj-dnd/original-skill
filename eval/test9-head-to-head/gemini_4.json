@@ -1,0 +1,62 @@
+{
+ "37": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It incorporates his actual 2am outage story, specific P2 metrics, and pilot analogy instead of relying on generic tech metaphors."
+ },
+ "38": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It builds the entire post around her specific, real-world Welsh learning streak with her daughter rather than dispensing generic habit advice."
+ },
+ "39": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It anchors the talk directly on his specific, massive test suite bloat problem rather than dispensing generic coding advice."
+ },
+ "40": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 leads authentically with his 2am outage story and sounds like a real engineer talking, whereas Piece 1 forces his metrics into standard, generic presentation buckets."
+ },
+ "41": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It leads with her actual August migration horror story instead of a generic 'elephant in the room' opening, perfectly capturing her direct style."
+ },
+ "42": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It uses her actual metrics, rules, and the August migration story, whereas the other piece relies entirely on generic platitudes and traffic light metaphors."
+ },
+ "43": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It perfectly matches Jo's indifferent, middle-of-the-road attitude ('It's fine') instead of faking enthusiasm and generic 'superpower' analogies."
+ },
+ "44": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It centers the talk entirely around his specific 2am outage experience and pilot analogy rather than a standard pro/con list about AI."
+ },
+ "45": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It opens with her highly specific August migration story and sounds much more like a direct, no-nonsense manager dealing with a real issue."
+ },
+ "46": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It accurately reflects his chemistry teacher mindset (treating failures as data-gathering experiments) without resorting to fake, overly aggressive 'tough love' internet tropes."
+ },
+ "47": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It centers entirely on her real August migration incident and specific team metrics rather than relying on generic traffic light metaphors."
+ },
+ "48": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It matches their actual unbothered, indifferent personality rather than forcing them into the role of an enthusiastic thought leader."
+ }
+}

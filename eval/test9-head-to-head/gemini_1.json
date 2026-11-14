@@ -1,0 +1,62 @@
+{
+ "1": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 perfectly captures his blunt, teacher-like framing of 'running trials' and integrates his actual triggers without self-help fluff."
+ },
+ "2": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 deeply integrates her actual, specific experience with learning Welsh and her daughter, whereas Piece 2 is full of generic clich\u00e9s."
+ },
+ "3": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 respects her explicit instruction to avoid a pro/con structure and accurately incorporates her real migration story and review-time metrics."
+ },
+ "4": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 uses his authentic quitting history and scientific mindset, while Piece 2 relies on entirely generic, boilerplate self-help advice."
+ },
+ "5": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 grounds the advice in her actual shift-work reality and event-anchored success, entirely avoiding the 9-to-5 assumptions she criticizes."
+ },
+ "6": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 uses her genuine 700-day Welsh streak to make a compelling point, whereas Piece 2 is a highly generic AI-generated listicle."
+ },
+ "7": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 smartly expands on his specific thought about January 1 being an arbitrary date without fabricating a dramatic personal story he doesn't have."
+ },
+ "8": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 addresses her actual nursing schedule and event-anchoring method, while Piece 2 is generic and uses the word 'simply', which she explicitly dislikes."
+ },
+ "9": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 authentically reflects his quitting timeline and blunt 'experimental design' perspective, while Piece 1 is a standard self-help list."
+ },
+ "10": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 perfectly matches Jo's low-key, ambivalent stance and doesn't fabricate a dramatic engineering incident that never happened."
+ },
+ "11": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 frames the topic exactly as he views it\u2014as a series of experiments\u2014while Piece 1 relies on standard AI resolution tropes."
+ },
+ "12": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 faithfully includes her exact metrics and the dropped constraint story, completely avoiding the pro/con format she hates."
+ }
+}

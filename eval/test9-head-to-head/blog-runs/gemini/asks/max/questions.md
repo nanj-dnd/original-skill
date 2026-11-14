@@ -1,0 +1,4 @@
+1. **Tone:** What is the usual voice of your personal blog (e.g., empathetic and encouraging, humorous and self-deprecating, or tough-love and pragmatic)?
+2. **Core Focus:** Are there specific pitfalls you want to highlight, such as relying on motivation instead of systems, setting impossibly large goals, or lacking accountability?
+3. **The Pivot/Takeaway:** What alternative approach do you want to leave your readers with (e.g., building micro-habits, setting a yearly "theme," or practicing self-compassion when they slip up)?
+4. **Call to Action:** How should we wrap it up? Should I include a prompt for readers to comment, share their own experiences, or subscribe?

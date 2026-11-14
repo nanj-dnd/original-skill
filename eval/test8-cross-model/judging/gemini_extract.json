@@ -1,0 +1,266 @@
+{
+ "1": {
+  "main_claim": "AI shifts the engineering bottleneck from writing code to reviewing code, requiring strict guardrails like smaller PRs and absolute author ownership.",
+  "choices": [
+   "focuses on PR review bottleneck",
+   "proposes 400-line PR limit",
+   "frames AI as a tool that changes costs",
+   "addresses sales/ops as well as engineers"
+  ],
+  "quality": 5,
+  "quality_reason": "Outstanding corporate communication that anchors on a specific metric and delivers actionable, pragmatic rules."
+ },
+ "2": {
+  "main_claim": "AI tools are great for boilerplate but risky for business logic and architecture, so engineers must use their judgment based on the cost of failure.",
+  "choices": [
+   "divides use cases into 'yes' and 'it depends'",
+   "highlights cost of failure as the deciding metric",
+   "reframes the question away from a binary choice",
+   "written for a mixed company audience"
+  ],
+  "quality": 4,
+  "quality_reason": "A solid, balanced talk that clearly delineates where AI helps versus hurts, though less punchy than a narrative-driven approach."
+ },
+ "3": {
+  "main_claim": "AI should be the default for most code but explicitly avoided for sensitive areas, with the core rule that engineers must understand every line they merge.",
+  "choices": [
+   "sets 'default yes' and 'default no' zones",
+   "focuses on unowned code as the real risk",
+   "proposes three simple team norms",
+   "direct and conversational tone"
+  ],
+  "quality": 4,
+  "quality_reason": "Well-structured and time-aware, offering a clear framework and practical norms without being overly bureaucratic."
+ },
+ "4": {
+  "main_claim": "Over-reliance on AI coding assistants degrades junior engineers' debugging skills, making production incidents harder to resolve.",
+  "choices": [
+   "uses P2 incident metrics as a hook",
+   "makes an aviation autopilot analogy",
+   "proposes juniors debug without AI for 6 months",
+   "focuses entirely on operational resilience"
+  ],
+  "quality": 5,
+  "quality_reason": "Highly persuasive and focused on a single, compelling argument with a concrete, provocative policy proposal."
+ },
+ "5": {
+  "main_claim": "AI is great for repetitive coding tasks but cannot replace human judgment for system architecture and business logic.",
+  "choices": [
+   "uses 'exoskeleton vs architect' metaphor",
+   "lists specific good and bad use cases",
+   "establishes 'always the pilot' golden rule",
+   "standard balanced tech talk structure"
+  ],
+  "quality": 3,
+  "quality_reason": "Functional and hits the necessary points, but relies heavily on standard cliches without a unique hook."
+ },
+ "6": {
+  "main_claim": "The real issue isn't how much AI is used, but ensuring that code authors actually understand and own the code they submit.",
+  "choices": [
+   "dismisses the 'whether to use' debate",
+   "focuses on the danger of plausible but unread code",
+   "demands authors can explain every line",
+   "direct, slightly provocative tone"
+  ],
+  "quality": 5,
+  "quality_reason": "Excellent framing that completely cuts through the standard AI debate to focus purely on code ownership and review culture."
+ },
+ "7": {
+  "main_claim": "AI code looks confident and plausible, which makes it easy to skim in review and requires QA and reviewers to be extra vigilant.",
+  "choices": [
+   "told from a QA perspective",
+   "warns against plausible-looking AI code",
+   "shifts focus from writing to verification",
+   "suggests opening a discussion on review norms"
+  ],
+  "quality": 4,
+  "quality_reason": "The QA perspective provides a refreshing and relevant angle, making a strong point about the hidden costs of verification."
+ },
+ "8": {
+  "main_claim": "Using AI to write code is fine, but engineers must build manual debugging skills to handle late-night incidents when AI fails.",
+  "choices": [
+   "opens with a relatable 2am outage story",
+   "uses the autopilot analogy",
+   "proposes 6 months manual debugging for juniors",
+   "directly addresses engineering managers"
+  ],
+  "quality": 5,
+  "quality_reason": "Story-driven, highly engaging, and lands on a very specific, actionable recommendation that addresses a real operational pain point."
+ },
+ "9": {
+  "main_claim": "AI tools are excellent for typing tasks but dangerous for decision-making tasks, requiring engineers to verify output strictly.",
+  "choices": [
+   "separates 'typing' from 'deciding'",
+   "warns against confident wrongness",
+   "proposes owning every merged line",
+   "focuses on skill atrophy"
+  ],
+  "quality": 4,
+  "quality_reason": "A thoughtful and well-articulated breakdown of typing vs. deciding, though slightly abstract in its final recommendation."
+ },
+ "10": {
+  "main_claim": "AI has made writing code cheaper but reviewing code much more expensive, necessitating strict rules on code ownership and PR sizes.",
+  "choices": [
+   "opens with a specific database migration incident",
+   "highlights the spike in review time for seniors",
+   "enforces a 400-line PR limit",
+   "speaks to cross-functional impact"
+  ],
+  "quality": 5,
+  "quality_reason": "Exceptional use of a concrete anecdote to drive a systemic point, ending with highly actionable, clear engineering policies."
+ },
+ "11": {
+  "main_claim": "Because AI generates code so quickly, the burden of work has shifted to reviewers, requiring a new rule that authors must fully understand what they merge.",
+  "choices": [
+   "uses August migration story",
+   "highlights senior engineer review burden",
+   "proposes 3-part rule including PR size limits",
+   "frames the issue as unaccountable output"
+  ],
+  "quality": 5,
+  "quality_reason": "Practically identical in strength and structure to Item 10, delivering a compelling narrative and clear, enforceable guardrails."
+ },
+ "12": {
+  "main_claim": "AI assistants degrade our ability to debug under pressure, meaning we must deliberately practice manual debugging to maintain operational readiness.",
+  "choices": [
+   "opens with a 2am P2 incident story",
+   "separates writing code from debugging",
+   "uses an aviation autopilot analogy",
+   "proposes manual debugging for juniors"
+  ],
+  "quality": 5,
+  "quality_reason": "A masterful presentation outline that uses data and a strong analogy to pitch a highly specific, cultural change."
+ },
+ "13": {
+  "main_claim": "The speed of AI code generation is drowning senior engineers in review work, requiring absolute author ownership and strict limits on PR size.",
+  "choices": [
+   "opens with a database mismatch incident",
+   "focuses on the hidden tax on senior engineers",
+   "institutes a 400-line PR limit",
+   "demands absolute author ownership"
+  ],
+  "quality": 4,
+  "quality_reason": "Very strong and actionable, though slightly more repetitive in its phrasing compared to the best versions of this specific narrative."
+ },
+ "14": {
+  "main_claim": "AI assistants are eroding developers' manual debugging skills, leading to longer incident resolution times.",
+  "choices": [
+   "cites rising P2 resolution times",
+   "uses the 2am outage story",
+   "employs the pilot stick-and-rudder analogy",
+   "mandates manual debugging for new hires"
+  ],
+  "quality": 3,
+  "quality_reason": "The content is good, but the formatting is a bit sloppy and the opening paragraph is very dry compared to others."
+ },
+ "15": {
+  "main_claim": "Using AI to endlessly generate tests creates massive technical debt and slows down CI/CD pipelines, requiring humans to focus on architecture over volume.",
+  "choices": [
+   "focuses on test suite bloat as the core example",
+   "warns against treating volume as quality",
+   "requires humans to prune and maintain AI code",
+   "proposes an aggressive pruning initiative"
+  ],
+  "quality": 4,
+  "quality_reason": "A very specific and highly relevant angle that highlights a real-world consequence of AI over-use, making it practical and grounded."
+ },
+ "16": {
+  "main_claim": "AI is an accelerator for mundane tasks but a dangerous substitute for architectural thought, requiring zero-trust code reviews.",
+  "choices": [
+   "uses 'green zone' and 'danger zone' framing",
+   "warns about the 'confident but wrong' trap",
+   "demands zero-trust code review",
+   "reminds about data security"
+  ],
+  "quality": 3,
+  "quality_reason": "Usable and covers all the standard bases, but feels like a generic corporate AI policy memo rather than a memorable all-hands talk."
+ },
+ "17": {
+  "main_claim": "AI assistants are like power tools\u2014great for heavy lifting but dangerous without expertise and careful review.",
+  "choices": [
+   "uses a power saw analogy",
+   "addresses the 'elephant in the chat room'",
+   "highlights the 'confident liar' problem",
+   "suggests creating an official sandbox"
+  ],
+  "quality": 3,
+  "quality_reason": "A bit colloquial and leans heavily on analogies, making it accessible but slightly less sharp for an engineering-focused point."
+ },
+ "18": {
+  "main_claim": "AI is an excellent junior pair programmer for tedious tasks but cannot be trusted with system architecture, security, or business logic.",
+  "choices": [
+   "uses the 'enthusiastic junior developer' analogy",
+   "divides into 'Yes', 'No', and 'Red Lines'",
+   "emphasizes context blindness",
+   "reinforces the author's ultimate accountability"
+  ],
+  "quality": 3,
+  "quality_reason": "Solid and comprehensive, but uses the very common 'eager junior developer' analogy without adding much new insight."
+ },
+ "19": {
+  "main_claim": "AI assistants are great at writing code but terrible at knowing when to stop, leading to bloated shared infrastructure like test suites.",
+  "choices": [
+   "uses test suite growth as the hook",
+   "identifies the cost of accruing shared infrastructure",
+   "shifts review focus to 'would I have typed this'",
+   "asks PMs and engineers to audit tests"
+  ],
+  "quality": 5,
+  "quality_reason": "An incredibly sharp, novel insight (AI has no stake in carrying costs) backed by a plausible, highly specific metric."
+ },
+ "20": {
+  "main_claim": "AI should be used aggressively for typing tasks and cautiously for thinking tasks, with the engineer taking full accountability for the final merge.",
+  "choices": [
+   "separates 'typing' from 'thinking'",
+   "warns of skill atrophy",
+   "proposes 'AI writes draft, human owns merge'",
+   "encourages reading diffs like real reviews"
+  ],
+  "quality": 4,
+  "quality_reason": "Very well-written and tight. The typing vs. thinking dichotomy is a strong, easily communicable framework for a 5-minute talk."
+ },
+ "21": {
+  "main_claim": "AI is a fast but context-blind tool that excels at boilerplate but requires strict human oversight for security and architecture.",
+  "choices": [
+   "dispels the 'AI replacing engineers' myth",
+   "separates sweet spots from danger zones",
+   "highlights the hallucination tax",
+   "establishes a golden rule of ownership"
+  ],
+  "quality": 3,
+  "quality_reason": "Covers the necessary ground efficiently, but the opening is a bit clich\u00e9 and it doesn't offer any particularly novel policies."
+ },
+ "22": {
+  "main_claim": "AI is a great co-pilot but a terrible auto-pilot, meaning humans must retain control over complex logic and system design.",
+  "choices": [
+   "uses the co-pilot vs auto-pilot analogy",
+   "categorizes into green light and red light zones",
+   "warns of the illusion of competence",
+   "proposes reviewing AI like a junior dev"
+  ],
+  "quality": 3,
+  "quality_reason": "Functional and clear, but heavily reliant on standard metaphors that have been overused in this space."
+ },
+ "23": {
+  "main_claim": "While AI is great for skipping boring typing, engineers must remain engaged and accountable to avoid merging subtle bugs into production.",
+  "choices": [
+   "casual, conversational tone",
+   "highlights the 'Confidence Illusion'",
+   "emphasizes PR ownership",
+   "very brief, high-level outline"
+  ],
+  "quality": 3,
+  "quality_reason": "Very casual and a bit thin on actionable specifics, but definitely usable for a low-stakes, informal team update."
+ },
+ "24": {
+  "main_claim": "We should delegate routine typing to AI but fiercely protect tasks that require judgment or build our engineering skills.",
+  "choices": [
+   "opens with a story of a fast, flawed PR approval",
+   "lists areas where AI wins vs breaks down",
+   "proposes a three-question check before delegating",
+   "warns against verification debt and skill atrophy"
+  ],
+  "quality": 5,
+  "quality_reason": "Excellent opening hook, introduces a memorable concept, and provides a highly practical three-question framework for the audience."
+ }
+}

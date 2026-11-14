@@ -1,0 +1,62 @@
+{
+ "1": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 keeps his attempts-not-outcomes framing in his blunt teacher's voice, with no self-help tone. Piece 2's 'Stop Whining' title, stats-heavy preaching and swapping 'driving' for 'commute' fit him worse."
+ },
+ "2": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 is built on her real Welsh streak with her daughter and lands a fresh 'find a witness' point. Piece 2 invents a gym story and gives stock micro-habit advice."
+ },
+ "3": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 uses her real August migration, her numbers and her three-part rule, and translates it for non-engineers. Piece 2 is the pro/con talk she hates, opening on an invented incident."
+ },
+ "4": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 tells his own smoking story and reframe. Piece 2 is generic listicle self-help with the 'grace' fluff he hates."
+ },
+ "5": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Both use her event-anchoring story, but Piece 1 is tighter, wryer and more nurse-specific ('badge out, go', 'handover doesn't move')."
+ },
+ "6": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 turns her one resolution that worked into a distinctive argument. Piece 2 is a standard listicle."
+ },
+ "7": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 develops Max's hunch that January 1 is a weird start date into an original essay. Piece 2 is the samey advice Max finds tired."
+ },
+ "8": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 uses her shift-work insight and 14-month habit. Piece 2 is generic, ignores shift workers and even uses 'simply'."
+ },
+ "9": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 is his own story and his attempts-counting frame. Piece 1 is generic self-help with grace language."
+ },
+ "10": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 matches Jo's mild 'Copilot is fine' stance and gives a clear, usable ownership norm. Piece 2 is clich\u00e9-laden generic sweet-spots/danger-zones content."
+ },
+ "11": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 carries his personal smoking evidence and reframe. Piece 1 is a generic listicle."
+ },
+ "12": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 uses her real incident, review-hour numbers and proposed rule, framed for a mixed audience. Piece 1 is the pro/con talk she rejects, with a fabricated story."
+ }
+}

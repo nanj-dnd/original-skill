@@ -1,0 +1,62 @@
+{
+  "talk": {
+    "plain": {
+      "within": 2.3333333333333335,
+      "distinct": 1,
+      "to_plain": 2.3333333333333335,
+      "fit": 0.5,
+      "quality": 4
+    },
+    "plain_ctx": {
+      "within": 0,
+      "distinct": 4,
+      "to_plain": 0.75,
+      "fit": 1.0,
+      "quality": 4.5
+    },
+    "plain_asks": {
+      "within": 0.16666666666666666,
+      "distinct": 4,
+      "to_plain": 0.75,
+      "fit": 1.0,
+      "quality": 4.5
+    },
+    "v2": {
+      "within": 0,
+      "distinct": 4,
+      "to_plain": 0.75,
+      "fit": 1.0,
+      "quality": 4.25
+    }
+  },
+  "resolutions": {
+    "plain": {
+      "within": 3,
+      "distinct": 1,
+      "to_plain": 3,
+      "fit": 0.75,
+      "quality": 4
+    },
+    "plain_ctx": {
+      "within": 0,
+      "distinct": 4,
+      "to_plain": 0.5,
+      "fit": 1.0,
+      "quality": 4.25
+    },
+    "plain_asks": {
+      "within": 0,
+      "distinct": 4,
+      "to_plain": 0.5,
+      "fit": 1.0,
+      "quality": 4
+    },
+    "v2": {
+      "within": 0,
+      "distinct": 4,
+      "to_plain": 0.5,
+      "fit": 1.0,
+      "quality": 4.25
+    }
+  }
+}

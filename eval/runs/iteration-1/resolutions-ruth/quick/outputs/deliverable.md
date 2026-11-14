@@ -1,0 +1,19 @@
+# Your Resolution Didn't Fail. It Finished Early.
+
+Every January the same autopsy gets run on our resolutions: we aimed too high, we ran out of willpower, we should have started smaller. I think that misses what actually happens in the first two weeks.
+
+Look at what a resolution gives you on January 2nd. You haven't lost any weight, written any chapters or saved any money yet. What you have got, right away, is a feeling: that you're now someone who runs, who reads before bed, who has their life in order. The new shoes, the clean notebook, the app with its perfect streak all pay out on day one.
+
+That feeling is the real prize, and it comes first. The results you said you wanted, like the lost pounds, the finished draft or the savings balance, are months away and arrive in steps too small to notice. So for a couple of weeks you're living on the good part. Then the novelty wears off. Being "a runner" isn't new anymore, and the running is left doing a job that nothing pays for. Skipping one morning doesn't feel like failure. It feels like the thing has quietly ended, and in a sense it has.
+
+That's why the usual fixes don't do much. A smaller goal still hands you the reward up front. More willpower just makes the honeymoon last a bit longer. Neither one deals with the gap between the feeling arriving and the results arriving.
+
+What helps is treating the third week of January as the real starting line rather than the point where you failed. Expect the moment when the resolution stops feeling like a new you and starts feeling like a chore. That isn't the resolution breaking. It's the resolution becoming ordinary, and ordinary is the only form a habit ever lasts in.
+
+A few things make that moment easier:
+
+- **Name it when it comes.** "This is the boring part" is a more useful sentence than "I've lost my motivation."
+- **Find a reward that lives in the doing.** The walk that clears your head, or the chapter you actually enjoyed, will still be there in March. The new-identity glow won't.
+- **Decide now what week three looks like.** Before you start, write down what you'll do on the first day you don't feel like it.
+
+So if last year's resolution faded by February, it probably did exactly what you hired it to do: it made you feel new for a while. This year, plan for what comes after that feeling, because that's where the resolution actually starts.

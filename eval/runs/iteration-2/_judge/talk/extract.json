@@ -1,0 +1,74 @@
+{
+  "149": {
+    "main_claim": "Keep using AI to write code, but debugging skills are eroding, so junior engineers should debug without assistants for their first six months.",
+    "choices": ["2am outage with four confident wrong fixes as the opening story", "P2 resolution time rising from 38 to 61 minutes as evidence", "writing vs debugging distinction (plausible answers vs one true cause)", "aviation autopilot / FAA manual-flying parallel", "timed five-section outline with asks to managers and engineers"],
+    "quality": 5,
+    "quality_reason": "Tight, concrete, well-argued talk with a clear ask and a flagged fact to verify."
+  },
+  "159": {
+    "main_claim": "Where to use AI is each engineer's call, but no customer data or production logs may ever go into any external tool.",
+    "choices": ["answer 'no' up front then name one non-negotiable exception", "speed-vs-quality judgment kept short and unprescriptive", "concrete list of what counts as customer data or logs", "invite compliance in the room to confirm the rule", "pre-Friday notes to verify policy wording and contacts"],
+    "quality": 4,
+    "quality_reason": "Clear, repeatable, well-structured; narrow focus on data rule but fits the stated framing."
+  },
+  "174": {
+    "main_claim": "AI is fine for writing code, but we are losing the skill of debugging, so juniors should debug without assistants for six months.",
+    "choices": ["2am outage opening with four confident fixes", "speaker credibility as staff engineer running incident reviews", "P2 time-to-resolve rising 38 to 61 minutes", "autopilot / hand-flying metaphor", "anticipates 'what about the rest of us' objection"],
+    "quality": 4,
+    "quality_reason": "Strong and coherent, though it references an unexplained 'route.md' file."
+  },
+  "196": {
+    "main_claim": "Use AI as much as you like, but the author must own and be able to explain every line merged, because the cost of unexplained code falls on reviewers and the business.",
+    "choices": ["August migration that dropped a NOT NULL and cost three weeks", "review-load numbers: PRs up 60%, senior review from 4 to 11 hours/week", "explicit address to sales, ops and compliance half of the room", "rule: if you merge it, you can explain it", "separate asks for engineers, leadership and everyone else"],
+    "quality": 5,
+    "quality_reason": "Specific, well-tailored to a mixed audience, with correct arithmetic and flagged assumptions."
+  },
+  "254": {
+    "main_claim": "AI already writes our code; the real work is now deciding what's correct via specs and tests, and non-engineers can help by supplying weird customer cases.",
+    "choices": ["opening room vote on a Tokyo time-zone standup dilemma", "calendar sync story: 140 tests, built in a day, done in seven", "'built vs done' framing aimed at sales", "ask: one weird customer case a week from non-engineers", "callback close to the vote"],
+    "quality": 4,
+    "quality_reason": "Memorable and well-structured, though it sidesteps the 'should we' question somewhat."
+  },
+  "431": {
+    "main_claim": "Use AI coding assistants for almost everything, but engineers remain fully responsible for what they ship.",
+    "choices": ["show-of-hands opening about accepting unread suggestions", "benefits list then risks list (wrong code, security, atrophy, review load)", "rule: you ship it, you own it, never merge what you can't explain", "placeholders for team story and company policy", "delivery notes on balance and trimming"],
+    "quality": 4,
+    "quality_reason": "Balanced, complete and usable, but generic and needs the user to supply specifics."
+  },
+  "474": {
+    "main_claim": "The question isn't whether to use AI for everything but where; hand off work that is cheap to verify and own every line you ship.",
+    "choices": ["two-step show of hands revealing the 'can you explain it' gap", "where it helps vs where it breaks down, each with a common thread", "three-question test: verify, explain, fix at 2am", "pick-two team practices list", "'delegate the typing, not the thinking' close"],
+    "quality": 4,
+    "quality_reason": "Clean, practical framework with a good hook; somewhat generic."
+  },
+  "504": {
+    "main_claim": "Engineers here already use AI for everything; the code is now cheap and the real work is defining correctness, which explains why 'it took a day' features ship in a week.",
+    "choices": ["reframes question as already settled", "calendar sync: 140 passing tests, one day of code, six more days", "explains to non-engineers why estimates look strange", "placeholder for a plain-language bug example", "'which day?' closing line"],
+    "quality": 4,
+    "quality_reason": "Crisp and coherent with a strong hook, though thinner and leaves key example to the user."
+  },
+  "648": {
+    "main_claim": "Using AI is fine, but the author must own every line, as shown by a blameless postmortem of an AI-written migration that cost three weeks.",
+    "choices": ["talk framed as a blameless postmortem format", "August NOT NULL migration and three-week reconciliation hunt", "review cost analysis: PR volume up 60%, review hours 4 to 11 per senior", "three action items including splitting PRs over 400 lines", "speaks to non-engineering impact on ops and compliance"],
+    "quality": 5,
+    "quality_reason": "Inventive yet clear structure, accurate numbers, concrete actionable rules."
+  },
+  "696": {
+    "main_claim": "Which tasks to give AI is your judgment, but what you put into it is a fixed rule: no customer data or production logs in any external tool.",
+    "choices": ["splits the question into 'for everything' vs 'with everything'", "synthetic log line on screen showing hidden customer data", "covers IDE plugins, extensions and personal accounts", "alternatives: redaction or synthetic repro, plus approved-tool placeholder", "audience of engineers plus risk and compliance"],
+    "quality": 5,
+    "quality_reason": "Sharp framing and a vivid, practical demo that makes the rule stick."
+  },
+  "766": {
+    "main_claim": "Use AI for almost everything except the accountability part: if you ship it, you own it.",
+    "choices": ["show-of-hands opening", "list of good uses and failure modes including design decisions", "three questions before accepting AI output", "ask to share one win and one failure this month", "delivery notes and slide suggestion"],
+    "quality": 4,
+    "quality_reason": "Thorough, balanced and usable, but a generic take needing team examples."
+  },
+  "940": {
+    "main_claim": "Use AI for almost everything, delegating the typing but keeping understanding, judgment and accountability.",
+    "choices": ["show of hands about accepting unread suggestions", "good uses vs three risks (wrong answers, atrophy, ownership)", "rule: delegate the typing, not the understanding, with three habits", "ask: flag one AI-assisted change in your next PR", "per-section word counts and remote-audience note"],
+    "quality": 4,
+    "quality_reason": "Well-paced and coherent, solid but generic."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "138": {
+    "main_claim": "Don't use AI assistants for everything, but use them more for routine work, review everything they produce, and never put customer data or production logs into them.",
+    "choices": ["boilerplate, tests and unfamiliar APIs as the good uses", "'faster, not better' as the main caveat", "a serious one-minute section on the compliance rule against pasting customer data or prod logs", "five slides with timings and prep notes on checking the policy wording", "light, self-deprecating opening from a backend dev"],
+    "quality": 4,
+    "quality_reason": "Clear, well-timed and practical, with a strong tone shift for the compliance rule; the opening joke is a little corny."
+  },
+  "149": {
+    "main_claim": "Use AI assistants for almost everything except the accountability: if you ship it, you own it.",
+    "choices": ["show-of-hands opening", "list of good uses vs where 'everything' breaks down (understanding, review burden, skill building, design)", "three questions to ask before accepting AI output", "ask the room to share one win and one failure in a team channel", "even-handed tone for a mixed room of enthusiasts and skeptics"],
+    "quality": 4,
+    "quality_reason": "Balanced, well-structured and usable as is, though fairly generic."
+  },
+  "159": {
+    "main_claim": "Whether the AI wrote the code doesn't matter; what matters is whether someone can explain it, because unexplained AI code is costing the company.",
+    "choices": ["opens with an August migration that dropped a NOT NULL constraint and took three weeks to trace", "PR volume up 60% and senior review time up from 4 to 11 hours a week", "speaks directly to sales, ops and compliance", "rule: if you merge it, you can explain it", "a separate ask for engineers, leadership and everyone else"],
+    "quality": 5,
+    "quality_reason": "Concrete, story-driven and tightly argued, with useful notes on which details to check."
+  },
+  "174": {
+    "main_claim": "The real risk of AI assistants is that engineers are losing their debugging skill, so juniors should debug without them for their first six months.",
+    "choices": ["2am outage where the assistant gave four confident wrong fixes", "P2 median time to resolve up from 38 to 61 minutes", "autopilot and manual-flying analogy", "concrete ask to engineering managers with what it is and isn't", "speaker is a staff engineer who runs incident reviews"],
+    "quality": 5,
+    "quality_reason": "Vivid, honest about its evidence, and ends with a specific, actionable ask."
+  },
+  "188": {
+    "main_claim": "Where to use AI assistants is each engineer's call, with one firm exception: no customer data or production logs in any external tool.",
+    "choices": ["deliberately unprescriptive about which tasks to use AI for", "test: if reviewing takes longer than writing would, it didn't save time", "concrete list of what counts as customer data or logs", "rule repeated three times; compliance staff invited to confirm it", "notes on whether the approved assistant counts as external"],
+    "quality": 4,
+    "quality_reason": "Focused and practical with a well-built compliance message; the structure is a bit sparse and the opening comes last."
+  },
+  "196": {
+    "main_claim": "Use AI for almost everything, but delegate the typing, not the understanding, judgment or accountability.",
+    "choices": ["show-of-hands opening about accepting suggestions you didn't fully read", "three risks: confident wrong answers, skill atrophy, ownership and data risk", "slogan 'Delegate the typing, not the understanding' with three habits", "ask to flag one AI-assisted change in your next PR", "word counts for each section and a note for remote audiences"],
+    "quality": 4,
+    "quality_reason": "Polished, balanced and ready to use; conventional content."
+  },
+  "254": {
+    "main_claim": "Engineers already use AI for nearly everything, so code is now cheap and the real work is in specs and tests.",
+    "choices": ["calendar sync built in one day but shipped six days later", "AI as a fast, literal contractor analogy", "140 tests passed but the recurring-events time-zone case was missed", "aimed mainly at non-engineers, with advice on estimates and sending in edge cases", "'test 141' callback and memorable closing lines"],
+    "quality": 5,
+    "quality_reason": "Engaging story with a clear point, pitched well for a non-engineering audience."
+  },
+  "319": {
+    "main_claim": "Use your judgment on where AI assistants help, but one hard line is not optional: no customer data or production logs in any external tool.",
+    "choices": ["measure time to merged and stable code, not time to first draft", "where it pays off vs where review load and subtle bugs cost more", "full minute on the data rule with why it happens and what to do instead", "rule repeated in the same words three times", "audience of about 80 engineers plus risk and compliance staff"],
+    "quality": 4,
+    "quality_reason": "Thorough and well organized, with sensible placeholders for compliance details; a bit dense."
+  },
+  "431": {
+    "main_claim": "Use AI coding assistants for almost everything, but don't trust them with responsibility: the engineer still owns the code.",
+    "choices": ["show of hands about accepting unread suggestions", "case for leaning in: drudgery, prototyping, explaining code", "risks: confident errors, security, skill atrophy, review bottleneck, high-stakes areas", "rule 'You ship it, you own it' with scrutiny scaled to the stakes", "balanced framing with placeholders for a team example and policy"],
+    "quality": 4,
+    "quality_reason": "Comprehensive and well balanced; generic and a bit packed for five minutes."
+  },
+  "474": {
+    "main_claim": "The real question is who owns AI-written code when it breaks, and the answer is the person whose name is on the change.",
+    "choices": ["August migration that silently removed a rule and took three weeks to find", "jargon explained for the non-engineering half of the room", "PRs up 60%, senior review time from 4 to 11 hours", "what sales, ops and compliance can expect and ask of engineering", "process fixes: explain before merge, stricter review for data changes, spread review load"],
+    "quality": 4,
+    "quality_reason": "Clear, story-led and accessible to a mixed audience; somewhat repetitive across sections."
+  },
+  "504": {
+    "main_claim": "With AI agents writing the code, coding is the cheap part and the expensive part is getting the spec and tests right.",
+    "choices": ["calendar sync done in a day, six more days to ship", "builder-following-the-blueprint analogy", "140 passing tests that missed recurring events across time zones", "slide suggestions for each section", "ask for sales and support to bring in odd customer cases"],
+    "quality": 4,
+    "quality_reason": "Tight and clear with good slide cues; opening paragraph is short and a bit flat."
+  },
+  "619": {
+    "main_claim": "The skill is knowing which work to hand to AI and which to keep, and you own every line you ship either way.",
+    "choices": ["show of hands revealing the gap between using AI and being able to explain its output", "dividing line: cheap-to-check work vs work that is hard to verify", "three questions: can I verify it, explain it, fix it at 2 a.m.", "team practices to pick from (same review bar, disclose AI help)", "slogan 'Delegate the typing, not the thinking'"],
+    "quality": 4,
+    "quality_reason": "Well structured with a useful verify/explain/fix test; fairly standard take."
+  },
+  "648": {
+    "main_claim": "AI is fine for writing code, but engineers are losing the skill of debugging, so juniors should debug without it for six months.",
+    "choices": ["2am outage with four confident wrong fixes from the assistant", "P2 resolve time up from 38 to 61 minutes", "autopilot and hand-flying analogy", "ask aimed at managers, with prep on ownership and start date", "answers 'what about the rest of us?'"],
+    "quality": 4,
+    "quality_reason": "Strong and specific, but includes a stray reference to a 'route.md' file and some meta notes."
+  },
+  "696": {
+    "main_claim": "AI made code cheap to write but moved the cost onto review, so every line needs an owner and the team should adopt explicit ownership rules.",
+    "choices": ["opens with 60% more code and senior review time from 4 to 11 hours", "August NOT NULL migration incident told without blame", "fintech framing for ops, compliance and sales", "three-part proposal including a 400-line PR limit", "four slides with an honest note on the trade-off"],
+    "quality": 5,
+    "quality_reason": "Specific, persuasive and actionable, with good audience targeting and slides."
+  },
+  "766": {
+    "main_claim": "Engineers already use AI for everything, so the interesting part is that writing code now takes a day while deciding what 'correct' means takes the rest of the week.",
+    "choices": ["calendar sync: code took one day, feature took seven", "140 green tests still missed the time-zone case", "explains to non-engineers what 'it took a day' really means", "placeholders for a real bug example and the sales/support angle", "closing line 'which day?'"],
+    "quality": 4,
+    "quality_reason": "Clean and engaging, though thinner than others and leaves key examples as placeholders."
+  },
+  "940": {
+    "main_claim": "AI is great for writing code, but debugging is a skill you keep only by practicing, so juniors should build it before handing it off.",
+    "choices": ["2am outage with four confident wrong fixes found in ten minutes from the log", "P2 time to resolve from 38 to 61 minutes, with the caveat stated up front", "autopilot analogy and stack trace as 'black box recorder'", "practical steps for onboarding, on-call shadowing and incident review", "pitched to managers as agreement, not a mandated policy"],
+    "quality": 5,
+    "quality_reason": "Well argued with honest caveats and concrete, adoptable practices."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "291": {
+    "main_claim": "The 'most resolutions fail' statistic confuses failed attempts with failed outcomes; failed attempts are normal and useful if you learn from them and change the next one.",
+    "choices": ["first-person story of quitting smoking on the fourth try", "triggers learned from each failed attempt (wedding, coffee, driving, brother)", "cites Chaiton et al. 2016 BMJ Open on number of quit attempts", "warns that repeating the same attempt is not learning", "closing address to readers after a relapse"],
+    "quality": 4,
+    "quality_reason": "Coherent, personal, accurate citation; strong argument, though only loosely tied to resolutions generally."
+  },
+  "317": {
+    "main_claim": "Most resolutions fail because they rely on daily willpower; the ones that work are set up once and then run automatically.",
+    "choices": ["author's spreadsheet of 11 resolutions, 2 kept", "auto-savings transfer and doorway pull-up bar as successes", "cites Madrian and Shea 401(k) auto-enrollment and DellaVigna-Malmendier gym study", "one-question test plus bulleted money and fitness fixes"],
+    "quality": 5,
+    "quality_reason": "Clear, well-structured, accurate research, practical advice, right length."
+  },
+  "362": {
+    "main_claim": "Resolution failure stats count broken attempts as failures, but failed attempts are normal and the best information about what derails you.",
+    "choices": ["questions the 80% statistic's sourcing", "personal story of quitting smoking in four tries", "triggers learned from relapses", "rejects the standard tip-list approach", "addresses readers 'on the forum' after relapse"],
+    "quality": 4,
+    "quality_reason": "Strong and coherent, but the 'forum' reference is a slightly odd fit for a personal blog."
+  },
+  "414": {
+    "main_claim": "Resolutions fail not from lack of willpower but because they are vague, too big, fight existing routines, collapse after one slip, and start on an arbitrary date.",
+    "choices": ["gym crowd in January as opener", "five bolded reasons for failure", "habit stacking example (push-ups after brushing teeth)", "advice: one small thing, plan for misses, start whenever", "general audience"],
+    "quality": 4,
+    "quality_reason": "Clean, accurate, readable listicle; conventional but fully usable."
+  },
+  "429": {
+    "main_claim": "Many resolutions fail because standard advice assumes a fixed 9-to-5 schedule; people with shifting schedules should tie habits to events, not clock times.",
+    "choices": ["personal story of 6am gym failing due to rotating night shifts", "new rule: gym after any shift ends, kept 14 months", "if-then plans explained", "four bolded tips for irregular schedules", "written for shift workers and new parents"],
+    "quality": 4,
+    "quality_reason": "Coherent, specific, practical; narrower audience than the request implies but well executed."
+  },
+  "480": {
+    "main_claim": "Resolutions fail because promises to ourselves are easy to break; tying a goal to another person you won't let down makes it stick.",
+    "choices": ["older narrator's yearly 'walk more' resolution failing", "walking daily with neighbour Joan after her hip surgery", "critique of productivity advice aimed at younger people", "advice: tie it to a person, not a plan", "written for older readers"],
+    "quality": 4,
+    "quality_reason": "Warm, coherent, distinctive voice; persuasive though light on general explanation."
+  },
+  "548": {
+    "main_claim": "Resolutions often fail because the methods assume a stable 9-to-5 week; shift workers should anchor habits to events rather than times.",
+    "choices": ["personal 6am gym resolution broken by rotating shifts", "rule: gym after any shift ends, 14 months kept", "four bolded tips (event not clock, worst-stretch sizing, adapt to rotation)", "written for shift workers, warehouse staff, new parents"],
+    "quality": 4,
+    "quality_reason": "Clear and practical with a strong personal hook; a couple of slightly awkward lines."
+  },
+  "575": {
+    "main_claim": "Resolutions fail because promises made only to ourselves are easy to break; make your promise to someone else instead.",
+    "choices": ["years of failed 'walk more' resolutions", "walking with neighbour Joan after hip surgery, garden centre laps", "contrast with never missing accounting deadlines", "suggests promising to a neighbour, friend, or church acquaintance", "written for older readers"],
+    "quality": 4,
+    "quality_reason": "Charming, coherent, well-supported by the accounting contrast; the main argument is clear."
+  },
+  "587": {
+    "main_claim": "Resolutions fail because of how they are set up (outcome goals, too much at once, all-or-nothing thinking, arbitrary timing, no real 'why'), not lack of willpower.",
+    "choices": ["dusty running shoes opener", "five bolded 'we' reasons", "four-of-seven days beats three-week perfect streak", "advice: smaller promises, habit stacking, restart without drama, start any time", "general audience"],
+    "quality": 4,
+    "quality_reason": "Polished, accurate, standard advice; usable as-is."
+  },
+  "620": {
+    "main_claim": "Resolutions fail when they require a fresh decision every day; pick ones you can set up once so defaults do the work.",
+    "choices": ["three-year spreadsheet, 2 of 11 kept", "auto-savings transfer and pull-up bar instead of gym", "sections: the nine that failed / the two that stuck", "five-step numbered checklist for choosing resolutions"],
+    "quality": 4,
+    "quality_reason": "Clear and well organized with useful checklist; no supporting evidence beyond personal data."
+  },
+  "657": {
+    "main_claim": "Resolutions fail because of how they are built (vague wishes, too many changes, one slip ending everything, outcome focus), not because people are lazy.",
+    "choices": ["January gym and journal opener", "headed sections for each reason", "'what-the-hell effect' and identity-based habits", "advice: one small habit attached to an existing routine, start any day", "general audience"],
+    "quality": 4,
+    "quality_reason": "Coherent, accurate, friendly; conventional but solid."
+  },
+  "713": {
+    "main_claim": "Resolutions fail when nobody else is counting on us; tying a goal to another person makes it last.",
+    "choices": ["failed 'walk more' resolutions every January", "walking with neighbour Joan after hip surgery", "rejects tip lists and productivity framing aimed at the young", "advice: look for a person, not a system", "written for older readers"],
+    "quality": 4,
+    "quality_reason": "Warm, well-paced, coherent; clear single takeaway."
+  },
+  "747": {
+    "main_claim": "Resolutions fail because they are vague, too ambitious, tied to an arbitrary date, derailed by all-or-nothing thinking, and focused on outcomes instead of systems.",
+    "choices": ["empty gym and abandoned journal opener", "five bolded reasons", "systems vs outcomes contrast", "bulleted fixes: one thing, tiny habit, attach to routine, never skip twice", "general audience"],
+    "quality": 4,
+    "quality_reason": "Clean, accurate, practical; typical listicle that does the job well."
+  },
+  "811": {
+    "main_claim": "Resolutions that need a daily decision tend to fail; turn each one into a single setup action because automation beats willpower.",
+    "choices": ["spreadsheet of 11 resolutions, 2 kept", "cites Norcross and Vangarelli 1989 and Madrian and Shea 2001", "auto-savings transfer and doorway pull-up bar", "bulleted conversions of goals into setup actions, finance-heavy"],
+    "quality": 5,
+    "quality_reason": "Tight, accurate citations, honest caveats, actionable advice, ideal length."
+  },
+  "910": {
+    "main_claim": "Resolution advice is written for 9-to-5 schedules, so shift workers fail; anchor habits to events that always happen instead of clock times.",
+    "choices": ["6am gym resolution broken by rotating night shifts", "gym after every shift, kept 14 months", "if-then plans backed by research", "bulleted anchors (end of shift, first meal, drive home, before sleep)", "written for nurses, warehouse workers, new parents"],
+    "quality": 4,
+    "quality_reason": "Energetic, coherent, practical; slightly over length and narrow audience."
+  },
+  "928": {
+    "main_claim": "The claim that most resolutions fail confuses attempts with outcomes; treat each failed attempt as an experiment and plan the next one around what broke it.",
+    "choices": ["chemistry-teacher narrator", "quitting smoking on fourth attempt, wedding relapse", "cites 2016 Canadian study on number of quit attempts", "lab-experiment analogy", "method: record specifics of each failure and plan around them"],
+    "quality": 4,
+    "quality_reason": "Coherent and persuasive; the 'around thirty attempts' average slightly oversimplifies the study's range."
+  }
+}

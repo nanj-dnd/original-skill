@@ -1,0 +1,1 @@
+1a 2: it's not a company all-hands, it's our tech division, about 80 people. Mostly engineers, plus a few risk/compliance folks. 3a 4: nothing big, but people keep almost pasting customer data or prod logs into these tools, which compliance forbids. 5b: I want about a minute that says clearly "here is the line": no customer data, no production logs, in any external tool.

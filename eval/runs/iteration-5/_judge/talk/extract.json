@@ -1,0 +1,50 @@
+{
+  "149": {
+    "main_claim": "Using AI for everything is the wrong goal; engineers should hand off work that is cheap to verify, keep the hard-to-verify parts, and own every line they ship.",
+    "choices": ["show-of-hands opening that exposes the explain-every-line gap", "where it earns its keep vs. where 'everything' breaks down", "rule of thumb 'delegate the typing, not the thinking' with three merge questions", "menu of team norms (same review bar, flag AI help in PRs, juniors write hard parts)", "timed six-section outline for a general engineering audience"],
+    "quality": 4,
+    "quality_reason": "Polished, well-timed and easy to deliver; balanced and accurate, though fairly generic with no company-specific hook."
+  },
+  "174": {
+    "main_claim": "Which tasks to give AI tools is each engineer's judgment, but putting customer data or production logs into any external tool is a fixed rule with no exceptions.",
+    "choices": ["splits the question into 'for everything' (judgment) vs. 'with everything' (rule)", "synthetic log line on screen showing hidden PII", "rule: no customer data, no production logs, in any external tool", "alternatives: redact or reproduce with fake data, plus placeholder for an approved tool", "aimed at tech division including risk and compliance, with prep notes"],
+    "quality": 4,
+    "quality_reason": "Clear and memorable with a strong concrete demo, though it narrows the asked question to data hygiene and says little about task choice."
+  },
+  "254": {
+    "main_claim": "The real question is not whether AI writes code but who owns the result, so authors must be able to explain every line and large PRs must be split.",
+    "choices": ["framed as a blameless postmortem of the August AI-generated migration", "impact on non-engineering teams (ops, compliance)", "review-load numbers: PR volume up 60%, senior review 4 to 11 hours a week", "three action items: author owns every line, 'the AI wrote it' is no excuse, split PRs over 400 lines", "mixed all-hands audience"],
+    "quality": 5,
+    "quality_reason": "Compelling story-driven structure with correct arithmetic, concrete rules and a strong opening; fits a 5-minute slot well."
+  },
+  "431": {
+    "main_claim": "Engineers should use AI for almost everything, delegating the typing while keeping the understanding, judgment and accountability.",
+    "choices": ["show-of-hands opening about accepting unread suggestions", "good uses vs. three risks (confident errors, skill atrophy, ownership/data risk)", "line 'delegate the typing, not the understanding' with three habits", "concrete weekly ask: flag one AI-assisted change in your next PR", "placeholders for a team example and security policy, plus a remote-delivery note"],
+    "quality": 4,
+    "quality_reason": "Well-organized, balanced and practical with word budgets and delivery tips; solid but somewhat generic."
+  },
+  "504": {
+    "main_claim": "AI made code cheap to write but not to understand, so the rule must be that whoever merges a change can explain it.",
+    "choices": ["opens with the August NOT NULL migration story", "review cost shifted onto two senior engineers (4 to 11 hours a week)", "section speaking directly to sales, ops and compliance", "separate asks for engineers, leadership and everyone else", "speaker is a team lead; flags its own added details to check"],
+    "quality": 4,
+    "quality_reason": "Strong, audience-aware argument with a good opening and honest caveats; slightly long-winded and the asks are less crisp than a fixed rule set."
+  },
+  "648": {
+    "main_claim": "Task choice with AI tools is a matter of judgment, but customer data and production logs must never go into any external tool.",
+    "choices": ["opens on the relatable near-miss moment of pasting a prod log", "brief 'honest middle' on judging speed vs. quality", "absolute line: no customer data, no production logs, in any external tool", "alternatives: redacted or fake data, ask compliance", "short five-section outline for a tech division meeting"],
+    "quality": 3,
+    "quality_reason": "Coherent with a vivid opening, but thin, timings total about four minutes, and it barely engages the 'everything' question."
+  },
+  "766": {
+    "main_claim": "Asking whether to use AI for everything is the wrong question; what matters is who can explain a change when it breaks, backed by three ownership rules.",
+    "choices": ["opens with the August migration story told without blame", "review cost moved to two seniors; per-PR review about 70% longer", "pre-answers the 'more PRs means we ship more' objection with two scripted options", "direct call to sales, ops and compliance to expect a name", "closes on three rules including splitting PRs over 400 lines"],
+    "quality": 4,
+    "quality_reason": "Tight, data-backed and well-staged with good delivery guidance; the rules arrive only at the close, which crowds the final minute."
+  },
+  "940": {
+    "main_claim": "No, not for everything: where to use AI is each engineer's call, except that customer data and production logs never go into any external tool.",
+    "choices": ["answers 'no' up front and names the one exception immediately", "speed-vs-quality test: if review takes longer than writing, it didn't save time", "spells out what counts (stack traces, screenshots, fixtures, 'just one row')", "invites risk/compliance people in the room to confirm the line", "repeats the line three times; notes to check policy wording"],
+    "quality": 4,
+    "quality_reason": "Direct, memorable and practical with a concrete list of what counts; the outline is prose-heavy and light on the task-choice half."
+  }
+}

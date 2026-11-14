@@ -1,0 +1,32 @@
+# Who would notice? (5-minute all-hands talk)
+
+## Outline
+
+About 650 to 750 spoken words. Timings are approximate.
+
+**1. Open with the form (0:00 to 0:45).**
+The checkout form, told plainly. No customer name and no engineer or team named. [CHECK: confirm with the team involved before telling it.]
+
+**2. What most of us think (0:45 to 1:30).**
+"They're fine, as long as people are careful." Say that's roughly your view too. You're not here to argue against the tools.
+
+**3. What "careful" missed (1:30 to 2:45).**
+- Careful only covers what you think to check. Nobody thought to check for someone using a screen reader.
+- An assistant gives you what you asked for. It doesn't tell you who you forgot.
+- Head off the objection out loud. Hand-written forms miss labels too, so this isn't "AI is worse than people." It's that AI lets us ship more, faster, so whatever we don't check for grows at the same speed.
+- [CHECK: confirm the form was AI-written and that code review didn't flag the missing labels.]
+
+**4. Why this is everyone's question, not just engineering's (2:45 to 3:45).**
+- The problem reached us through support, not engineering. The people who notice what's missing are often not the people who built it: the customer, support, design.
+- Two weeks to fix is partly the time it took that news to travel. [CHECK: the two weeks, and roughly how long before engineering heard about it, if you can find out.]
+
+**5. One ask (3:45 to 4:30).**
+When a customer tells you something is broken, get it to the team who built it that week, not two weeks later.
+Optional line for the engineers: add one question to reviews of AI-written UI: "Who can't use this?"
+
+**6. Close (4:30 to 5:00).**
+Come back to the question you were asked. AI for everything? Probably fine, if "careful" means something specific. Then leave the room with: "Who would notice?"
+
+## Opening paragraph
+
+I was asked to give this talk because, apparently, I have opinions about quality. So here's one. Last quarter we shipped a checkout form that was written by an AI assistant. It looked fine. But none of its fields had labels a screen reader could read out, so for a customer who can't see the screen, checkout was a row of boxes with no names. One of those customers emailed our support team. It took us two weeks to fix. And I didn't hear about it from engineering. I heard about it from support. So I'm not going to tell you whether engineers should use AI for everything. I want to ask a different question: when it leaves something out, who would notice?

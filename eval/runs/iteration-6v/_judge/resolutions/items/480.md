@@ -1,0 +1,19 @@
+# Nothing Grows in January
+
+Every year, around the middle of January, I hear the same thing: someone made a resolution and has already given up. Usually they blame themselves: not enough willpower, not enough discipline.
+
+I think that's the wrong question. If you sowed beans on New Year's Day and they came to nothing, no gardener would ask about your willpower. They'd ask what on earth you were doing sowing beans in January.
+
+Nothing grows in January. The soil is cold, the days are short, and even the plants that make it through winter are barely ticking over. No one expects a seed to do anything in that ground, and no one calls the seed lazy when it rots. Yet January is exactly when we start every new habit: at the darkest, coldest, most worn-out point of the year, straight after the holidays have worn us out. Then, when it doesn't take, we say we gave up, as if the fault were in us and not in the timing.
+
+People do give up. But giving up is what anyone does when they keep pushing at something that can't grow yet. A resolution started on the first of January is a seed sown into cold ground.
+
+When something fails in the garden, we don't decide we're bad at roses. We ask whether it had the right spot, the right soil, the right time of year. We'd never judge a plant by how it did in the wrong season, so it's odd that we judge ourselves that way.
+
+Gardeners already know the better pattern, because we live it every year. Winter is for planning. It's when the seed catalogs come out and we sketch the beds on the back of an envelope, work out what failed last year and what deserves another go. What we don't do is plant. Planting waits for warmer soil and longer days, and nobody thinks we lack resolve for waiting.
+
+So here's what I'd suggest instead of a resolution. Use January the way you already use it in the garden. Decide what you want to grow this year, and think about what it will need. Write it down, then leave it be.
+
+Start it in spring, on the same weekend the first seeds go in, when the evenings are lighter and you've got some energy back. You'll be starting with the year behind you instead of against you.
+
+And if anyone asks in January why you haven't started yet, tell them the truth. It isn't the season. You're still planning.

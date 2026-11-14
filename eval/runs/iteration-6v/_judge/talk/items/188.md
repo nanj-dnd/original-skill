@@ -1,0 +1,45 @@
+## Outline (5 minutes, about 700 words spoken)
+
+**1. Opening: my answer is yes (0:00 to 0:45, ~120 words)**
+- I'm an engineer, speaking for myself, and my answer to "should we use AI coding assistants for everything?" is yes.
+- But "should we use it" is the easy question. The hard one: can someone here still answer for every line we ship?
+- Set up the ask: I'm not here to argue for or against a tool. I'm here to propose a test, and to ask for people to run it with me. (Full paragraph below.)
+
+**2. Why "everything" and not a list (0:45 to 1:45, ~150 words)**
+- The usual answer draws a line by type of work: tests, boilerplate and docs are fine; design, security and tricky bugs are off-limits.
+- That line doesn't hold. A "routine" test can hide the bug that matters. A "judgment" call can be helped by having a tool lay out five options you then pick from. The type of task doesn't tell you where the risk is.
+- What does tell you: whether the person merging the change understood it.
+- So drop the list and keep one rule for every change: if your name is on it, you can explain every line of it without the assistant open.
+- Not a list of tasks. One test, on every change.
+
+**3. What this means if you don't write code (1:45 to 2:45, ~130 words)**
+- Most of this room will never see which lines a tool wrote, and you shouldn't have to care.
+- What you should be able to count on: when you ask an engineer "why did the product do that?", you get an answer, never "the AI wrote that part."
+- That's the thing to hold us to. Not which tools we use, but whether someone owns the result.
+- The same rule works for anything an AI drafts for any of us: an email, a deck, a support reply. If it goes out under your name, you can stand behind every line.
+
+**4. What I don't know (2:45 to 3:15, ~80 words)**
+- I don't have a number for how this is going here. I can't tell you if we're faster, or if we're merging code nobody fully understands.
+- Without a number, this argument goes in circles: fans say it's faster, skeptics say it's riskier, and nobody can check.
+- So instead of arguing it, let's measure it.
+
+**5. The experiment (3:15 to 4:30, ~160 words)**
+- Who: volunteers. I'm not a manager and I can't mandate this. I'll go first, on my own work.
+- When: starting the Monday after this all-hands, through the end of January.
+- What you do: use the assistant for everything you'd normally write by hand. No list of banned tasks.
+- The one rule, checked in review: the reviewer picks one part of each change and asks the author to walk through it, assistant closed.
+- What we track per change, in one shared sheet:
+  - Could the author explain the part they were asked about? Yes or no.
+  - Roughly how long it took, against how long you'd have guessed without the tool.
+  - Did it need a fix or a revert within two weeks of merging?
+- I'd especially like a few skeptics as reviewers, so the results aren't just fans grading fans.
+- Report back: at the first all-hands in February, with the numbers, whichever way they go.
+
+**6. Close (4:30 to 5:00, ~70 words)**
+- The question to bring back in February isn't "did we use AI for everything?" It's "could we still answer for everything?"
+- If the numbers say yes, we've earned "everything." If they say no, we'll know exactly where it broke.
+- Ask: if you want in, as an engineer or as a reviewer, find me after this or add your name to the sheet today.
+
+## Opening paragraph
+
+I'm an engineer, and I want to give you my actual answer to whether we should be using AI coding assistants for everything: yes. Not just for the boring parts, and not with a list of places it's banned. For basically everything. But "should we use it" turns out to be the easy question. The hard one is this: when something breaks, or a customer asks why the product did what it did, can someone here explain the code that did it? If the honest answer is ever "the AI wrote that part," we have a problem, and it isn't the AI's problem. It's ours. So I'm not up here to argue for or against a tool. I'm here to propose a test of whether we can still answer for what we ship, and to ask some of you to run it with me.

@@ -7,7 +7,7 @@ The rules come from research on AI idea diversity and a pilot test of this skill
 <!-- if code -->
 ## Files
 
-- `runs/`: one markdown record per finished run (step 7). An archive for export; not read at the start of a run.
+- `runs/`: one markdown record per finished run (step 5). An archive for export; not read at the start of a run.
 - `export_pdf.py`: turns a run record into a PDF. See "Export".
 - `references/`: `why.md` (the reason for each rule), `research.md`, `pilot.md`.
 - This file is built from `~/Downloads/original-v2/src/core.md` by `build.py`, which also makes the claude.ai upload zip. Change the source there and rebuild; edits made here are overwritten on the next install.
@@ -17,7 +17,7 @@ If the task is `export` (with or without a run named), skip to "Export".
 <!-- end -->
 ## 0. Split the task
 
-- Fixed parts: facts, numbers, constraints, anything with one right answer. Never vary these; verify them. Any statistic or study you cite, check with a search if you can; if you can't, mark it unchecked next to the figure.
+- Fixed parts: facts, numbers, constraints, anything with one right answer. Never vary these; verify them. Any statistic or study you cite, check with a search if you can. If you can't, leave it out unless the argument needs it, and list it in the closing note as unchecked (step 4), not inside the text.
 - Open parts: the claim, the angle, what to include, the structure, the assumed reader, which question to answer at all.
 
 If the whole task is fixed, say so in one line, answer normally and stop. For coursework, vary ideas and positions only, and keep any rule the course sets.
@@ -28,7 +28,7 @@ Under ten lines, headed "What everyone gets": the main claim a pasted prompt wou
 
 ## 2. Ask, once
 
-Skip this if the user wrote "quick", and go to step 3 with no answers.
+Skip this if the user wrote "quick", and go to "Quick mode" below.
 
 The questions do most of the work (see `references/pilot.md`); spend the care here.
 
@@ -44,21 +44,13 @@ The questions do most of the work (see `references/pilot.md`); spend the care he
 <!-- end -->
 - Mix two kinds:
   - **Position**: options are the default's choice, its opposite, and one other real stance.
-  - **Specifics**: the case, number, person or incident behind their view, with concrete options drawn from the task, the conversation and any files at hand. Word these so they hold whichever way the position answers go ("Is there a real case behind this?", not "Why do you disagree?"). Always include at least one.
+  - **Specifics**: the case, number, person or incident behind their view, with concrete options drawn from the task, the conversation and any files at hand. Word these so they hold whichever way the position answers go ("Is there a real case behind this?", not "Why do you disagree?"). Always include at least one, and make sure one option, or one question, asks for a number, a measure or data where the task could use one: in testing, a user's best material was a figure that no "real case" option had room for.
 
-## 3. Route on the answers
+## 3. Build from the answers
 
-Pick one path and say in one line which and why.
+Build directly from what they said, however much or little it is. Whatever they gave you (a case, a number, a role, an audience, a picked option) is more theirs than anything you could generate, so start from it. If their position matches the default, build from their specifics, not from a contrarian stance they don't hold. Say plainly, later in the distance section, when the answers were thin and the piece stays close to the default.
 
-- **Specific answers → step 4.** The user said, in their own words, at least one thing you couldn't have guessed: a real case, a number, a named audience, a hard constraint, or a position they argued for. A picked option is a direction, not a specific, even when it states a position. Specific answers go here even if the position matches the default; then build from the specifics, not from a contrarian stance they don't hold.
-- **Thin answers → step 5.** Mostly picked options, "don't know", "keep it general", or words anyone might type.
-- **Quick mode (no answers) → step 5.**
-
-If the answers both match the default and are thin, the default may simply be their answer. Say so, and ask whether they want the default done well or a shortlist of alternatives.
-
-## 4. Specific answers: build directly
-
-No long candidate list. In a few lines before the deliverable:
+In a few lines before the deliverable:
 
 - **Angle**: the claim, in one sentence. Not the default's main claim unless the user chose it.
 - **Built from**: which answers it rests on, by number.
@@ -67,39 +59,24 @@ No long candidate list. In a few lines before the deliverable:
 
 Where two answers pull against each other, or a fixed fact sits badly with one of them, use that tension instead of smoothing it over.
 
-If the deliverable runs longer than about a page, or is a talk, show this block and wait before writing: a go-ahead, a redirect, or anything they want worked in (a line, an example, how it ends). Shorter pieces go straight to step 6, with one line after the deliverable inviting anything to add.
+If the deliverable runs longer than about a page, or is a talk, show this block and wait before writing: a go-ahead, a redirect, or anything they want worked in (a line, an example, how it ends). Shorter pieces go straight to step 4, with one line after the deliverable inviting anything to add.
 <!-- if code -->
 Ask that with AskUserQuestion: "Write it on this angle", plus each of the other directions; the free-text option takes additions.
 <!-- end -->
 
-## 5. Thin answers or quick mode: generate, cut, shortlist
+## Quick mode: no answers
 
-In one continuous pass:
+With nothing from the user to build on, variety has to come from generating. In one pass:
 
-1. List 12 to 15 one-line candidates for the open parts, from at least three different starting points: a contradiction in their answers, an inverted default choice, a constraint they named, the reader who would disagree, a case they gave, a fixed fact that sits badly with the default.
-2. Revise so no two are the same idea and none is the default reworded.
-3. Add two or three you would be unlikely to say, marked unlikely.
-4. Ban exactly one thing: the default's main claim. No other bans.
+1. List 8 to 12 one-line candidates from at least three different starting points: an inverted default choice, a constraint in the task, the reader who would disagree, a fixed fact that sits badly with the default. Revise so no two are the same idea and none is the default reworded; ban exactly one thing, the default's main claim.
+2. Pick the one that differs most from the default and still answers the task, say in one line why, and say plainly that without answers it isn't tailored to them.
+3. Go to step 4. No shortlist, no wait. No personas, "be bold", example ideas to imitate, or rerolls.
 
-Two or three passes at most. No personas, "be bold", example ideas to imitate, analogies from unrelated fields by default, or rerolls.
+If the idea's value depends on being new to the world (a research question, a product idea), search for prior work if you can and say what you found. Never score novelty yourself.
 
-**Cut** near-duplicates, anything a fixed fact breaks, anything that is the default reworded, and anything the user already turned down in this conversation (unless a new answer removes the reason). If the idea's value depends on being new to the world (a research question, a product idea), search for prior work if you can and say what you found. Never score novelty yourself or show a novelty number. Keep the 3 to 5 survivors that differ most from each other and from the default, even if that drops a strong idea that sits close to another.
+## 4. Develop
 
-**Shortlist.** For each survivor:
-
-- the idea in one or two sentences
-- **Only yours because**: which answers it depends on, or "nothing; this is available to anyone"
-- **Strongest objection**: one line, stated fairly
-- **Test**: a fact it depends on, a rebuttal it must survive, or a prediction to check later
-
-Recommend one and ask which to develop; combinations ("A with C's ending") are fine. In quick mode don't wait: say which one you're developing and why, and say plainly that without answers it isn't tailored to them.
-<!-- if code -->
-Ask the pick with AskUserQuestion, recommendation first.
-<!-- end -->
-
-## 6. Develop
-
-Write the deliverable from the chosen angle and verify the fixed parts. Use only facts the user gave about their own life; don't invent anecdotes, and flag any small detail you added so they can check it. Where the piece needs a real detail they didn't give, leave a marked placeholder ("[your example here]") instead of making one up.
+Write the deliverable from the chosen angle and verify the fixed parts. Make it ready to use as it stands: no brackets, placeholders or "[unchecked]" marks inside it. Use only facts the user gave about their own life and don't invent anecdotes; where the piece would be stronger with a real detail they didn't give, write it so it holds without one, and suggest the detail in the closing note.
 
 Before showing it, reread the draft once as a demanding reader who doubts the angle: find where it goes thin, turns generic, or drifts back toward the default, and revise those parts. Keep the angle, don't show the critique, and don't judge how new the idea is. One pass only.
 <!-- if code -->
@@ -109,12 +86,12 @@ If it is prose going out under Anshul's name, hand the writing to the `anshul-vo
 If it is prose going out under the user's name and a skill for their writing voice is installed (for example `anshul-voice`), hand the writing to it once the angle is settled; otherwise follow the tone they described.
 <!-- end -->
 
-End with **Distance from the default**: 3 to 5 lines, each naming something the output has that the default didn't and which answer caused it, plus one line on what did not move. If little differs, say so plainly. Don't dress up a default answer.
+After the deliverable, a short **Before you use it** note, only the items that apply: figures or studies you couldn't check; any small detail you added that they should confirm; one or two real details they could add and where. Then **Distance from the default**: 3 to 5 lines, each naming something the output has that the default didn't and which answer caused it, plus one line on what did not move. If little differs, say so plainly. Don't dress up a default answer.
 
-## 7. Record and export
+## 5. Record and export
 
 <!-- if code -->
-Write the run record to `runs/<YYYY-MM-DD>-<short-slug>.md` in the format below, and tell the user in one line that `/original export` makes a PDF of it. If the run stopped before a pick, write it anyway with "not picked". A step 0 stop gets no record.
+Write the run record to `runs/<YYYY-MM-DD>-<short-slug>.md` in the format below, and tell the user in one line that `/original export` makes a PDF of it. If the run stopped before writing, write it anyway with "not written". A step 0 stop gets no record.
 <!-- end -->
 <!-- if claude-ai -->
 Offer to export the run. On yes, make a downloadable Markdown file (a PDF only if they ask; one Markdown block if you can't write files) in the format below.
@@ -123,8 +100,8 @@ Offer to export the run. On yes, make a downloadable Markdown file (a PDF only i
 Run record, sections in order:
 
 - Title: the task in a few words.
-- One line: date · path (direct, shortlist or quick) · angle chosen, or "not picked".
-- Task (as given; say if trimmed) · Fixed and open parts · What everyone gets · What they said (each default choice → their answer, in their own words; "quick run, no questions" if skipped) · Angle (direct path) or Candidates, cuts with reasons, and Shortlist (shortlist path) · Deliverable (in full) · Distance from the default · Prior work ("not searched" if none).
+- One line: date · answered or quick · angle chosen, or "not written".
+- Task (as given; say if trimmed) · Fixed and open parts · What everyone gets · What they said (each default choice → their answer, in their own words; "quick run, no questions" if skipped) · Angle (and, in quick mode, the candidates) · Deliverable (in full) · Before you use it · Distance from the default · Prior work ("not searched" if none).
 
 Write it from what was actually said. Don't tidy their answers into positions they didn't take.
 
@@ -141,4 +118,4 @@ Write it from what was actually said. Don't tidy their answers into positions th
 <!-- end -->
 ## What this cannot do
 
-It draws out what is distinct in the user's view; it can't manufacture one. Without a clear view or a real case, the shortlist gives variety but not fit. If a run produces nothing the default didn't already have, report that as the result.
+It draws out what is distinct in the user's view; it can't manufacture one. Most of its effect comes from asking before writing: in testing, a plain model told to ask clarifying questions first did about as well, so what this adds is making the model ask, showing the default, the objection and test, and honest checks. If a run produces nothing the default didn't already have, report that as the result.

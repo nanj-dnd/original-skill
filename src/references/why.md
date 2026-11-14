@@ -42,17 +42,16 @@ are preprints or used older models; treat the numbers as direction, not precisio
 - **One round.** Long questionnaires get flatter answers, and Anshul asked for all
   questions up front.
 
-## Route on the answers
+## No routing (v3, 2026-11-15)
 
-- **What counts as specific**: in the user's own words and not guessable. A picked
-  option is a direction only. The first v2 rule counted "a stated position" as specific,
-  and a vague user's picked option sent him down the direct path; the tightened rule
-  sent him to the shortlist.
-- With specific answers, the shortlist added a user turn and about 3× the tokens
-  without changing the main claim (pilot, 8 of 8).
-- With no answers (quick mode), outputs moved off the default but not toward the user:
-  different, not theirs. That is why quick mode and thin answers get the shortlist,
-  which is where variety has to come from when there is nothing personal to build on.
+- v2 routed thin answers to a shortlist and asked users whose answers matched the
+  default whether they wanted "the default done well". Test 4 (8 vague personas) found
+  writing directly from the same answers scored higher (talk 4.2 vs 4.0, blog 4.8 vs
+  4.0) and landed further from the default; every user offered the default took it.
+- With specific answers, the shortlist had already added a turn and about 3× the tokens
+  without changing the main claim (pilot, 8 of 8). So every answered run builds directly.
+- Quick mode keeps a short generate-and-pick step: with no answers, outputs move off the
+  default but not toward the user, so variety has to come from generating.
 
 ## Build directly
 
@@ -64,9 +63,11 @@ are preprints or used older models; treat the numbers as direction, not precisio
   costs a whole essay or talk. The evaluation also found that about half of v2's talk
   quality dip came from losing v1's pick step, where users added a line, an example or
   a closing. The check-in asks for those additions. Short pieces get one line inviting
-  additions instead of a wait. Neither is tested yet.
+  additions instead of a wait. Test 5 found the check-in alone didn't recover quality;
+  the cost came from placeholders and "[unchecked]" marks inside the deliverable, which
+  v3 moves to a "Before you use it" note after it.
 
-## Generate, cut, shortlist
+## Generate (quick mode only)
 
 - **List, then revise to differ** brought idea similarity from 0.377 (base prompt) to
   0.255, close to a pool of human ideas (0.243).

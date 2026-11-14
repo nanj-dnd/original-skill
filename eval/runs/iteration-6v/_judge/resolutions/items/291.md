@@ -1,0 +1,25 @@
+# January 1 Is a Terrible Day to Start Anything
+
+Every year around now, the same advice turns up on schedule. Your resolutions fail because they're too vague, too big, too reliant on willpower. Make them specific. Make them small. Track them.
+
+Fine. But I have a different suspect, and it's the date.
+
+Think about how a resolution actually gets made. Not because something in your life went wrong on a Tuesday in October and you decided to fix it. It gets made because the calendar flipped, everyone else is doing it, and arriving in January without one feels like turning up to a party empty-handed. The reason to change is borrowed from the calendar. Borrowed reasons wear off.
+
+To be fair to January, it's very good at getting people to start. That's exactly the trouble: it does the starting for you. The urge comes from the date, not from your life, so once the date passes, nothing in your life is left to keep asking.
+
+I speak from experience, though not the dramatic kind. I've made resolutions. I didn't fight them heroically and lose. I forgot them. If you know me, this won't come as a shock.
+
+And that's the part the willpower story misses. Plenty of resolutions don't die in a struggle. They just stop coming up, because nothing in an ordinary week ever asked for them. January 1 asked, and then January 1 left.
+
+So if you do want to change something (I'm not against change, only against the date), here's what follows:
+
+**Start when the reason shows up.** The best day to fix something is the day it annoys you, whatever the calendar says. If it never annoys you, it may not be a resolution so much as a vague sense that you ought to.
+
+**Write down why, not just what.** "Read more" is easy to forget. "Because I've spent every evening this month scrolling and hated it" is harder to forget, because it's about your life rather than the year.
+
+**Give it a reminder that isn't January.** Tie it to something that already happens: your morning coffee, your commute, Sunday evenings. A habit hooked to your week gets a nudge every week. One hooked to New Year's gets a nudge once a year.
+
+**Book a check-in now.** Put a date in your calendar for mid-February. Not to grade yourself. Just to see whether you still remember what you promised.
+
+If you don't, congratulations. You've done it the traditional way.

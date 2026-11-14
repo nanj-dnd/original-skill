@@ -1,0 +1,98 @@
+{
+  "291": {
+    "main_claim": "Resolutions fail because January 1 supplies a borrowed reason to start, so once the date passes nothing in ordinary life keeps prompting them and they are simply forgotten.",
+    "choices": ["blames the calendar date rather than willpower", "author admits forgetting rather than failing resolutions", "start when the reason appears and write down why", "hook habits to weekly routines and book a mid-February check-in", "wry closing joke"],
+    "quality": 4,
+    "quality_reason": "Fresh, coherent argument in a warm personal voice with practical tips; on length and ready to post."
+  },
+  "317": {
+    "main_claim": "Resolutions fail not from laziness but because they are vague wishes, too big, willpower-dependent and broken by a single slip.",
+    "choices": ["Strava 'Quitter's Day' hook", "four bolded causes then five bulleted fixes", "concrete, small, habit-stacked, approach-framed goals", "plan for the miss", "cites a 2020 approach-vs-avoidance study"],
+    "quality": 3,
+    "quality_reason": "Solid, accurate standard listicle, but leaves '[unchecked]' markers in the text that must be removed before posting."
+  },
+  "362": {
+    "main_claim": "Most people don't quit their resolutions; they forget them, because they're made on a whim at a midnight party with no reminder or plan.",
+    "choices": ["New Year's Eve party scene opening", "forgetting rather than quitting reframe", "write it down in daylight and pick one", "lock-screen reminder, calendar check-ins, a friend who asks", "playful aside recruiting readers as accountability friends"],
+    "quality": 5,
+    "quality_reason": "Vivid, cohesive and personal with a clear twist and actionable tips; fits a personal blog perfectly."
+  },
+  "414": {
+    "main_claim": "Resolutions fail because of how they are built, as vague wishes stacked all at once with streak thinking and outcome focus, not because people lack willpower.",
+    "choices": ["gym and journal January-to-February hook", "H2 sections for each cause", "what-the-hell effect", "identity-based habits", "pick one small thing, attach it to a routine, be patient"],
+    "quality": 4,
+    "quality_reason": "Clear, accurate and friendly with a light personal touch; familiar content but polished and ready to use."
+  },
+  "429": {
+    "main_claim": "Losing motivation is inevitable, so resolutions fail when nothing but motivation holds them up; having someone who asks is what keeps them going.",
+    "choices": ["author's 700-day Welsh streak with their 12-year-old daughter", "dinner-table streak check as accountability", "pick someone doing it too", "hang the asking on an existing routine; keep it small enough to answer yes", "offer to be readers' accountability person"],
+    "quality": 5,
+    "quality_reason": "Distinctive personal anecdote drives a clear, coherent argument with practical takeaways; reads as genuinely the author's own."
+  },
+  "480": {
+    "main_claim": "Resolutions fail because January is the wrong season to start anything, so like gardeners we should plan in winter and start in spring.",
+    "choices": ["extended gardening metaphor (sowing beans in January)", "written for a gardener audience", "winter is for planning, not planting", "start the resolution in spring when the first seeds go in", "reply to critics: 'I'm still planning'"],
+    "quality": 4,
+    "quality_reason": "Charming, coherent metaphor sustained well for a gardening blog; a bit repetitive in the middle."
+  },
+  "548": {
+    "main_claim": "Resolutions fail because motivation always runs out and most have nothing, such as a person checking in, to carry them once it does.",
+    "choices": ["author's 700-day Welsh streak with daughter", "dinner-time streak checks", "do it with someone and tie check-ins to daily events", "make progress countable", "contains bracketed fill-in placeholders"],
+    "quality": 2,
+    "quality_reason": "Good argument and voice, but leaves bracketed placeholders for the author to fill in, so it can't be posted as is."
+  },
+  "575": {
+    "main_claim": "Many resolutions fail because of timing, since January is a season of rest, and like gardeners we should plan in winter and begin in spring.",
+    "choices": ["gardening metaphor of winter dormancy", "gentle, reassuring tone", "use winter to plan and reflect on obstacles", "start as days lengthen in spring", "don't be hard on yourself"],
+    "quality": 4,
+    "quality_reason": "Warm, coherent and well paced for a gardening-minded reader; slightly softer and less pointed than it could be."
+  },
+  "587": {
+    "main_claim": "Resolutions fail not from lack of willpower but because they are vague, overloaded, tied to an arbitrary date, derailed by all-or-nothing thinking and focused on outcomes over systems.",
+    "choices": ["third-week-of-January hook", "five bolded causes plus bulleted fixes", "systems over outcomes", "never skip two days rule", "'aim for March' closer"],
+    "quality": 4,
+    "quality_reason": "Well-organized, accurate, crisply written standard take with useful advice; ready to post."
+  },
+  "620": {
+    "main_claim": "Resolutions fail mainly because they are vague, and making them specific and small makes them stick.",
+    "choices": ["8% statistic hedged and Strava 'Quitter's Day'", "'your goal is a vibe' humor", "H2 sections with bolded tips", "specific, small, habit-stacked, approach-framed goals", "never miss twice"],
+    "quality": 4,
+    "quality_reason": "Punchy, funny and accurate with properly hedged stats; conventional advice but polished."
+  },
+  "657": {
+    "main_claim": "Most resolutions fail for structural reasons such as vagueness, overreach, clashing routines, all-or-nothing thinking and arbitrary timing rather than weak willpower.",
+    "choices": ["packed-gym-in-January hook", "five bolded causes", "fighting old cues and defaults (takeout example)", "pick one small thing and plan for misses", "start in March if needed"],
+    "quality": 4,
+    "quality_reason": "Clear, sensible and well written with good concrete examples; standard but fully usable."
+  },
+  "713": {
+    "main_claim": "Resolutions fail from bad timing, not weak willpower, so treat them like a planting plan: decide in winter and start in spring.",
+    "choices": ["gardening metaphor ('tomatoes in a snowbank')", "gardener audience", "winter is for planning at the kitchen table", "give the resolution a post-frost start date", "nod to southern-hemisphere readers"],
+    "quality": 5,
+    "quality_reason": "Vivid, tight and consistently argued metaphor with a concrete takeaway; polished and blog-ready."
+  },
+  "747": {
+    "main_claim": "Resolutions fail because of how we set them up, with outcome goals, too much too fast, all-or-nothing thinking, arbitrary timing and no real 'why'.",
+    "choices": ["running shoes gathering dust hook", "five bolded causes", "four-of-seven beats seven-of-seven example", "smaller promises attached to existing routines", "start whenever you're ready"],
+    "quality": 4,
+    "quality_reason": "Clean, accurate and readable standard take with sensible advice; ready to use."
+  },
+  "811": {
+    "main_claim": "Resolutions fail because they ask us to beat our lazy default every day, so we should design our surroundings to make laziness work for us.",
+    "choices": ["provocative 'we're lazy' framing", "ideal self vs actual self", "do the hard setup once, e.g. automatic savings", "add friction to bad habits and shrink the daily ask", "pick one"],
+    "quality": 4,
+    "quality_reason": "Bold, coherent thesis with practical environment-design tips; the blunt framing may not suit every personal blog."
+  },
+  "910": {
+    "main_claim": "Resolutions fail because motivation inevitably fades and most have nothing else to run on; tying one to a person or routine keeps it alive.",
+    "choices": ["author's 700-day Welsh streak with 12-year-old daughter", "dinner-table streak checks", "personal narrative over listicle", "tie the resolution to a person or routine", "Welsh New Year sign-off"],
+    "quality": 4,
+    "quality_reason": "Warm, personal and coherent with a nice sign-off; advice is lighter and the motivation point is a bit repetitive."
+  },
+  "928": {
+    "main_claim": "January is a terrible time to start anything, and resolutions tied to the calendar rather than a personal reason fade with the novelty.",
+    "choices": ["cold, broke January framing", "Strava Quitter's Day, hedged 8% stat, Wharton fresh-start research", "pick your own personal start date", "make it boring and visible", "wait for spring"],
+    "quality": 5,
+    "quality_reason": "Funny, well-sourced and balanced (concedes the fresh-start effect), with clear tips; excellent personal-blog piece."
+  }
+}

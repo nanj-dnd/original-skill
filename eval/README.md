@@ -28,4 +28,5 @@ The prompts and scripts were run in a cloud session where the skill lived at `/h
 - `runs/iteration-3/`: Test 3 (plain, plain_ctx, plain_asks, v2). Write-up: `test3-results.md`.
 - `runs/iteration-4/`: Test 4, vague users (plain, skill, skill_direct, plain_asks). Write-up: `test45-results.md`.
 - `runs/iteration-5/`: Test 5, the pause before writing (plain, full, v2, v2r). Write-up: `test45-results.md`.
+- `runs/iteration-6c/`, `runs/iteration-6v/`: Test 6, v3 replays for clear and vague personas (plain, skill, plain_asks, v3). Write-up: `test6-results.md`. `runs/skill-v3/`: the v3 build tested.
 - `runs/skill-v1/`: the v1 skill as tested. `runs/skill-repo/`: the repo build tested in Tests 4 and 5.

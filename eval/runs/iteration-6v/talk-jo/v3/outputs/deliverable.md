@@ -1,0 +1,35 @@
+# "For everything?" A 5-minute answer from someone who thinks it's fine
+
+## Outline (about 700 spoken words)
+
+**1. Opening: the view from the middle (0:00–0:45)**
+- I got volunteered. Backend engineer, two years here, I use Copilot sometimes, and it's fine.
+- "Fine" sounds like a non-answer, but it's the honest one, and I suspect it's where a lot of us are: not converts, not holdouts.
+- So no yes-or-no today. One way to work out where it's fine for you, and one thing to try next week.
+
+**2. Why "for everything" is the wrong question (0:45–1:45)**
+- The answer isn't yes or no. It changes from one task to the next, and the people at either extreme are answering a question about "everything" when what we actually decide, many times a day, is this task, right now.
+- The rule I'd offer instead: use it where checking the output is cheaper than writing it yourself.
+- Cheap to check: a serializer, a test fixture, a one-off script, a query you can run and eyeball. You can tell in seconds whether it's right.
+- Expensive to check: a retry loop, a data migration, anything touching auth, money or concurrency. A wrong answer there looks exactly like a right one, so "review everything" doesn't help much: reviewing it properly costs about as much as writing it.
+
+**3. What "fine" actually means (1:45–2:45)**
+- I don't have a dramatic story. No outage, no week where it did my job for me. That's the point: most days it saves a bit of time on some things and costs a bit on others.
+- The trouble with "fine" is that I can't tell you in advance which tasks are which for your work. Nobody up here can. Your codebase, your habits and your corner of the system decide it.
+- So the useful move isn't another opinion from the stage. It's for each of us to find out.
+
+**4. The ask: one week, two swaps (2:45–4:15)**
+- Swap one: pick one kind of task you always do by hand and give it to the assistant at least once.
+- Swap two: pick one kind of task you always hand to it and do it yourself once.
+- For each, write three lines: what the task was, whether it was faster, and whether you trusted the result without rechecking it.
+- Use the cheap-to-check rule as your guess beforehand, then see if the week agrees with it.
+- Keep it inside whatever tools and code we're already allowed to use with these assistants. This isn't a reason to paste anything new into one.
+
+**5. Close (4:15–5:00)**
+- At the end of the week you'll have a better answer than "for everything" or "for nothing": a short list of where it's worth it for you.
+- Share what surprised you with your team. If the swaps change nothing, that's a result too: now you know where it's fine, and you know why.
+- Back to the question I was handed: not everything. The things that are cheap to check. And next week, you find out which ones those are for you.
+
+## Opening paragraph
+
+So, a quick confession: I didn't ask to give this talk. I got volunteered. I'm a backend engineer, I've been here two years, and I use Copilot sometimes. My honest review of it is: it's fine. That probably makes me the least exciting person to answer the question I was handed, which is whether engineers should be using AI coding assistants for everything. But I think "fine" is a more useful answer than it sounds, because I suspect it's where a lot of us are. Not converts, not holdouts, just people who use it some days and not others without really knowing why. So I'm not going to tell you yes or no. I'm going to give you one rule for working out where it's fine for you, and ask you to test it for a week.

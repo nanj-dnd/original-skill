@@ -1,6 +1,6 @@
 # Evaluation of this skill, November 2026
 
-Five rounds, 14–15 Nov 2026: a pilot of v1, a check of v2, Test 3 (generic questions), Test 4 (vague users), Test 5 (the pause). Small samples and
+Six rounds, 14–15 Nov 2026: a pilot of v1, a check of v2, Test 3 (generic questions), Test 4 (vague users), Test 5 (the pause), Test 6 (v3). Small samples and
 model-written personas, so read the numbers as direction, not effect size.
 
 ## Setup
@@ -104,6 +104,23 @@ its "default done well?" check add nothing measurable on top. What still disting
 it makes the model ask, shows the default, gives objection and test lines, and flags
 unchecked facts. Those flags belong in a note after the deliverable, not inside it.
 
+## Test 6: v3
+
+v3 drops routing (every answered run builds directly), adds a numbers question, and moves
+checks into a "Before you use it" note so the deliverable has no brackets or "[unchecked]"
+marks. It was replayed from the stored answers of all 16 personas.
+
+| Arm | Mean quality (4 sets) | Distance from default, lower = further (clear talk / clear blog / vague talk / vague blog) |
+|---|---|---|
+| Previous skill | 4.00 | 0.38 / 0.50 / 0.81 / 1.00 |
+| Plain model's own questions | 4.13 | 0.62 / 0.50 / 1.00 / 1.06 |
+| v3 | 4.19 | 0.38 / 0.50 / 0.81 / 0.88 |
+
+- Fit was 4/4 for every arm in every set; 4 distinct ideas for v3 in every set.
+- v3 matched or beat the previous skill everywhere, and was further from the default than
+  a plain model's own questions in 3 of 4 sets: the first measurable edge over generic
+  clarifying questions. No markers leaked into any v3 deliverable.
+
 ## What runs did badly
 
 - Cited studies from memory (web search was off) and flagged them as unchecked, but a
@@ -123,8 +140,8 @@ unchecked facts. Those flags belong in a note after the deliverable, not inside 
 
 ## Open tests, most useful first
 
-1. A simplified build (show the default, ask, build directly, objection and test, checks in a
-   note after the deliverable) against this one and against plain_asks.
+1. (Done: the simplified build, see Test 6.) A second judge pass, or a judge from another
+   model family, to confirm v3's edge over plain_asks.
 2. Real users on 2–3 real tasks.
 3. 8+ outputs per arm, two judge passes, a judge from another model family.
 4. Runs with web search on, to see unverified figures actually get checked.

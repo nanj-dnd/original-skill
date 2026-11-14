@@ -1,0 +1,98 @@
+{
+  "138": {
+    "main_claim": "Engineers should use AI assistants for everything, provided whoever ships a change can explain every line, and the company should run a measured trial to test that.",
+    "choices": ["contrarian 'yes, for everything' stance with admitted lack of proof", "'which tasks' reframed as 'who owns the result'", "rule: if you can't explain it, it doesn't ship", "N-week trial measuring review time and post-release issues with a stated falsifier", "addresses non-engineers as the people who get the call when things break"],
+    "quality": 4,
+    "quality_reason": "Clear, honest, well-timed argument with a concrete experiment; many placeholders but coherent and usable."
+  },
+  "149": {
+    "main_claim": "Use AI assistants for almost everything, but keep the understanding, judgment and accountability for yourself.",
+    "choices": ["show-of-hands opening about accepting unread suggestions", "good uses list vs three risks (wrong answers, skill atrophy, ownership/data)", "slogan 'delegate the typing, not the understanding' with three habits", "ask: flag one AI-assisted change in your next PR", "remote-audience delivery note"],
+    "quality": 4,
+    "quality_reason": "Polished, balanced, well-timed and ready to deliver, though the thesis is conventional."
+  },
+  "159": {
+    "main_claim": "AI assistants are great at producing more, but more output (like a test suite that ballooned from 2,000 to 9,000 tests) isn't necessarily what we need.",
+    "choices": ["QA-lead perspective anchored on test-suite growth and 3-hour nightly run", "costs: slower feedback, maintenance, false confidence", "rule of thumb: slow down where volume can pass for progress", "closes with three discussion questions for every team", "before-Friday note to verify the redundancy claim"],
+    "quality": 5,
+    "quality_reason": "Concrete, memorable hook with a distinctive insight, honest caveats and practical prep advice."
+  },
+  "174": {
+    "main_claim": "Not for everything; use AI where checking the answer is quicker than writing it and skip it where you couldn't tell if it's wrong.",
+    "choices": ["volunteered, modest backend engineer persona ('it's fine')", "where it helps vs where I stop, with personal-example placeholders", "rule: checking quicker than writing", "one sentence for non-engineers about timelines", "ask: try it on one tedious task next week"],
+    "quality": 4,
+    "quality_reason": "Warm, authentic voice and a crisp, usable rule of thumb; relies on the speaker filling in examples."
+  },
+  "188": {
+    "main_claim": "Engineers should use AI for most things, but the parts it can't do (context, judgment, accountability) are still the real job.",
+    "choices": ["junior engineer persona who uses AI for nearly everything", "walk through one real task for non-engineers", "great uses vs where I don't hand it the wheel", "section on the new-grad learning worry", "delivery notes on slides and timing"],
+    "quality": 4,
+    "quality_reason": "Accessible, well-structured and audience-aware for a whole-company room; solid but familiar content."
+  },
+  "196": {
+    "main_claim": "Use AI coding assistants for almost everything but never hand them responsibility: you ship it, you own it.",
+    "choices": ["show-of-hands opening about unread suggestions", "case for leaning in vs five failure modes incl. review bottleneck", "rule set: never merge what you can't explain, scale scrutiny to stakes", "tutor-not-crutch advice for newer engineers", "delivery notes on balance and policy alignment"],
+    "quality": 4,
+    "quality_reason": "Thorough and balanced with good delivery notes, though somewhat long and list-heavy for five minutes."
+  },
+  "254": {
+    "main_claim": "Rather than answering whether to use AI for everything, ask who would notice when it leaves something out, as with the inaccessible checkout form.",
+    "choices": ["checkout form without screen-reader labels as central story", "'careful' only covers what you think to check", "frames quality as everyone's question since support heard first", "one ask: get customer reports to the building team within the week", "closing line 'Who would notice?' with fact-check flags"],
+    "quality": 4,
+    "quality_reason": "Tight, vivid and memorable with sensible fact-check flags; outline is a bit sparse."
+  },
+  "319": {
+    "main_claim": "Engineers should use AI assistants for basically everything under one ownership rule, framed as a 30-day bet with numbers reported back.",
+    "choices": ["bold position plus admission it can't yet be proven", "task-based line rejected in favor of 'who answers for the result'", "one rule: if it's in your PR, you wrote it", "one-team 30-day bet on review time and post-merge bugs with external judge", "asks for leadership and promise to report back"],
+    "quality": 4,
+    "quality_reason": "Clear, accountable framing with a concrete experiment and correct date; placeholders needed but very usable."
+  },
+  "431": {
+    "main_claim": "Engineers shouldn't use AI for everything because the accountable part of the job can't be delegated: if you ship it, you own it.",
+    "choices": ["show-of-hands opening and direct 'no'", "where it earns its keep vs where 'everything' breaks down", "three questions to ask before accepting AI output", "ask: share one win and one miss in a team channel", "one-slide and trimming delivery notes"],
+    "quality": 4,
+    "quality_reason": "Well-organized, even-handed and practical with a slide-ready checklist; conventional thesis."
+  },
+  "474": {
+    "main_claim": "Use AI tools a lot, but 'just review everything' hides a real cost that moves downstream to reviewers, QA and customers.",
+    "choices": ["QA-lead speaker for engineers and PMs", "AI code fails differently: reads clean, wrong in assumptions", "cost moves rather than vanishes; note for PMs on 'done'", "three review questions, not a policy", "closes with open questions instead of a rule"],
+    "quality": 4,
+    "quality_reason": "Sharp, focused angle on review cost with audience-specific points; slightly thin on concrete examples."
+  },
+  "504": {
+    "main_claim": "'Being careful' with AI isn't enough unless checks are built in, as shown by an AI-written checkout form that shipped without screen-reader labels.",
+    "choices": ["product designer speaker telling the checkout form story", "careful only works if you know what to look for", "everyone's question: support, design, product", "per-group asks: screen-reader checks, support route, specs naming invisible parts", "fact-check brackets before the talk"],
+    "quality": 5,
+    "quality_reason": "Compelling story, coherent argument and concrete cross-team asks with honest caveats; excellent fit for an all-hands."
+  },
+  "619": {
+    "main_claim": "The real skill is knowing which work to hand to AI and which to keep, while owning every line you ship.",
+    "choices": ["show-of-hands gap between using AI and explaining its code", "cheap-to-check vs expensive-to-be-wrong framing", "three questions: verify, explain, fix at 2 a.m.", "slogan 'delegate the typing, not the thinking'", "team practices: same review bar, PR disclosure"],
+    "quality": 4,
+    "quality_reason": "Clean structure with a strong callback opening and memorable test; content is fairly standard."
+  },
+  "648": {
+    "main_claim": "AI assistants are useful for neither everything nor nothing; use them where output is easy to check and own the result.",
+    "choices": ["volunteered backend engineer, 'it's fine' tone", "plain-language autocomplete/autocorrect analogy for non-engineers", "helps vs be careful, unified by ease of checking", "rule: if you couldn't explain it, don't ship it; eager new hire analogy", "extends lesson to AI-written emails and docs"],
+    "quality": 4,
+    "quality_reason": "Very accessible for a mixed audience with good timing and prep tips; safe, familiar take."
+  },
+  "696": {
+    "main_claim": "Use AI coding assistants a lot, but writing got cheap while checking didn't, so the real question is whether we can check everything we generate.",
+    "choices": ["QA-lead speaker for engineers and PMs", "cost moves downstream to review, tests, QA, customers", "AI tests can share the code's blind spots", "three habits: humans pick test cases, explain before review, 'done' means checked", "reframed closing question"],
+    "quality": 4,
+    "quality_reason": "Coherent, insightful QA perspective with practical habits; light on concrete stories."
+  },
+  "766": {
+    "main_claim": "Use AI for whatever it speeds up, but a named person must check what the tool can't know matters, and customer problems must reach builders fast.",
+    "choices": ["product designer opens with blind customer and unlabeled checkout form", "tool isn't the villain; shared ownership including design", "second gap: news reached engineering late via support", "one question per team plus fast-feedback habit", "before-Friday checks with engineering and support"],
+    "quality": 5,
+    "quality_reason": "Strong story-led opening, fair-minded tone and thoughtful prep notes that avoid ambushing colleagues."
+  },
+  "940": {
+    "main_claim": "Most engineers' 'it's fine' verdict on AI is untested, so each should run a one-week swap experiment to find their own line.",
+    "choices": ["volunteered ordinary-user persona; 'fine' means never checked", "line differs per person and task, set by habit not evidence", "ask: one swap each way, note time and fixes, post in channel", "explicitly says it's not a study", "aimed at engineers only"],
+    "quality": 4,
+    "quality_reason": "Fresh, actionable framing with honest limits; narrower audience focus than an all-hands might want."
+  }
+}

@@ -1,0 +1,31 @@
+# Your Resolution Didn't Fail. It Never Stood a Chance.
+
+Every January, millions of us make a solemn vow: *this is the year.* And by February, the new running shoes are a doorstop and the meal-prep containers have gone back to holding mystery leftovers.
+
+It's tempting to say people are just lazy. But I don't think we're lazy. I think we're vague.
+
+## The numbers aren't pretty
+
+You've probably seen the claim that only about 8% of people keep their New Year's resolutions. Nobody's quite sure where that exact number came from, but the general picture holds up: most of us have quietly given up long before spring. Strava, the fitness app, looked at its users' activity and found that the most common day to quit falls in the second week of January. They named it "Quitter's Day." We barely make it past the leftover Christmas cookies.
+
+## The real problem: your goal is a vibe
+
+"Get healthy." "Save money." "Be more present." Those are nice ideas, but they aren't goals. There's no finish line, no checklist, and no way to tell whether Tuesday counted. So "get healthy" slowly turns into "well, I had a salad once."
+
+Vague goals also mean every decision gets made on the spot, by willpower alone. And the you making that decision at 8 p.m. is tired, hungry, and three feet from a pizza menu.
+
+## How to make one that actually sticks
+
+**Get embarrassingly specific.** Not "exercise more," but "walk for 20 minutes after dinner, Monday through Friday." If you can't picture yourself doing it, it's still too vague.
+
+**Start smaller than your ego wants.** Two push-ups a day sounds silly. But you'll actually do two push-ups, and that beats the 50 you never got around to.
+
+**Attach it to something you already do.** Floss right after you brush. Read a page while your coffee brews. Let the old habit pull the new one along.
+
+**Aim toward something, not away from it.** Research suggests that "do more of X" resolutions tend to outlast "stop doing Y" ones. "Eat a vegetable with lunch" beats "stop eating junk."
+
+**Plan for the slip.** You'll miss a day. Everyone does. The rule isn't "never miss," it's "never miss twice."
+
+## The bottom line
+
+You don't need a brand-new you this January. You need a clearer to-do list. Make your resolution so specific that you know whether you did it today, and you'll be well ahead of the folks celebrating Quitter's Day.

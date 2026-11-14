@@ -26,4 +26,6 @@ The prompts and scripts were run in a cloud session where the skill lived at `/h
 - `runs/iteration-1/`: pilot of v1 (arms plain, plain_ctx, quick, full). Write-up: `pilot-results.md`, side by side: `pilot-viewer.html`.
 - `runs/iteration-2/`: v2 check (plain, full, v2; plus vague personas Jo and Max). Write-up: `v2-results.md`.
 - `runs/iteration-3/`: Test 3 (plain, plain_ctx, plain_asks, v2). Write-up: `test3-results.md`.
-- `runs/skill-v1/`: the v1 skill as tested.
+- `runs/iteration-4/`: Test 4, vague users (plain, skill, skill_direct, plain_asks). Write-up: `test45-results.md`.
+- `runs/iteration-5/`: Test 5, the pause before writing (plain, full, v2, v2r). Write-up: `test45-results.md`.
+- `runs/skill-v1/`: the v1 skill as tested. `runs/skill-repo/`: the repo build tested in Tests 4 and 5.

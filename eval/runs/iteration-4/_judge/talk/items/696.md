@@ -1,0 +1,34 @@
+# The Other Half of "Just Review It": 5-minute all-hands talk
+
+**Speaker:** QA lead · **Room:** mostly engineers, some PMs · **Length:** about 5 minutes spoken (roughly 650–750 words)
+
+## Outline
+
+**1. Opening (0:00–0:45): Yes, and the part nobody budgets for**
+- Straight answer: use AI coding assistants a lot. Not literally "everything", but a lot.
+- Every version of that advice ends with "just review it carefully." The talk is about those words, said by the person whose job starts where writing code ends.
+
+**2. What actually changed (0:45–1:45): writing got cheap, checking didn't**
+- Generating code is now fast. Knowing it's correct takes about as long as it always did.
+- So the cost hasn't gone away. It has moved downstream: to code review, to tests, to QA, and to customers when something gets past all three.
+- For the PMs: a feature can *look* finished much sooner than it *is* finished. The gap between "it's written" and "it works" is where the risk sits now.
+
+**3. Why "review everything" is harder than it sounds (1:45–3:00)**
+- AI-written code looks tidy and confident. Reviewers are used to catching mistakes in code that looks sloppy, and this code doesn't.
+- Reviewing code nobody on the team reasoned through line by line is slower and harder than reviewing code the author worked out themselves. Diffs also get bigger.
+- Tests written by the same tool that wrote the code can share its blind spots. They check the code against its own assumptions, not against what the feature is supposed to do.
+- *[Optional: one moment from your own testing work that shows this. Leave the section general if you don't have one; don't borrow an industry anecdote.]*
+
+**4. What "use it a lot" should mean (3:00–4:15): three habits, not a policy**
+- **Decide what should be true yourself.** Let the tool write tests, but a human picks the cases: edge cases, failure modes, what the user actually needs.
+- **If you can't explain the change, it isn't ready for review.** Generated or not, the author owns understanding it.
+- **For PMs: "done" means checked, not generated.** When AI makes the build faster, the time for checking it has to show up in the plan, or it quietly disappears.
+
+**5. Close (4:15–5:00): change the question**
+- The question isn't "should we use AI for everything?" It's "can we check everything we generate?"
+- Where the checking keeps up, use the tools freely. Where it can't, that's where to slow down.
+- Nothing to decide today. Invite the room to bring QA in earlier, and to tell you where review is struggling to keep up.
+
+## Opening paragraph
+
+I'm [your name], and I lead QA, which means my job starts roughly where the code everyone in this room writes ends. So when people ask whether engineers should use AI coding assistants for everything, my honest answer is: mostly, yes. Use them a lot. But every version of that advice ends with the same four words, "just review it carefully," and I want to spend my five minutes on those four words, because that's the part I see up close. These tools have made writing code fast. They haven't made knowing it works any faster. That second job is still ours, engineers and PMs both, and I want to make sure it doesn't end up getting whatever time is left over.

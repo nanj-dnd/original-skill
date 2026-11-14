@@ -1,6 +1,6 @@
 # Evaluation of this skill, November 2026
 
-Three rounds, 14 Nov 2026: a pilot of v1, a check of v2, then Test 3 (generic questions). Small samples and
+Five rounds, 14–15 Nov 2026: a pilot of v1, a check of v2, Test 3 (generic questions), Test 4 (vague users), Test 5 (the pause). Small samples and
 model-written personas, so read the numbers as direction, not effect size.
 
 ## Setup
@@ -73,6 +73,37 @@ A plain model told only to "ask whatever clarifying questions would help, then w
   and test lines (which users acted on), and the shortlist for vague users (untested
   for quality).
 
+## Test 4: vague users
+
+8 vague personas, 4 of them holding one detail they'd give only if asked for it specifically.
+
+| Arm | Distinct ideas of 4 (talk / blog) | Fit | Quality (talk / blog) | Score vs plain (lower = further) |
+|---|---|---|---|---|
+| Plain | 2 / 1 | chance | 4.0 / 4.0 | — |
+| This skill (full flow) | 4 / 4 | 4/4 | 4.0 / 4.0 | 0.81 / 0.81 |
+| Same answers, forced direct path | 4 / 4 | 4/4 | 4.2 / 4.8 | 0.56 / 0.62 |
+| Plain model's own questions | 4 / 3 | 4/4 | 4.5 / 4.2 | 0.75 / 0.88 |
+
+- The shortlist and the "default done well?" check didn't help. Writing directly from the
+  same answers scored higher and landed further from the default. All three users offered
+  the default (Bo, Jo, Raj) took it.
+- These questions drew out 3 of 4 hidden details; a plain model's own drew out 4 of 4. The
+  miss: the real-case question offered no option for numbers.
+
+## Test 5: the pause before writing a talk
+
+The pause did not recover quality (talk 3.5 vs 4.0 for v2; blog 3.75 vs 4.5). Users did add
+things at the pause, but the judge marked pieces down for placeholders and "[unchecked]"
+notes left inside the deliverable. Three runs were stopped by a model safety check and are
+missing.
+
+## Overall
+
+The gain comes from asking before writing. This skill's question wording, its shortlist and
+its "default done well?" check add nothing measurable on top. What still distinguishes it:
+it makes the model ask, shows the default, gives objection and test lines, and flags
+unchecked facts. Those flags belong in a note after the deliverable, not inside it.
+
 ## What runs did badly
 
 - Cited studies from memory (web search was off) and flagged them as unchecked, but a
@@ -92,11 +123,8 @@ A plain model told only to "ask whatever clarifying questions would help, then w
 
 ## Open tests, most useful first
 
-1. Vague users for quality: 4+ per task, comparing v2's shortlist path, writing directly
-   from thin answers, and plain_asks. This is where question design should matter most.
-2. (Done: plain_asks, see Test 3.)
-3. Whether a cheap "anything to add?" moment recovers the pick-time tweaks without a
-   mandatory extra turn.
-4. Real users on 2–3 real tasks.
-5. 8+ outputs per arm, two judge passes, a judge from another model family.
-6. Runs with web search on, to see unverified figures actually get checked.
+1. A simplified build (show the default, ask, build directly, objection and test, checks in a
+   note after the deliverable) against this one and against plain_asks.
+2. Real users on 2–3 real tasks.
+3. 8+ outputs per arm, two judge passes, a judge from another model family.
+4. Runs with web search on, to see unverified figures actually get checked.

@@ -1,0 +1,23 @@
+# Nobody Quits Their New Year's Resolution
+
+Picture where most resolutions get made. It's a few minutes to midnight, someone is topping up your glass, and a friend asks, "So what's your resolution?" You have about four seconds to come up with something that sounds good out loud. "Read more." "Get fit." "Finally learn Spanish." Everyone nods. Glasses clink. Then the countdown starts, and nobody thinks about it again.
+
+That's the part the usual advice skips. Every January brings the same articles: your goals were too vague, too big, you ran out of willpower. Maybe. But that assumes there was a moment when you looked at your resolution and decided to give up. For most of us, there wasn't. I've made some resolutions. I couldn't tell you what most of them were. I didn't quit them. I forgot them.
+
+Think about the conditions. You made the promise late at night, mid-party, possibly a few drinks in, to people who also won't remember it. Then the holidays end, work restarts, the inbox fills up, and the resolution has nowhere to live. No reminder, no plan, nobody asking. By mid-January there's nothing left to fail at. It's just gone.
+
+If that's the real problem, the fix isn't more willpower. It's a better memory. A few ideas:
+
+**Write it down on January 1st, in daylight.** If it still sounds good the morning after, it might be a real one. If it doesn't, you've saved yourself a year of low-level guilt.
+
+**Pick one.** Three resolutions are three things to forget. One is something you might still recognize in March.
+
+**Put it where you'll trip over it.** Your phone's lock screen, a sticky note on the bathroom mirror, the first page of a notebook you actually open. If you see it once, you'll remember it once.
+
+**Book a check-in.** Set a calendar reminder for February 1st that just says what the resolution was. Then another for March. Thirty seconds of setup beats eleven months of amnesia.
+
+**Tell someone who'll ask.** Not the whole party. One friend who will actually text you in a few weeks: "So, how's the Spanish?" (If you're reading this, you might be that friend. Consider yourself on duty.)
+
+None of this makes the resolution itself any easier. It just means that if you do drop it, that's a decision you made, not something that slipped out of your head around January 4th.
+
+So this year, by all means, make one at midnight. Just don't let midnight be the last time you hear about it.

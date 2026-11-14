@@ -1,0 +1,1 @@
+1d: people give up, I suppose. 2d 3: not sure, whatever you think 4d: it's a gardening blog, so the readers are other gardeners. And honestly, I think January is the worst month to start anything. Nothing grows in January. Gardeners plan in winter and start in spring, that's just how it works.

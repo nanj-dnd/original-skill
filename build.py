@@ -32,7 +32,7 @@ FRONTMATTER = {
             "\"/original export\" or \"export this run\" to make a PDF of a run. Not for tasks with "
             "one right answer."
         ),
-        "extra": ['user-invocable: true', 'argument-hint: "[quick] <the task, pasted as-is> | export [run]"'],
+        "extra": ['user-invocable: true', 'argument-hint: "<the task, pasted as-is> | export [run]"'],
         "max_description": 1024,
     },
     "claude-ai": {

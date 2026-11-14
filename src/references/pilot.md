@@ -121,6 +121,17 @@ marks. It was replayed from the stored answers of all 16 personas.
   a plain model's own questions in 3 of 4 sets: the first measurable edge over generic
   clarifying questions. No markers leaked into any v3 deliverable.
 
+## Test 7: first real user, blind (v3, n = 1)
+
+Anshul, one real task (a startup pitch: positioning, paragraph, cold email). Fresh
+agents ran plain_asks and v3; he answered both question sets by clicking options and
+picked between the two finished pieces blind. **He picked plain_asks**, for the email's
+move. Both pieces had the same angle. v3 never asked about tone and handed the writing
+to his voice skill, producing lowercase founder copy where he wanted it corporate. Both
+question sets were too long to answer in prose. Full write-up in
+`eval/test7-real-user/`. This led to the cut-down skill: 3–4 clickable questions
+including tone, no quick mode, voice skill only on request.
+
 ## What runs did badly
 
 - Cited studies from memory (web search was off) and flagged them as unchecked, but a
@@ -142,6 +153,6 @@ marks. It was replayed from the stored answers of all 16 personas.
 
 1. (Done: the simplified build, see Test 6.) A second judge pass, or a judge from another
    model family, to confirm v3's edge over plain_asks.
-2. Real users on 2–3 real tasks.
+2. More real users and tasks (Test 7 was one task, one pick).
 3. 8+ outputs per arm, two judge passes, a judge from another model family.
 4. Runs with web search on, to see unverified figures actually get checked.

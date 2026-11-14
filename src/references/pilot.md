@@ -1,6 +1,6 @@
 # Evaluation of this skill, November 2026
 
-Two rounds, 14 Nov 2026: a pilot of v1, then a check of v2. Small samples and
+Three rounds, 14 Nov 2026: a pilot of v1, a check of v2, then Test 3 (generic questions). Small samples and
 model-written personas, so read the numbers as direction, not effect size.
 
 ## Setup
@@ -13,7 +13,7 @@ model-written personas, so read the numbers as direction, not effect size.
   The v2 check added two vague personas (Jo, Max) with no case and soft views.
 - **Arms**: plain (task only) · plain + answers (the persona's answers to this skill's
   questions, without "What everyone gets") · quick mode · full v1 · v2 (replaying the
-  same answers).
+  same answers) · plain_asks (the plain model asks its own questions; Test 3).
 - **Judging**, blind: main claim and choices extracted per output; pairs scored 0–3 for
   sameness of idea; fit (which of two personas was this written for; chance 50%);
   quality 1–5; embedding similarity as a second spread measure.
@@ -51,6 +51,28 @@ model-written personas, so read the numbers as direction, not effect size.
 - Jo (vague) went to the shortlist. With no real day to draw on, the run wrote
   placeholders instead of inventing one, and said the position had not moved.
 
+## Test 3: this skill's questions vs a plain model's own
+
+A plain model told only to "ask whatever clarifying questions would help, then write"
+(plain_asks) matched this skill on every measure, with the same 8 personas.
+
+| Arm | Distinct ideas of 4 (talk / blog) | Fit | Quality (talk / blog) |
+|---|---|---|---|
+| Plain | 1 / 1 | chance | 4.0 / 4.0 |
+| Plain + this skill's questions | 4 / 4 | 4/4 | 4.5 / 4.2 |
+| Plain + its own questions | 4 / 4 | 4/4 | 4.5 / 4.0 |
+| v2 | 4 / 4 | 4/4 | 4.2 / 4.2 |
+
+- plain_asks reached the same main idea as v2 for 6 of 8 personas, and the same idea
+  with different supporting choices for the other 2.
+- The plain model's questions were already good: 4–6 each time, every set asked for a
+  real story or specifics, and most named the generic version to avoid.
+- So the gain is from asking before writing, which a plain model never does unasked;
+  the wording of these questions added nothing measurable with clear-view users. What
+  this skill adds on top: it makes the model ask, it shows the default, its objection
+  and test lines (which users acted on), and the shortlist for vague users (untested
+  for quality).
+
 ## What runs did badly
 
 - Cited studies from memory (web search was off) and flagged them as unchecked, but a
@@ -64,15 +86,15 @@ model-written personas, so read the numbers as direction, not effect size.
   judges.
 - Vivid personas with a story ready, which is when context dominates. Vague users were
   tested for routing only, not output quality.
-- The plain + answers arm used this skill's own questions, so this shows they are
-  enough, not that generic clarifying questions would do as well.
+- The personas answered fully whatever they were asked, so question design had little
+  to win; Test 3 should be repeated with vague personas before concluding it never
+  matters.
 
 ## Open tests, most useful first
 
-1. A plain_asks arm: the plain model writes its own clarifying questions. If it matches
-   plain + answers, the question design adds little.
-2. Vague users for quality: 4+ per task, shortlist path against writing directly from
-   thin answers.
+1. Vague users for quality: 4+ per task, comparing v2's shortlist path, writing directly
+   from thin answers, and plain_asks. This is where question design should matter most.
+2. (Done: plain_asks, see Test 3.)
 3. Whether a cheap "anything to add?" moment recovers the pick-time tweaks without a
    mandatory extra turn.
 4. Real users on 2–3 real tasks.

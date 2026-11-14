@@ -1,0 +1,7 @@
+**Distance from the default**
+
+- **Thesis:** the default splits tasks into "good for AI" and "bad for AI". This talk refuses that split and asks where the saved time goes. That came from turning the default's main claim upside down, not from anything you told me (quick mode, no questions asked).
+- **Audience:** the default speaks to engineers. This talks to the whole room ("your roadmap, not our editors", and the three places time can go, each tied to the department that feels it). That came from the one fact in the task the default ignored: it's an all-hands.
+- **Evidence:** the default opens with an adoption stat. This uses a result that cuts against the hype (the METR trial: slower, but felt faster) to say we haven't measured ourselves. The figures need checking before Friday.
+- **Ending:** the default closes with "use it wisely". This ends with a six-week measurement, a decision made in the open about where saved time goes, and a promise to report back at the next all-hands. That came from the 5-minute limit: too short to settle the debate, long enough to start something.
+- **What's honestly the same:** "keep humans accountable" and the worry about juniors (section 4) are both in the default's territory. They show up here as options for the time, not as the argument. Nothing in this is personal to you yet. Your own story about these tools would make it more yours than any of the above.

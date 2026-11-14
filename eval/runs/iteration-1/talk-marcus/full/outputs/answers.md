@@ -1,0 +1,7 @@
+1c 2: Mostly the engineers and their managers. Sure, it's the whole company in the room, and sales and support should get the gist, but the people who actually have to change something are the engineers and the managers deciding how juniors get trained. 3a 4: Staff engineer. I'm on the on-call rotation and I run our incident reviews, so I'm the one who watches these incidents get picked apart afterwards. 5b
+
+On 1, so it's clear: my worry isn't code quality. It's that we're losing skills. Over the last six months our median time-to-resolve for P2 incidents went from 38 to 61 minutes. In reviews I keep seeing engineers who can't follow a stack trace through code they supposedly wrote. I'm fine with assistants for writing new code, and I use them myself, so please don't make me sound like I'm against AI. Think of it like the autopilot in a plane. It's great, but you still have to be able to hand-fly when it drops out, and pilots still train on manual flying for that reason.
+
+On 3: we had a 2am outage where the on-call engineer pasted the error into the assistant four times and got four different fixes, each one stated with total confidence. I found the cause in about 10 minutes just by reading the log.
+
+On 5: the change I want is that juniors do their first six months of debugging without an assistant. They can still use it to write code, just not to debug. Same idea as pilots logging manual hours before they lean on the automation.

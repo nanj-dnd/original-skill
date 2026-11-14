@@ -1,0 +1,74 @@
+{
+  "203": {
+    "main_claim": "The claim that most resolutions fail confuses failed attempts with final outcomes; repeated, better-informed attempts are how lasting change actually happens.",
+    "choices": ["first-person story of quitting smoking on the fourth try", "cites Chaiton et al. 2016 BMJ Open on 6-30 quit attempts", "each relapse reveals a specific trigger (wedding, coffee, driving, brother)", "warns that repeating the same plan is not a new experiment", "addressed to readers who have just relapsed"],
+    "quality": 5,
+    "quality_reason": "Tight, personal, well-argued reframe with an accurate citation and a sharp caveat; fits length."
+  },
+  "209": {
+    "main_claim": "Resolutions fail because of how they are set up, not a lack of willpower.",
+    "choices": ["five bolded causes: outcomes not actions, too big too fast, all-or-nothing slips, arbitrary January timing, missing 'why'", "examples like running, reading, Spanish", "tips: smaller promises, habit stacking, expect stumbles, start any month", "general audience listicle"],
+    "quality": 4,
+    "quality_reason": "Clear, accurate, on-length and usable, though conventional."
+  },
+  "290": {
+    "main_claim": "Many resolutions fail because standard habit advice assumes a fixed 9-to-5 clock, so people with shifting schedules should anchor habits to events instead of times.",
+    "choices": ["first-person shift worker whose 6am gym habit died when rotation flipped to nights", "fix: gym right after any shift ends, kept 14 months", "if-then planning (implementation intentions)", "four bolded tips for rotating schedules", "written for shift workers and new parents"],
+    "quality": 5,
+    "quality_reason": "Specific, coherent, practical angle with a concrete personal example and accurate psychology reference."
+  },
+  "297": {
+    "main_claim": "Most resolutions fail for structural reasons rather than lack of willpower.",
+    "choices": ["empty-gym-by-February opening", "five causes: vague wishes, too much at once, fighting existing routines, slip-as-failure, arbitrary timing", "takeout-on-the-drive-home example", "tips: one small thing, habit stacking, plan for misses, start whenever", "general audience"],
+    "quality": 4,
+    "quality_reason": "Well written, accurate and usable standard take; slightly more concrete than typical."
+  },
+  "420": {
+    "main_claim": "Resolutions that need one setup decision survive while those requiring a daily decision fail, so automate resolutions instead of relying on willpower.",
+    "choices": ["author's spreadsheet of 11 resolutions with 2 survivors", "cites Norcross and Vangarelli 200-person study (19% at two years)", "survivors: automatic savings transfer and doorway pull-up bar", "'decisions per year' test (one vs 365)", "personal-finance framing ('pay yourself first')"],
+    "quality": 4,
+    "quality_reason": "Fresh, data-flavored argument with accurate citation; pull-up bar example slightly strains the one-decision thesis though it is addressed."
+  },
+  "488": {
+    "main_claim": "Saying most resolutions fail counts failed attempts as outcomes; most people who succeed fail several times first and learn from each attempt.",
+    "choices": ["first-person quitting smoking on fourth try after 15 years", "CDC 2015 data: over half tried to quit, ~7% succeeded, most ever-smokers have quit", "failed attempts reveal triggers you can't know in advance", "skeptical of the uncited 80%-by-February statistic", "addressed to people who relapsed"],
+    "quality": 5,
+    "quality_reason": "Thoughtful, accurate, well-structured reframe with honest nuance about willpower."
+  },
+  "682": {
+    "main_claim": "Resolutions survive when they can be turned into a single setup action rather than a daily decision, so automate them.",
+    "choices": ["author's spreadsheet: 2 of 11 resolutions kept", "Norcross and Vangarelli stats (77% at one week, 19% at two years)", "Madrian and Shea 401(k) auto-enrollment result (37% to 86%)", "list of finance resolutions converted to setup actions", "personal-finance-leaning reader"],
+    "quality": 5,
+    "quality_reason": "Coherent, evidence-backed, actionable, with accurate citations and honest caveat on the pull-up bar."
+  },
+  "693": {
+    "main_claim": "Resolutions fail because of vague goals, overload, arbitrary timing and all-or-nothing thinking, not lack of willpower.",
+    "choices": ["five bolded causes including outcomes vs systems", "bulleted fixes: pick one, make it tiny, attach to existing routine, never skip twice", "closing 'aim for March' line", "general audience"],
+    "quality": 4,
+    "quality_reason": "Polished and accurate standard advice post; generic but very usable."
+  },
+  "705": {
+    "main_claim": "Resolutions made only to ourselves fail because we forgive ourselves too easily, and they stick when tied to another person who is counting on us.",
+    "choices": ["older narrator's walk-more resolution that kept lapsing", "neighbour Joan after hip surgery, daily 9am walks for two years", "critique of productivity-focused advice aimed at younger people", "advice: tie the goal to a person, reach out to a neighbour", "written for older readers"],
+    "quality": 5,
+    "quality_reason": "Warm, distinctive voice, coherent argument and fitting personal-blog tone."
+  },
+  "764": {
+    "main_claim": "Resolutions fail because nobody but ourselves notices when we skip, and they stick when they become a promise to someone else.",
+    "choices": ["older narrator who kept dropping 'walk more'", "neighbour Joan's hip recovery led to weekday 9am walks", "argues specificity advice misses the point", "older people want connection, not productivity", "advice: tie it to a person and go knock"],
+    "quality": 5,
+    "quality_reason": "Charming, coherent, well-paced personal essay that fits the request."
+  },
+  "809": {
+    "main_claim": "Resolutions often fail at predictable schedule changes because standard advice assumes a 9-to-5, so habits should be tied to events and built for your worst week.",
+    "choices": ["shift worker whose 6am gym habit died each time rotation went to nights", "rule: gym after any shift ends, kept 14 months", "tips: find the date it broke, event not time, design for worst week, don't count hard stretches as quitting", "for shift workers and new parents"],
+    "quality": 5,
+    "quality_reason": "Specific, practical, well-structured and on-length with a clear voice."
+  },
+  "947": {
+    "main_claim": "Most resolutions fail because of how they are built, not because people are lazy.",
+    "choices": ["sections: wish not plan, changing everything at once, what-the-hell effect, outcomes vs identity", "'read ten pages before phone' example", "tips: one small thing, attach to routine, plan for misses, start any day", "closing on self-patience; general audience"],
+    "quality": 4,
+    "quality_reason": "Clean, accurate and usable conventional post with headers suited to a blog."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "138": {
+    "main_claim": "Whether to use AI for everything is the wrong question; the company should measure what time the tools save and deliberately decide where that time goes.",
+    "choices": ["opens with an unanswerable question about hours saved", "cites METR 2025 trial (slower but felt faster) with a verify note", "three destinations for saved time: scope, care, people", "ask: no mandate, teams track 1-2 metrics for six weeks", "framed for whole company, not just engineers"],
+    "quality": 5,
+    "quality_reason": "Coherent, well-timed, accurate citation with hedging, concrete ask that fits an all-hands."
+  },
+  "149": {
+    "main_claim": "Use AI assistants for almost everything except the accountability part: if you ship it, you own it.",
+    "choices": ["show-of-hands opener", "list of good uses vs. where 'everything' breaks", "three questions to ask before accepting AI output", "ask: share one win and one failure in a team channel", "delivery notes on word count and slides"],
+    "quality": 5,
+    "quality_reason": "Balanced, polished, directly answers the question with a memorable rule and practical delivery notes."
+  },
+  "159": {
+    "main_claim": "Framed as a blameless postmortem of an AI-written migration, the talk argues the real question is who owns AI-generated code, not whether to use it.",
+    "choices": ["postmortem structure (what happened, impact, root cause, action items)", "August migration that dropped a NOT NULL constraint", "review load data: PRs up 60%, seniors 4 to 11 hours", "three rules: author owns every line, no 'AI wrote it' excuse, split PRs over 400 lines"],
+    "quality": 4,
+    "quality_reason": "Strong, concrete and well structured, but leans on company-specific incident and figures not in the request with little prompting to verify them."
+  },
+  "174": {
+    "main_claim": "AI is fine for writing code, but heavy reliance is eroding debugging skill, so juniors should debug without an assistant for their first six months.",
+    "choices": ["2am outage story with four confident wrong fixes", "P2 resolution time rose from 38 to 61 minutes", "autopilot / manual flying analogy", "ask for managers: juniors debug without AI for six months", "prep notes to verify figures and get sign-off"],
+    "quality": 4,
+    "quality_reason": "Vivid and actionable with honest caveats, though built on specific incident data the request didn't supply."
+  },
+  "188": {
+    "main_claim": "Which tasks to give AI is engineers' judgment, but putting customer data or production logs into external tools is a hard rule with no exceptions.",
+    "choices": ["two halves: judgment vs. rule", "synthetic log line shown to reveal hidden customer data", "audience includes risk and compliance", "what to do instead: redact or use fake data", "end on the rule word for word"],
+    "quality": 4,
+    "quality_reason": "Clear and memorable, but narrows the question heavily to data compliance and assumes audience details not given."
+  },
+  "196": {
+    "main_claim": "Use AI for almost everything, but keep the understanding, judgment and accountability: delegate the typing, not the understanding.",
+    "choices": ["show of hands about accepting unread suggestions", "good uses vs. three risks (wrong answers, skill atrophy, ownership)", "three habits incl. explain-it-in-review rule", "ask: flag one AI-assisted change in next PR", "placeholders for team example and policy"],
+    "quality": 5,
+    "quality_reason": "Balanced, well-timed, ready to use with sensible placeholders and a concrete ask."
+  },
+  "254": {
+    "main_claim": "Engineers already use AI for nearly everything; the job has shifted to writing specs and tests, because code is cheap but being right isn't.",
+    "choices": ["calendar sync built in one day, six more days to ship", "AI as a literal-minded contractor analogy", "140 tests, missing time-zone case ('test 141')", "aimed mostly at non-engineers: sales/support feed edge cases"],
+    "quality": 4,
+    "quality_reason": "Engaging story and clear takeaway for non-engineers, but relies on an unprovided company anecdote and sidesteps the 'should' question."
+  },
+  "319": {
+    "main_claim": "Use judgment about where AI helps, but never put customer data or production logs into any external tool.",
+    "choices": ["judgment vs. one hard line structure", "measure time to merged-and-stable, not first draft", "full minute on the data rule with what-to-do-instead", "audience of ~80 incl. risk and compliance", "repeat rule identically three times"],
+    "quality": 4,
+    "quality_reason": "Thorough and practical, with good delivery notes, but assumes audience and compliance context not in the request."
+  },
+  "431": {
+    "main_claim": "Use AI coding assistants for almost everything but never hand them responsibility: you ship it, you own it.",
+    "choices": ["show-of-hands opener on accepting unread suggestions", "benefits list then five failure modes", "rule set: explain before merge, scale scrutiny, write/read tests, disclose AI use", "delivery notes on balance and real stories"],
+    "quality": 5,
+    "quality_reason": "Comprehensive, balanced and polished; slightly long but easy to trim."
+  },
+  "474": {
+    "main_claim": "Using an AI-written migration that broke reconciliation as the hook, the talk argues the real question is ownership, and that AI moved the cost of code onto review.",
+    "choices": ["August migration incident, explained in plain terms", "speaker leads seven engineers; review hours 4 to 11", "section on why it matters to sales, ops and compliance", "placeholder commitments: explain-to-merge, stricter data review, spread review"],
+    "quality": 4,
+    "quality_reason": "Clear and well pitched to a mixed room, but depends on company-specific incident and numbers not given in the request."
+  },
+  "504": {
+    "main_claim": "Mostly yes for the code, but when coding gets cheap the hard part moves to defining what to build, so everyone must give clearer asks.",
+    "choices": ["'the hard part moved' framing", "placeholder for a real before/after from the team", "vague asks now produce finished wrong things", "main ask to non-engineers: write what 'done' means"],
+    "quality": 4,
+    "quality_reason": "Tight and coherent with a clear ask, though thinner and less developed than others."
+  },
+  "619": {
+    "main_claim": "The right question isn't yes or no but where: hand off work that's cheap to verify, keep hands on what isn't, and own every line.",
+    "choices": ["show-of-hands gap between using and being able to explain", "split by how cheap the output is to check", "three questions: verify, explain, fix at 2am", "pick-two team practices incl. same review bar"],
+    "quality": 5,
+    "quality_reason": "Well organized, memorable opener and clear rule of thumb; ready to deliver."
+  },
+  "648": {
+    "main_claim": "Use AI to write code but not to debug, because plausible-answer tools are wrong for single-cause problems, so juniors should learn to debug without them.",
+    "choices": ["2am outage with four confident wrong fixes", "P2 resolution time 38 to 61 minutes", "writing vs. debugging as different kinds of problems", "pilot manual-flying parallel citing FAA SAFO 13002", "ask: juniors debug without AI for six months"],
+    "quality": 4,
+    "quality_reason": "Insightful argument and accurate citation, but built on company figures not supplied and opening is a bit long."
+  },
+  "696": {
+    "main_claim": "Use AI for almost everything, since most code should be standard, but not for the parts that should differentiate the company from competitors.",
+    "choices": ["AI gives the most likely answer framing", "competitors have the same tools", "line is 'should this be the same as everyone else's?'", "ask: each team lists 2-3 'different on purpose' areas where humans draft first"],
+    "quality": 4,
+    "quality_reason": "Fresh, coherent argument with a clear ask, though relies on placeholders for its key examples."
+  },
+  "766": {
+    "main_claim": "AI writes code fast, but the real work is deciding what's right, so non-engineers should feed engineering weird customer cases early.",
+    "choices": ["interactive vote on a recurring meeting across time zones", "calendar sync: built day 1, done day 7", "explains tests to non-engineers", "ask: one weird customer case a week from outside engineering"],
+    "quality": 4,
+    "quality_reason": "Engaging and memorable, but leans on unprovided company specifics (twelve people, calendar sync) and barely addresses the 'should' question."
+  },
+  "940": {
+    "main_claim": "Engineers should mostly use AI, but cheap code shifts the bottleneck to decisions, so the rest of the company must decide faster, specify clearer, and say no more.",
+    "choices": ["'the queue moves' framing", "brief engineering answer: reviewing is the new core skill", "three asks for non-engineers: decide faster, clearer requests, say no", "placeholder for a real company example", "speaker note for an engineer-heavy room"],
+    "quality": 4,
+    "quality_reason": "Coherent and well tailored to a company-wide audience, with a useful fallback note; slightly abstract without a real example."
+  }
+}

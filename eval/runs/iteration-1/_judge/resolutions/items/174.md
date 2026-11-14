@@ -1,0 +1,21 @@
+# Your Resolution Didn't Fail. It Was Built for Someone Else's Week.
+
+Every January the same advice makes the rounds. Wake up at the same time every day. Build a morning routine. Protect your evenings. It's good advice, if you work 9 to 5.
+
+If you're on rotating 12s, doing nights in a warehouse, or up at 3am with a newborn, "same time every day" isn't a plan. It's a joke someone else gets to be in on.
+
+I know because I tried it three years in a row. Every January I committed to the gym at 6am. Every year it was dead by February. That wasn't laziness, and it wasn't a lack of wanting it. The rotation flipped me to nights, and 6am went from "before work" to "the middle of my sleep." The habit had nowhere to stand.
+
+That's the part most resolution talk skips. We're told resolutions fail because of weak willpower or vague goals. Mine was about as clear as a goal gets. What it didn't have was a method that fit my life. The advice assumed a week that holds still, and mine never has.
+
+So here's what finally worked, and what I'd pass on to anyone whose schedule looks like a ransom note.
+
+**Tie the habit to an event, not a clock.** My rule now is: the gym is the first thing I do after any shift ends, day or night. No time attached. Day shift ends, I go. Night shift ends, I go. I've kept it up for 14 months, which is longer than all three of my 6am attempts put together.
+
+**Pick an event that happens no matter what.** "After I clock out." "After the first feed of the day." "When I get home from the warehouse." It needs to be something your week can't rearrange out of existence.
+
+**Size it for your worst stretch, not your best.** Three nights in a row will flatten you. If the habit only works on a good week, it won't make it to March. On a rough day, a short version still counts.
+
+**When the rotation changes, don't start over.** Ask what event the habit is attached to, and find where that event lands this week. The habit moves with your schedule instead of breaking against it.
+
+If your resolution has already died this year, I'd gently push back on the story that you failed it. More likely it was written for someone with a different week. Rewrite it for yours.

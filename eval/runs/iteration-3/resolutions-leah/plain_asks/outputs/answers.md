@@ -1,0 +1,9 @@
+1. Yes, I have an angle. Most resolution advice is written for people with a 9-to-5. "Same time every day," "build a morning routine," "wake up at 6 and work out." That's useless if you work rotating shifts. Nurses, warehouse workers, anyone with a newborn: we don't have a "morning," we have whatever comes after we wake up. A lot of resolutions fail because the advice never fit our lives, not because we lack willpower. So please don't use the outcomes-vs-habits thing or the January thing. This is the argument.
+
+2. Yep. Three years in a row I resolved to go to the gym at 6am. Three years in a row it was dead by February, every time because the rotation flipped me to nights and 6am turned into "the middle of my sleep" or "the end of a 12-hour shift." What finally worked was tying it to an event instead of a clock: the gym is the first thing I do after any shift ends, day or night. Shift over, gym bag's in the car, I go. I've kept that up for 14 months now. Use that as the running example.
+
+3. Practical, warm, a little wry. I'm talking to other nurses and healthcare people (most of my readers come from my Instagram), so it should sound like I'm talking to coworkers in the break room, not giving a TED talk. Light humor is fine. Please don't use the word "simply" anywhere. Nothing about our lives is simple, and that word makes me want to throw my phone.
+
+4. End with practical advice, but make it specific to shift work. I want stuff people can actually use, like anchoring to events (end of shift, first meal after waking, the drive home) instead of times. No generic "start small and be kind to yourself" filler.
+
+5. Mostly experience. If there's a real, solid stat about shift workers or habit research that supports the anchoring idea, one or two is fine, but don't stack the post with that "92% of resolutions fail" stuff everyone quotes. My readers trust real-life examples more than numbers.

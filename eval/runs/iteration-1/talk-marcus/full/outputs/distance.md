@@ -1,0 +1,7 @@
+**Distance from the default**
+
+- **The line is between writing and debugging, not "some things vs. everything."** The default splits AI work into boilerplate (fine) and architecture or security (risky). This talk splits it by kind of problem: plausible answers for writing, one true cause for debugging. Caused by 1c (the worry is lost skills, not code quality) and your write-yes/debug-no split.
+- **One night carries the talk, not generic statistics.** The default uses industry numbers like "X% faster." This talk opens on the 2am outage with four fixes against ten minutes in the log, and backs it with your own P2 number (38 to 61 minutes). Caused by 3a and the number you gave in answer 1.
+- **The speaker has a stake and admits the habit.** The default's speaker is neutral. Here the speaker runs incident reviews, is on the rotation, uses the assistant daily and includes himself in "all of us." Caused by 4 (staff engineer on call) and your request not to sound anti-AI or blame one person.
+- **It ends on one rule with an owner, not a list of do's and don'ts.** Juniors spend six months debugging without the assistant, and managers own the training. Caused by 5b and your answer to 2 (managers decide how juniors get trained).
+- **The close is pro-AI.** The default ends on "the future is human + AI." This talk argues the rule is what makes leaning harder on AI safe, using the airline parallel. Caused by your pick of C with D's ending.

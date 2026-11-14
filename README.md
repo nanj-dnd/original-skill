@@ -12,6 +12,8 @@ One source, two builds: Claude Code (installed skill) and claude.ai (upload zip)
 - `build.py`: descriptions per target live at the top of this file.
 - `dist/`: build output. Regenerated each time; don't edit.
 - `v2-as-received/`: v2 exactly as it came from the claude.ai session, for reference.
+- `eval/`: the evaluation harness (tasks, personas, prompts, scripts), the three write-ups
+  (`pilot-results.md`, `v2-results.md`, `test3-results.md`) and every run's outputs in `eval/runs/`.
 
 ## Build and install
 

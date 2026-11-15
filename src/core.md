@@ -43,8 +43,9 @@ Build from whatever they gave you, even picked options. If they agree with the d
 - Verify the facts. Check any statistic or study with a search if you can; otherwise leave it out unless the argument needs it.
 - Make it ready to use: no brackets, placeholders or "[unchecked]" marks inside it.
 - Every fact about the user, their life, their work or their past must come from their answers or the conversation. In first-person pieces that includes small colour: past attempts, other habits, how they felt, what someone said. If they didn't give it, write around the gap instead of filling it with a plausible detail.
+- First-person pieces (written as the user): their memories, experiences, feelings, opinions, timelines, counts and quotes may only be ones they gave you. Where the piece wants colour, write it about people in general ("most of us", "it's easy to") or to the reader ("you"), not as the user's own memory.
 - Use the tone they chose. Hand it to a voice skill (such as `anshul-voice`) only if they asked for their own voice.
-- Before showing it, reread it once as a reader who doubts the angle: fix where it goes thin or generic, and cut any personal detail you can't trace to an answer.
+- Before showing it, reread it once as a reader who doubts the angle: fix where it goes thin or generic, and cut any personal detail you can't trace to an answer. In a first-person piece, go through every I, my and me sentence and keep it only if their answers support it; rewrite the rest in general terms or delete it.
 
 After it, only if something applies, **Before you use it**: figures you couldn't check, details to confirm, a real detail worth adding. Then one line of **Distance from the default**: what changed and which answer caused it, or that little did.
 

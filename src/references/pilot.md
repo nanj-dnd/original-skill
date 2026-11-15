@@ -177,6 +177,12 @@ and a Gemini judge. Data in `eval/test8-cross-model/`, `test9-head-to-head/`,
   details per piece) but not for first-person blog posts (5.5 to 9.25): the skill still
   writes memories and colour the user never gave. ChatGPT asking first: 2.25 on blog posts. Same pieces score differently across batches, so only
   within-batch comparisons count.
+- **Test 12, a stricter first-person rule** (`eval/test12-first-person/`): first-person
+  pieces may only use memories, feelings, opinions, timelines and quotes the user gave;
+  colour goes in general terms; the reread checks every I/my/me sentence. On the four blog
+  posts, invented details fell to 0 (Claude auditor) and 2.25 (ChatGPT auditor, mostly
+  opinions in the user's voice), from 3.5 and 5.5 under the first fix; use as is rose to
+  4.0 (ChatGPT asking first: 3.08), with specificity and originality down about 0.3.
 - The skill was the only contestant to use every user's own material when there was some
   (6 of 6, against 4 of 6 for both ask-first rivals) and used the fewest stock phrases.
 

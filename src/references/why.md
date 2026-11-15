@@ -73,6 +73,10 @@ numbers as direction.
   details, so the rule now names that colour and the reread checks each personal detail against
   the answers. Test 11: invented details in talks fell from 7.25 to 2.75 per piece, but in
   first-person blog posts they rose from 5.5 to 9.25, so the rule is not yet enough there.
+- **First-person rule** (added 2026-11-15): first-person pieces use only the memories, feelings,
+  opinions, timelines and quotes the user gave, put colour in general terms, and check every
+  I/my/me sentence on the reread. Test 12: invented details in blog posts fell to 0 (Claude
+  auditor) and 2.25 (ChatGPT auditor), and use as is rose, at a small cost in specificity.
 - **Voice skill only on request.** See Tone above.
 - **One critic pass.** The research found a critic weak at killing ideas but useful for
   depth of revision; one pass, since gains stop after two or three rounds.

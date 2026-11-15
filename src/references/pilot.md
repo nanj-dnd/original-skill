@@ -132,6 +132,37 @@ question sets were too long to answer in prose. Full write-up in
 `eval/test7-real-user/`. This led to the cut-down skill: 3–4 clickable questions
 including tone, no quick mode, voice skill only on request.
 
+## Tests 8 to 10: against other models (short skill)
+
+Run on the short skill with the talk task and a New Year's resolutions blog post, 4
+simulated users per task (2 clear, 2 vague). Other models ran as people use them: Gemini
+Pro in its web app and ChatGPT on the free plan, both in temporary chats. Pieces were
+cut down to the deliverable, shuffled under random IDs and judged blind by a Claude judge
+and a Gemini judge. Data in `eval/test8-cross-model/`, `test9-head-to-head/`,
+`test10-six-way/`.
+
+- **Test 8, skill on each model** (talk task): on both Claude Fable and Gemini, the skill
+  moved pieces further from the default than plain asking (3 of 4 judge-model pairs, 1
+  tie) and was the only arm to draw out a vague user's hidden numbers. Quality rose on
+  Claude (5.0) but not on Gemini (3.5 against 3.75 to 4.0 for asking first).
+- **Test 9, head to head**: `/original` (Claude + skill) against Gemini plain, Gemini
+  asking first and Claude plain, each matchup judged twice with order swapped: 45 of 48
+  wins, 3 splits, no losses; "less generic" 48 of 48.
+- **Test 10, six-way scorecard** (adds ChatGPT plain and asking first): head to head
+  `/original` won 71 of 80, split 7, lost 2; "less generic" 80 of 80. On 1 to 5 scores
+  (mean of both judges) `/original` led on use as is (3.94), originality (4.75),
+  specificity (4.62), tone (4.19) and writing (5.0). ChatGPT asking first led on fit
+  (4.25 against 4.12), came within 0.13 on use as is, invented nothing, and asked about
+  9 questions to the skill's 4. The Gemini judge put ChatGPT asking first slightly ahead
+  on use as is (3.88 against 3.5).
+- **Why the Gemini judge withheld wins** (9 matchups): 6 times it penalised the skill for
+  using a detail the user revealed when asked, reading the persona card's role-play note
+  ("mention only if asked") as a rule for the writer, an artifact of the setup. Twice it
+  preferred ChatGPT's middle-ground piece for Jo, a vague user who agrees with the
+  default, over the skill's firmer stance. Once it preferred ChatGPT's tone (Marcus).
+- The skill was the only contestant to use every user's own material when there was some
+  (6 of 6, against 4 of 6 for both ask-first rivals) and used the fewest stock phrases.
+
 ## What runs did badly
 
 - Cited studies from memory (web search was off) and flagged them as unchecked, but a
@@ -141,8 +172,9 @@ including tone, no quick mode, voice skill only on request.
 
 ## Limits
 
-- 4 outputs per arm per task, one judge pass, same model family for runs, personas and
-  judges.
+- 4 outputs per arm per task, one judge pass. Tests 1 to 7 used the same model family
+  for runs, personas and judges; Tests 8 to 10 added Gemini and ChatGPT as contestants and
+  a Gemini judge, but the simulated users were still played by Claude.
 - Vivid personas with a story ready, which is when context dominates. Vague users were
   tested for routing only, not output quality.
 - The personas answered fully whatever they were asked, so question design had little
@@ -151,8 +183,10 @@ including tone, no quick mode, voice skill only on request.
 
 ## Open tests, most useful first
 
-1. (Done: the simplified build, see Test 6.) A second judge pass, or a judge from another
-   model family, to confirm v3's edge over plain_asks.
-2. More real users and tasks (Test 7 was one task, one pick).
-3. 8+ outputs per arm, two judge passes, a judge from another model family.
-4. Runs with web search on, to see unverified figures actually get checked.
+1. More real users and tasks (Test 7 was one task, one pick).
+2. A judge setup that shows the person's situation without the role-play notes, so a
+   judge cannot read "mention only if asked" as a rule for the writer.
+3. Vague users who agree with the default: whether the new measured-stance rule closes
+   the gap the Gemini judge found.
+4. 8+ outputs per arm, simulated users played by a non-Claude model.
+5. Runs with web search on, to see unverified figures actually get checked.

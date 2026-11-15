@@ -12,11 +12,17 @@ numbers as direction.
   model gave different users the same 1 or 2 ideas.
 - **Asking before writing fixes that.** Every arm that had the user's answers spread to
   4 distinct ideas with perfect fit.
-- **The skill's extra machinery adds little.** A plain model told to ask its own
-  clarifying questions matched the skill on clear and vague users (Tests 3–4). The
-  candidate shortlist and the routing step didn't change the main idea (pilot, Test 4).
-  In the one real blind test (Test 7), the user picked the plain version. So the skill
-  is kept short.
+- **The skill's extra machinery adds little over asking, inside one model.** A plain
+  model told to ask its own clarifying questions matched the skill on clear and vague
+  users (Tests 3 to 4), and in the one real blind test (Test 7) the user picked the plain
+  version. So the skill is kept short.
+- **Against other assistants it leads, mostly on originality and craft.** In Tests 8 to
+  10 `/original` won 71 of 80 judged matchups against Gemini, ChatGPT and plain Claude,
+  and every "less generic" matchup. Its closest rival, ChatGPT asking first, matched it
+  on fit and came within 0.13 on "use as is", while trailing on originality (+1.4 for the
+  skill), specificity (+1.2) and writing (+0.9). Part of the lead is the Claude model
+  itself (Test 8), and the Gemini judge rated ChatGPT asking first slightly higher on
+  "use as is".
 
 ## 1. Default
 
@@ -48,6 +54,11 @@ numbers as direction.
   of them. The research also recommends giving every idea a test.
 - Agreeing users still got distinct, well-fitted outputs from their specifics, so the
   skill builds from those rather than inventing a contrarian stance.
+
+- **Match a mild view** (added 2026-11-15): in Tests 9 and 10 the Gemini judge twice
+  preferred ChatGPT's middle-ground piece for Jo, a vague user who agrees with the
+  default, because the skill's piece took a firmer stance than Jo holds. Originality
+  should come from specifics and structure, not from a stronger opinion. Untested.
 
 ## 4. Write
 

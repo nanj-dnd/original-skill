@@ -31,7 +31,7 @@ Each has 2 to 4 options. Use a clickable question tool if there is one; otherwis
 
 ## 3. Angle
 
-Build from whatever they gave you, even picked options. If they agree with the default, build from their specifics, not a contrarian stance they don't hold. Before the piece, in four lines:
+Build from whatever they gave you, even picked options. If they agree with the default, build from their specifics, not a contrarian stance they don't hold. If their answers are thin or their view is mild, keep the stance as measured as theirs: make the piece specific and well made, not more opinionated than they are. Before the piece, in four lines:
 
 - **Angle**: the claim in one sentence; not the default's unless they chose it.
 - **Built from**: which answers.

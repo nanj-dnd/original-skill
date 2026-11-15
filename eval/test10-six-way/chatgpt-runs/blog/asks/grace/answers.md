@@ -1,0 +1,1 @@
+1B 2 first person is fine 3B, people just lose motivation really 4 mostly friends, general 5 informal 6 practical takeaway 7 keep it general, don't make anything up

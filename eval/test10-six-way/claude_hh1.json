@@ -1,0 +1,57 @@
+{
+ "101": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Turns Max's vague hunch that January 1 is a weird start into a sharp, original argument, while Piece 2 drifts into stock motivational lines."
+ },
+ "102": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Uses his real quit story and his attempts-not-outcomes reframe in a blunt voice; Piece 1 is the self-help listicle he hates."
+ },
+ "103": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Both use his story, but Piece 2 is blunter and more teacher-like, with experiments and concrete logging advice, while Piece 1 drifts softer and self-help-ish."
+ },
+ "104": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Gives Jo a ready, mildly opinionated talk that matches his 'use it, be careful' stance and Copilot use without needing a story, unlike Piece 2's generic pro/con."
+ },
+ "105": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Built on his 2am outage, his P2 numbers, the autopilot analogy and his juniors ask, with an explicit not-anti-AI framing; Piece 1 is a generic balanced talk."
+ },
+ "106": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Opens on the August migration, uses her review-load numbers and proposes her three-part rule, translated for non-engineers; Piece 1 is the pro/con talk she finds useless."
+ },
+ "107": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Builds a fresh argument on her real Welsh streak with her daughter, while Piece 2 is a long generic listicle."
+ },
+ "108": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Her own Welsh-streak story gives a memorable 'find a witness' angle; Piece 2 is stock motivation-versus-habits advice."
+ },
+ "109": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Blunt, built on his quit attempts and trigger list, with his reframing of failure as data; Piece 2 is generic self-help."
+ },
+ "110": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Leads with his 2am story, keeps his voice and analogy tight, and confronts managers on the cost; Piece 1 is wordier and opens with a generic AI-is-great paragraph."
+ },
+ "111": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Gives Jo a concrete ownership norm and an opening in his own voice that fits his middle stance; Piece 1 is a generic pro/con outline."
+ }
+}

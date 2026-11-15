@@ -1,0 +1,52 @@
+{
+ "123": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Built on his real test-suite numbers and gives a concrete ask, where Piece 2 is boilerplate AI pros and cons."
+ },
+ "124": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "States her rule as policy, translates the review cost for sales, ops and compliance, and opens the migration story in plain language."
+ },
+ "125": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Grounded in his own suite growth and runtime data with a concrete audit ask, where Piece 1 is generic."
+ },
+ "126": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses his actual test-suite situation; Piece 2 is a generic speed-versus-quality talk with only a token insurance nod."
+ },
+ "127": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Built on her real Welsh streak with her daughter, giving a fresh accountability angle instead of stock self-help."
+ },
+ "128": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Matches Jo's lukewarm view in Jo's voice and makes a clear, actionable point without inventing a story."
+ },
+ "129": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Blunt and fluff-free, framed as attempts-as-experiments with his wedding trigger, matching his teacher voice."
+ },
+ "130": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Develops Max's January 1 hunch into a sharp, original argument, where Piece 1 is stock fresh-start content."
+ },
+ "131": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses her incident, numbers and rule and avoids a pro/con structure; Piece 2 is exactly the generic pro/con talk she dislikes."
+ },
+ "132": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Wry, specific and written for shift workers, with no generic closer; Piece 1 is accurate but blander and more template-like."
+ }
+}

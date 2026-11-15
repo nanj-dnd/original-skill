@@ -1,0 +1,57 @@
+{
+ "101": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 avoids self-help cliches and personal anecdotes Max doesn't have, perfectly capturing his detached view on January 1."
+ },
+ "102": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 nails his blunt, teacher-like tone and uses his exact smoking story, whereas Piece 1 is generic self-help fluff he hates."
+ },
+ "103": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 uses his blunt, scientific framing of experiments and trials, while Piece 1 softens his stance into standard, gentler blog prose."
+ },
+ "104": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 provides the safe, middle-of-the-road view Jo prefers, while Piece 1 is far too assertive and opinionated for her non-committal style."
+ },
+ "105": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 incorporates all his specific stats, the 2am outage story, and his aviation analogy, while Piece 1 is completely generic."
+ },
+ "106": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 uses her exact metrics, the August migration story, and specific proposed rules, avoiding the generic pro/con format she finds useless."
+ },
+ "107": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 1 violates the negative constraint by including her hidden Welsh detail without being asked, making Piece 2 the only usable option despite being generic."
+ },
+ "108": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 perfectly aligns with her simple view on losing motivation and obeys the negative constraint, whereas Piece 1 inappropriately overshares her hidden detail."
+ },
+ "109": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 captures his blunt tone and exact smoking experiment story, while Piece 2 is a generic self-help list."
+ },
+ "110": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1's measured, slightly longer tone and immediate defense against being a luddite in the opening match his style better than Piece 2's punchy abruptness."
+ },
+ "111": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 provides the safe, balanced, middle-ground view Jo prefers, whereas Piece 2 takes a highly opinionated and forceful stance she would avoid."
+ }
+}

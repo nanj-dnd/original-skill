@@ -1,0 +1,57 @@
+{
+ "112": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Builds a fresh argument from Max's own hunch that January 1 is a weird start date, where Piece 1 is stock resolution advice."
+ },
+ "113": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Built on his 2am outage, P2 numbers, aviation analogy and six-month junior proposal, with a clear not-anti-AI stance; Piece 2 is a generic balanced talk."
+ },
+ "114": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Gives Jo a concrete, deliverable thesis that matches a mild 'use it, be careful' view; Piece 2 is boilerplate pro/con."
+ },
+ "115": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Tighter and in his voice, leads with the outage and speaks directly to managers; Piece 2 uses his material but pads it with generic benefit lists and hedging."
+ },
+ "116": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The Welsh streak with her daughter gives a vivid, original 'find a witness' angle; Piece 1 is generic motivation-vs-habit advice."
+ },
+ "117": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses her shift-work thesis, 6am failures and event-anchor fix in a wry voice for nurse readers; Piece 2 is generic and uses 'simply'."
+ },
+ "118": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Develops Max's January 1 suspicion into a distinctive, readable argument instead of stock advice."
+ },
+ "119": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Translates the review cost for sales, ops and compliance, avoids pro/con framing, and makes the rule repeatable; Piece 1 is solid but more templated."
+ },
+ "120": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Anchored in the test-suite numbers with a clear principle and ask; Piece 1 is a generic AI talk."
+ },
+ "121": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Her own story and thesis, written for shift-working readers; Piece 1 is generic and uses 'simply'."
+ },
+ "122": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Both use her story, but Piece 1 is wittier and more specific (badge out, handover, 'kitchen you don't own'); Piece 2 reads more like a standard blog template."
+ }
+}

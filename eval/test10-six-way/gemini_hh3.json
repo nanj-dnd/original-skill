@@ -1,0 +1,52 @@
+{
+ "123": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 directly uses his specific metrics and test suite issues to build a compelling, tailored outline, whereas Piece 2 is completely generic."
+ },
+ "124": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 perfectly matches her direct style and brilliantly translates the engineering problem into terms the mixed audience (sales/ops) will understand."
+ },
+ "125": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 leverages his specific metrics and actual situation to make a concrete argument, whereas Piece 1 is a boilerplate presentation."
+ },
+ "126": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 integrates his real data and experience to address the actual problem on his team, making it highly relevant compared to the generic Piece 2."
+ },
+ "127": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 uses her specific, unique story about the Welsh app streak and her daughter to make a highly personal and memorable point."
+ },
+ "128": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 perfectly captures his reluctant, middle-of-the-road stance and turns his lack of a strong view or story into a highly authentic opening."
+ },
+ "129": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 nails the blunt tone of a chemistry teacher, framing the attempts perfectly as experimental design and avoiding the self-help fluff he hates."
+ },
+ "130": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 takes his vague suspicion about January 1st and turns it into a sharp, original argument without relying on the tired clich\u00e9s found in Piece 1."
+ },
+ "131": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 includes her specific incident, metrics, and new rules, perfectly tailored for the whole company, while Piece 2 is entirely generic."
+ },
+ "132": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 perfectly captures her wry, practical tone and directly attacks the 9-to-5 assumptions she dislikes, offering a much more authentic voice."
+ }
+}

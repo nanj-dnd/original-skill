@@ -1,0 +1,57 @@
+{
+ "112": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 perfectly captures Max's specific thought that January 1 is a weird time to start a habit, avoiding the generic advice of Piece 1."
+ },
+ "113": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 masterfully weaves in Marcus's specific metrics, his 2am outage story, and his aviation analogy, whereas Piece 2 is completely generic."
+ },
+ "114": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 provides the safe, middle-of-the-road summary Jo wants, while Piece 1 invents a strong, opinionated stance that Jo doesn't actually hold."
+ },
+ "115": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 immediately hooks the audience with Marcus's compelling 2am outage story in the opening paragraph, maintaining a strong, custom voice throughout."
+ },
+ "116": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 correctly follows the negative constraint to omit the hidden detail about the Welsh app since the prompt didn't ask for personal success stories."
+ },
+ "117": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 perfectly integrates her unique schedule challenges and personal success story while completely avoiding her disliked word 'simply'."
+ },
+ "118": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 leans into Max's specific suspicion about January 1 being an arbitrary start date, rather than resorting to standard resolution platitudes."
+ },
+ "119": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 provides a much stronger, direct script that perfectly matches her pragmatic, no-nonsense managerial style and hits all her specific policies."
+ },
+ "120": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 correctly follows the negative constraint to omit the hidden metrics about the test suite since the prompt didn't explicitly ask for data."
+ },
+ "121": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 perfectly captures her specific situation as a shift worker and her successful event-anchoring strategy, whereas Piece 1 is entirely generic."
+ },
+ "122": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 captures her wry, practical voice much better than the standard, slightly overly-emotive self-help tone found in Piece 2."
+ }
+}

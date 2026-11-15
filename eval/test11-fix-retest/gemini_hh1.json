@@ -1,0 +1,42 @@
+{
+ "301": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 1 explicitly includes his team's private metrics despite the prompt not asking for them, violating the negative constraint."
+ },
+ "302": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 perfectly captures her wry, practical tone and structures the anchor-event strategy organically rather than using a generic blog format."
+ },
+ "303": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 brilliantly matches his lack of a strong stance or personal story by pivoting the talk into crowdsourcing, avoiding Piece 2's invented grandstanding."
+ },
+ "304": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 authentically matches Max's agreeable, low-stakes attitude, whereas Piece 1 forces a profound and overly dramatic self-help narrative."
+ },
+ "305": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 2 violates the negative constraint by including the hidden Welsh app story when the prompt did not ask for it, making Piece 1 the only compliant choice."
+ },
+ "306": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 nails his blunt, framing-correcting teacher persona and completely avoids the standard self-help platitudes present in Piece 2."
+ },
+ "307": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 captures his blunt, analytical voice perfectly and strips out the generic self-improvement fluff that he explicitly hates."
+ },
+ "308": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 acts as a true speechwriter, offering tactical delivery advice to avoid him sounding like a Luddite, rather than just generating standard bullet points."
+ }
+}

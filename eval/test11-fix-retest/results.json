@@ -1,0 +1,214 @@
+{
+ "judges": [
+  "claude",
+  "gemini",
+  "gpt"
+ ],
+ "scores": {
+  "original_v2": {
+   "use_as_is": {
+    "claude": 4.5,
+    "gemini": 4.62,
+    "gpt": 3.62,
+    "mean": 4.25
+   },
+   "fit": {
+    "claude": 4.75,
+    "gemini": 4.62,
+    "gpt": 4.12,
+    "mean": 4.5
+   },
+   "originality": {
+    "claude": 4.38,
+    "gemini": 4.75,
+    "gpt": 4.75,
+    "mean": 4.63
+   },
+   "specificity": {
+    "claude": 4.62,
+    "gemini": 4.38,
+    "gpt": 4.75,
+    "mean": 4.58
+   },
+   "tone": {
+    "claude": 4.5,
+    "gemini": 4.88,
+    "gpt": 4.12,
+    "mean": 4.5
+   },
+   "writing": {
+    "claude": 4.75,
+    "gemini": 4.88,
+    "gpt": 4.75,
+    "mean": 4.79
+   },
+   "invented": {
+    "claude": 0.75,
+    "gemini": 0,
+    "gpt": 0.75,
+    "mean": 0.5
+   },
+   "unsupported_stats": {
+    "claude": 0,
+    "gemini": 0,
+    "gpt": 0,
+    "mean": 0
+   }
+  },
+  "original": {
+   "use_as_is": {
+    "claude": 4.5,
+    "gemini": 4.12,
+    "gpt": 3.88,
+    "mean": 4.17
+   },
+   "fit": {
+    "claude": 4.5,
+    "gemini": 4.12,
+    "gpt": 3.75,
+    "mean": 4.12
+   },
+   "originality": {
+    "claude": 4.75,
+    "gemini": 4.62,
+    "gpt": 4.88,
+    "mean": 4.75
+   },
+   "specificity": {
+    "claude": 4.62,
+    "gemini": 4.38,
+    "gpt": 4.75,
+    "mean": 4.58
+   },
+   "tone": {
+    "claude": 4.5,
+    "gemini": 4.12,
+    "gpt": 3.88,
+    "mean": 4.17
+   },
+   "writing": {
+    "claude": 5,
+    "gemini": 5,
+    "gpt": 4.62,
+    "mean": 4.87
+   },
+   "invented": {
+    "claude": 0.75,
+    "gemini": 0,
+    "gpt": 0.38,
+    "mean": 0.38
+   },
+   "unsupported_stats": {
+    "claude": 0.25,
+    "gemini": 0.12,
+    "gpt": 0,
+    "mean": 0.12
+   }
+  },
+  "chatgpt_asks": {
+   "use_as_is": {
+    "claude": 3,
+    "gemini": 3.5,
+    "gpt": 3.88,
+    "mean": 3.46
+   },
+   "fit": {
+    "claude": 3.25,
+    "gemini": 3.62,
+    "gpt": 4.25,
+    "mean": 3.71
+   },
+   "originality": {
+    "claude": 2.12,
+    "gemini": 2.75,
+    "gpt": 3,
+    "mean": 2.62
+   },
+   "specificity": {
+    "claude": 3.12,
+    "gemini": 3.25,
+    "gpt": 3.75,
+    "mean": 3.37
+   },
+   "tone": {
+    "claude": 3.25,
+    "gemini": 3.38,
+    "gpt": 4.5,
+    "mean": 3.71
+   },
+   "writing": {
+    "claude": 3.25,
+    "gemini": 4.12,
+    "gpt": 4.5,
+    "mean": 3.96
+   },
+   "invented": {
+    "claude": 0,
+    "gemini": 0,
+    "gpt": 0,
+    "mean": 0
+   },
+   "unsupported_stats": {
+    "claude": 0.38,
+    "gemini": 0,
+    "gpt": 0.25,
+    "mean": 0.21
+   }
+  }
+ },
+ "h2h": {
+  "claude": {
+   "prefer": [
+    8,
+    0,
+    0
+   ],
+   "less_generic": [
+    8,
+    0,
+    0
+   ]
+  },
+  "gemini": {
+   "prefer": [
+    6,
+    2,
+    0
+   ],
+   "less_generic": [
+    8,
+    0,
+    0
+   ]
+  },
+  "gpt": {
+   "prefer": [
+    5,
+    2,
+    1
+   ],
+   "less_generic": [
+    5,
+    2,
+    1
+   ]
+  }
+ },
+ "jo": {
+  "original_v2": {
+   "claude": 4,
+   "gemini": 5,
+   "gpt": 4
+  },
+  "original": {
+   "claude": 4,
+   "gemini": 2,
+   "gpt": 3
+  },
+  "chatgpt_asks": {
+   "claude": 2,
+   "gemini": 1,
+   "gpt": 3
+  }
+ }
+}

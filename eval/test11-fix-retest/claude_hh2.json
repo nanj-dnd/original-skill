@@ -1,0 +1,42 @@
+{
+ "309": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Builds the talk on his own test-suite numbers and a concrete ownership ask. Piece 1 is a generic speed-vs-quality speech any QA lead could give."
+ },
+ "310": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Avoids pro/con framing, translates jargon for the non-engineer half, leads with her 'cost moved' thesis and states the rules crisply."
+ },
+ "311": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Reframes to 'who pays', explains review and the migration in plain words for sales, ops and compliance, and delivers her three rules directly."
+ },
+ "312": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Develops Max's own hunch that January 1 is a weird start date, with honest forgettable resolutions. Piece 2 is stock 'every Tuesday' self-help."
+ },
+ "313": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Grounded in her real Welsh streak with her daughter and draws concrete lessons. Piece 2 is a boilerplate motivation-vs-habits essay."
+ },
+ "314": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Tighter, first-person around his 2am outage, with a short pre-empt of the luddite reading, a well-used aviation point and separate asks for engineers and managers."
+ },
+ "315": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Fits Jo's honest 'it's fine' stance and needs no story, offering two usable sorting questions and a team ask instead of a generic pros/dangers talk."
+ },
+ "316": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Wry, specific voice for nurse readers with concrete anchor examples and the 'clock moves, event doesn't' insight. Piece 1 reads as a flatter, generic retelling."
+ }
+}

@@ -1,0 +1,11 @@
+1d 2b 3a 4a
+
+1: Closest to c, but I want to be careful with the framing. I'm not skeptical of the tools, and I'll be honest that it bugs me when this kind of talk gets read as "old guy doesn't like AI." I'm fine with people using assistants to write new code. My worry is skill atrophy, specifically in debugging. It's like autopilot. Nobody serious argues against it, but pilots still have to hand-fly regularly, because when the automation hands you a mess at the worst possible moment you need the stick-and-rudder skills to still be there. I'd go further for juniors: their first six months of debugging should be done without an assistant, the same way you learn to fly manually before you get to lean on the automation.
+
+2: A failure, though it's not really "AI wrote bad code." It's about what happens when nobody can read the system. We had a 2am outage where the on-call engineer pasted the error into the assistant four times and got four different, confident fixes. I got pulled in and found the actual cause in about 10 minutes, just by reading the log. That gap is what the talk is about. For a number I'd trust: our median time-to-resolve for P2 incidents went from 38 to 61 minutes over the last six months. I run the incident reviews, so I've watched it happen. I keep seeing engineers who can't follow a stack trace through code they supposedly wrote. I wouldn't claim the assistant is the only cause, but the pattern is hard to ignore.
+
+3: It's a whole-company audience, but the people I actually need to reach are the engineers and their managers. On Monday I'd like engineers to try working an incident from the logs and stack trace before they open an assistant, and I'd like managers to seriously consider an "assistant-free debugging" period for new hires. So it's a habit change with a norm proposal attached.
+
+4: Plain and direct, the way I'd talk to my team in an incident review. Measured, not provocative for its own sake, and definitely no robot jokes.
+
+Role: IC. I'm a staff engineer, I'm in the on-call rotation, and I run the incident review. I can make a strong recommendation and back it with data, but I can't mandate the six-month thing myself. That one is for the managers to pick up.

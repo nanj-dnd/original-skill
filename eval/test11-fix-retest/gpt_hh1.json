@@ -1,0 +1,42 @@
+{
+ "301": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses the team's actual QA metrics and a credible, specific economic argument to make the talk actionable rather than generic."
+ },
+ "302": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The rotating-shift experience, three failed 6am attempts, and 14-month event-based habit make this distinctive, practical, and closely matched to the audience."
+ },
+ "303": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Respects Jo's genuinely moderate views and lack of a dramatic story instead of manufacturing conviction, while offering a useful framework for discussion."
+ },
+ "304": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The forgotten resolutions and uncomfortable January timing give Max a believable personal perspective without inventing experiences or overstating his convictions."
+ },
+ "305": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The Welsh-learning streak and shared accountability with her daughter provide compelling personal evidence and a concrete explanation beyond generic motivation advice."
+ },
+ "306": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The four-attempt structure, specific triggers, and 25% success-rate framing capture his blunt philosophy and distinctive way of thinking."
+ },
+ "307": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The specific wedding incident, vivid first-person details, and reframing of attempts as accumulated information make the argument feel personal and authentic."
+ },
+ "308": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Combines the incident, performance data, skill-atrophy argument, and aviation analogy into a polished talk with a concrete training proposal that reflects his nuanced position."
+ }
+}

@@ -1,0 +1,1 @@
+1a 2a 3: the usual ones failed, gym, diet, nothing special, maybe a few weeks each. One did stick though: learning Welsh on an app, I'm on a 700-day streak. My daughter (she's 12) does it too and we check each other's streaks at dinner. 4a

@@ -1,0 +1,42 @@
+{
+ "301": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Built around his real suite numbers and his duplicate-test suspicion, with concrete asks that fit engineers and PMs; Piece 2 is a stock AI-caution talk."
+ },
+ "302": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Wry, specific voice that turns her anchor-event method into practical advice for shift workers; Piece 2 tells the same story in flatter, generic blog prose."
+ },
+ "303": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Matches Jo's honest 'it's fine' stance and gives a simple, usable framework plus a team ask, with no invented stories; Piece 2 is boilerplate."
+ },
+ "304": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Develops Max's 'January is a weird time' hunch concretely and owns the forgettable resolutions honestly; Piece 1 is generic motivational filler."
+ },
+ "305": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Uses her Welsh streak with her daughter to explain why it stuck, which is far more personal and readable than Piece 1's standard motivation-vs-habit essay."
+ },
+ "306": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Blunt, reframes outcomes versus attempts in a teacher's voice with no self-help tone; Piece 2 drifts into softer, self-help-ish phrasing."
+ },
+ "307": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Blunt, reframes outcomes versus attempts in a teacher's voice with no self-help tone; Piece 1 drifts into softer, self-help-ish phrasing."
+ },
+ "308": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Opens on his 2am outage, heads off the luddite framing briefly, and uses the autopilot analogy and two clear asks in his measured voice; Piece 2 opens generically and runs long."
+ }
+}

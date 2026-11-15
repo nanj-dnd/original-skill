@@ -168,6 +168,14 @@ and a Gemini judge. Data in `eval/test8-cross-model/`, `test9-head-to-head/`,
   the same as Gemini's (Jo: too firm a stance for a moderate speaker), and it counted
   3.25 invented details per skill piece against 0.38 for ChatGPT asking first: small
   made-up personal details in first-person pieces.
+- **Test 11, re-testing the two fixes** (`eval/test11-fix-retest/`): fresh pieces from the
+  fixed skill, scored in the same batches as the old pieces and ChatGPT asking first by all
+  three judges. The mild-stance fix worked: Jo's use-as-is rose from 3.0 to 4.33, fit from
+  4.12 to 4.50 and tone from 4.17 to 4.50 across users; head to head against ChatGPT asking
+  first it went 19-4-1, against 15-6-3 before. The invention fix could not be confirmed:
+  this round's GPT judge (ChatGPT free web) counted 0.38 invented details on the old pieces
+  where Codex's GPT had counted 3.25. Same pieces score differently across batches, so only
+  within-batch comparisons count.
 - The skill was the only contestant to use every user's own material when there was some
   (6 of 6, against 4 of 6 for both ask-first rivals) and used the fewest stock phrases.
 

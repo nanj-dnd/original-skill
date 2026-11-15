@@ -1,0 +1,42 @@
+{
+ "309": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 perfectly incorporates his exact situation and metrics into a practical outline rather than generic talking points."
+ },
+ "310": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 translates the technical incident for a mixed audience flawlessly while matching her direct, no-nonsense style."
+ },
+ "311": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 translates the technical incident for a mixed audience flawlessly while matching her direct, no-nonsense style."
+ },
+ "312": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 captures his casual, indifferent tone and specific viewpoint instead of sounding like generic self-help advice."
+ },
+ "313": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 integrates her unique Welsh streak story seamlessly, whereas Piece 2 is just a generic essay about motivation."
+ },
+ "314": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 provides a highly practical speaker's outline and captures his measured tone and pilot analogies much more naturally."
+ },
+ "315": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 turns his lack of a strong view into a relatable, authentic baseline instead of inventing generic fake passion."
+ },
+ "316": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 perfectly nails her wry, practical voice and directly counters the generic advice tone she dislikes."
+ }
+}

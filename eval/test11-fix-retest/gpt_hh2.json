@@ -1,0 +1,42 @@
+{
+ "309": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The balanced, conversational framing fits his moderate views and avoids inventing a personal position or using undisclosed team metrics."
+ },
+ "310": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It captures her central concern about review costs, gives non-engineers an accessible explanation, and turns her three desired rules into a concrete proposal."
+ },
+ "311": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It opens with the real incident, makes accountability the central message, and gives the audience a sharper, more memorable explanation of the review burden."
+ },
+ "312": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Its understated first-person voice and specific argument about January being an arbitrary starting point fit Max's actual views and personal blog better than generic motivational advice."
+ },
+ "313": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It suits her straightforward belief that motivation fades without inventing a personal success story or disclosing the hidden Welsh streak."
+ },
+ "314": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It develops the skill-atrophy argument, uses the aviation analogy effectively, and makes his six-month junior debugging proposal explicit without portraying him as anti-AI."
+ },
+ "315": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Its honest, modest stance reflects Jo's actual uncertainty and gives the team a practical way to develop its own guidance rather than pretending he has strong convictions."
+ },
+ "316": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Its wry, distinctive voice and concrete shift-work examples speak directly to her nursing audience, while the event-based anchor makes the advice especially memorable and actionable."
+ }
+}

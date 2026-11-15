@@ -1,0 +1,50 @@
+{
+ "original": {
+  "fair_mean": 6.38,
+  "fair_blog": 5.5,
+  "fair_talk": 7.25,
+  "card_only_mean": 7.12,
+  "per_user": {
+   "leah": 4,
+   "priya": 9,
+   "raj": 6,
+   "marcus": 9,
+   "jo": 5,
+   "max": 0,
+   "tomas": 5,
+   "grace": 13
+  }
+ },
+ "original_v2": {
+  "fair_mean": 6,
+  "fair_blog": 9.25,
+  "fair_talk": 2.75,
+  "card_only_mean": 6,
+  "per_user": {
+   "raj": 2,
+   "max": 8,
+   "priya": 5,
+   "jo": 1,
+   "marcus": 3,
+   "leah": 6,
+   "grace": 14,
+   "tomas": 9
+  }
+ },
+ "chatgpt_asks": {
+  "fair_mean": 4.38,
+  "fair_blog": 2.25,
+  "fair_talk": 6.5,
+  "card_only_mean": 2.75,
+  "per_user": {
+   "jo": 0,
+   "max": 4,
+   "priya": 7,
+   "tomas": 1,
+   "leah": 4,
+   "raj": 8,
+   "grace": 0,
+   "marcus": 11
+  }
+ }
+}

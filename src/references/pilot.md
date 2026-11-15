@@ -172,9 +172,10 @@ and a Gemini judge. Data in `eval/test8-cross-model/`, `test9-head-to-head/`,
   fixed skill, scored in the same batches as the old pieces and ChatGPT asking first by all
   three judges. The mild-stance fix worked: Jo's use-as-is rose from 3.0 to 4.33, fit from
   4.12 to 4.50 and tone from 4.17 to 4.50 across users; head to head against ChatGPT asking
-  first it went 19-4-1, against 15-6-3 before. The invention fix could not be confirmed:
-  this round's GPT judge (ChatGPT free web) counted 0.38 invented details on the old pieces
-  where Codex's GPT had counted 3.25. Same pieces score differently across batches, so only
+  first it went 19-4-1, against 15-6-3 before. A line-by-line audit (ChatGPT, with each user's
+  answers included) found the invention fix worked for talks (7.25 to 2.75 invented
+  details per piece) but not for first-person blog posts (5.5 to 9.25): the skill still
+  writes memories and colour the user never gave. ChatGPT asking first: 2.25 on blog posts. Same pieces score differently across batches, so only
   within-batch comparisons count.
 - The skill was the only contestant to use every user's own material when there was some
   (6 of 6, against 4 of 6 for both ask-first rivals) and used the fewest stock phrases.

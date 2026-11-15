@@ -1,0 +1,150 @@
+{
+ "213": {
+  "invented": [
+   "A few months ago",
+   "I got paged at two in the morning",
+   "by the time I was awake enough to log in",
+   "the on-call engineer had already been at it for a while",
+   "They'd pasted the error into the coding assistant, got a fix, applied it, and it didn't work",
+   "I use these tools every day",
+   "The code is often fine",
+   "code they had shipped themselves"
+  ],
+  "count": 8
+ },
+ "214": {
+  "invented": [
+   "For a while, I blamed myself.",
+   "Maybe I wasn't disciplined enough.",
+   "Maybe I lacked consistency.",
+   "Maybe I just didn't want it badly enough.",
+   "haven't slept properly",
+   "your body has absolutely no interest in cooperating"
+  ],
+  "count": 6
+ },
+ "215": {
+  "invented": [
+   "Some of you use it for most of what you write",
+   "some of you have it switched off"
+  ],
+  "count": 2
+ },
+ "216": {
+  "invented": [
+   "My morning is sometimes 5am and sometimes 7pm",
+   "some weeks I'm not fully sure which one I'm in",
+   "Half my coworkers live like this.",
+   "Year one, done by February.",
+   "Year two, done by February.",
+   "Year three, I'd like to tell you I learned something.",
+   "I'm already dressed, already out of the house, already too tired to invent an excuse.",
+   "because once you sit down after a night shift that's where you live now"
+  ],
+  "count": 8
+ },
+ "217": {
+  "invented": [
+   "I think the solution is to use AI less.",
+   "If anything, I think we should be experimenting with it more.",
+   "I don't think we should ignore it.",
+   "the opportunity is enormous"
+  ],
+  "count": 4
+ },
+ "218": {
+  "invented": [
+   "I've made the usual ones. Go to the gym. Fix my diet.",
+   "Each lasted a few weeks, then quietly stopped",
+   "I didn't even notice the day it stopped.",
+   "Three years ago I started learning Welsh on an app",
+   "I'm now on a 700-day streak.",
+   "My 12-year-old daughter does it too",
+   "we check each other's streaks at dinner",
+   "I don't think I wanted Welsh more than I wanted to be fit.",
+   "The gym never had a version that small.",
+   "My gym resolution had no counter.",
+   "There was no 23 to protect, so day 24 didn't feel like anything.",
+   "My daughter asks at dinner.",
+   "Not in a nagging way \u2014 she's checking hers too.",
+   "The diet was entirely private",
+   "which meant quitting it was also private",
+   "Both failures lasted about the same length.",
+   "I don't think I have more of it now than I did then."
+  ],
+  "count": 17
+ },
+ "219": {
+  "invented": [],
+  "count": 0
+ },
+ "220": {
+  "invented": [
+   "in a crowd",
+   "with people I don't see often",
+   "At the time that felt like a verdict.",
+   "It was actually the most useful thing that happened all year",
+   "Four attempts in eighteen months"
+  ],
+  "count": 5
+ },
+ "221": {
+  "invented": [
+   "in three separate years",
+   "somebody holding a pack out",
+   "Drinks, a crowd, somebody holding a pack out",
+   "and if you'd asked me after the third one, I'd have told you I failed three times"
+  ],
+  "count": 4
+ },
+ "222": {
+  "invented": [],
+  "count": 0
+ },
+ "223": {
+  "invented": [
+   "Every January I used to think the problem was me.",
+   "I'd pick something, go hard for three weeks, then quietly stop",
+   "I'd file it under \"lost motivation,\" as if motivation were petrol and I'd simply run out.",
+   "About two years ago I started learning Welsh on an app.",
+   "I am not Welsh.",
+   "I have no plan to move to Wales.",
+   "By any sensible measure this is the least necessary thing I do.",
+   "I'm on a 700-day streak",
+   "which is longer than I have kept up anything that wasn't a job or a mortgage.",
+   "The difference isn't that I wanted it more.",
+   "I've wanted plenty of things more.",
+   "my daughter, who is twelve, does the same app",
+   "at dinner we compare streaks.",
+   "That's it. That's the whole system.",
+   "Every other resolution I've made had something in common: nobody would have noticed if I stopped.",
+   "I could have skipped the running",
+   "I could have let the reading list rot",
+   "no one at dinner would have said, \"So how's that going?\"",
+   "The resolution lived entirely inside my head",
+   "my head is a terrible landlord.",
+   "There was no awkward moment.",
+   "You just... don't do it one day, and then the next",
+   "Welsh didn't survive because I'm disciplined.",
+   "a twelve-year-old would have asked, with the faint cruelty only twelve-year-olds can manage, why my number had gone back to zero.",
+   "Three hundred days in, the lessons were genuinely dull.",
+   "The dinner conversation wasn't."
+  ],
+  "count": 27
+ },
+ "224": {
+  "invented": [
+   "I think AI coding assistants are one of the best things to happen to engineering in years.",
+   "I use them myself.",
+   "They help us move faster, explore ideas we might otherwise not have had time to explore",
+   "take care of work that doesn't necessarily require our deepest attention.",
+   "where the systems we build determine whether trucks move, whether deliveries happen and whether customers can trust us",
+   "Faster development and prototyping.",
+   "Less time spent on repetitive coding.",
+   "More room to focus on architecture and higher-value problems.",
+   "Better leverage for engineers across the organisation.",
+   "Less confidence in reasoning through a problem without immediately asking an assistant."
+  ],
+  "count": 10
+ }
+}

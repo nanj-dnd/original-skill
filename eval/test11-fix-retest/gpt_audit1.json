@@ -1,0 +1,96 @@
+{
+ "201": {
+  "invented": [
+   "I wasn't lazy or unmotivated"
+  ],
+  "count": 1
+ },
+ "202": {
+  "invented": [
+   "I've spent the last year watching the suite grow faster than any of us could actually read it",
+   "nobody does"
+  ],
+  "count": 2
+ },
+ "203": {
+  "invented": [],
+  "count": 0
+ },
+ "204": {
+  "invented": [
+   "It passed review",
+   "records started slipping through with blanks in them",
+   "nobody did anything wrong by the rules we had",
+   "They used the tool we gave them",
+   "they opened a pull request, a reviewer approved it",
+   "at 2am",
+   "three weeks of customers seeing wrong numbers"
+  ],
+  "count": 7
+ },
+ "205": {
+  "invented": [],
+  "count": 0
+ },
+ "206": {
+  "invented": [
+   "For a while I assumed that was a me problem",
+   "Then I looked at when we're all supposed to start",
+   "Mostly I've stopped expecting the first of January to mean anything, and that's been fine",
+   "The things I've actually changed in my life started whenever they started, for reasons that had nothing to do with fireworks"
+  ],
+  "count": 4
+ },
+ "207": {
+  "invented": [
+   "You use the assistants daily",
+   "adoption was the right call",
+   "most of what they produce is fine",
+   "most of us should be using them more, not less",
+   "setup repeated per test",
+   "Nobody decided to add 7,000 tests",
+   "Each PR was reasonable on its own",
+   "feedback that used to arrive in 20 minutes now arrives the next morning"
+  ],
+  "count": 8
+ },
+ "208": {
+  "invented": [
+   "The code just didn't have an owner",
+   "I'm glad we're using AI. It's helping us move faster, and our new hires are ramping up roughly twice as quickly as they used to"
+  ],
+  "count": 2
+ },
+ "209": {
+  "invented": [
+   "All of them, every day",
+   "a quarter of their week now goes to reading code someone else \u2014 or something else \u2014 wrote",
+   "They are the two people in the building you least want doing that, and they're the only two who can",
+   "Nobody can honestly read 400 lines of someone else's work in one sitting, and we've been pretending otherwise",
+   "Rules start Monday"
+  ],
+  "count": 5
+ },
+ "210": {
+  "invented": [
+   "most of you",
+   "the team's actual answer is sitting in forty people's heads"
+  ],
+  "count": 2
+ },
+ "211": {
+  "invented": [
+   "You use the tools",
+   "You want people writing new code with them",
+   "the assistant isn't the only cause",
+   "It's only ever needed at 2am, and it's the one the assistant lets you skip every day",
+   "nobody on the call could read the system without it",
+   "The assistant was never going to find that bug"
+  ],
+  "count": 6
+ },
+ "212": {
+  "invented": [],
+  "count": 0
+ }
+}

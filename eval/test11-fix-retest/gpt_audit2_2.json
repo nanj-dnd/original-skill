@@ -1,0 +1,144 @@
+{
+ "213": {
+  "invented": [
+   "I use these tools every day.",
+   "The code is often fine.",
+   "A few months ago",
+   "by the time I was awake enough to log in",
+   "the on-call engineer had already been at it for a while",
+   "They'd pasted the error into the coding assistant, got a fix, applied it, and it didn't work.",
+   "Different fix, same result.",
+   "I opened the log, read it top to bottom",
+   "with production down"
+  ],
+  "count": 9
+ },
+ "214": {
+  "invented": [
+   "For a while, I blamed myself. Maybe I wasn't disciplined enough. Maybe I lacked consistency. Maybe I just didn't want it badly enough.",
+   "haven't slept properly",
+   "your body has absolutely no interest in cooperating",
+   "Then I looked at my schedule."
+  ],
+  "count": 4
+ },
+ "215": {
+  "invented": [
+   "Some of you use it for most of what you write",
+   "some of you have it switched off",
+   "nobody is",
+   "nobody's going to stop using them either",
+   "It's in the editor."
+  ],
+  "count": 5
+ },
+ "216": {
+  "invented": [
+   "My morning is sometimes 5am and sometimes 7pm",
+   "some weeks I'm not fully sure which one I'm in",
+   "which is 11 months longer than the previous record",
+   "I'm already dressed",
+   "already out of the house",
+   "already too tired to invent an excuse"
+  ],
+  "count": 6
+ },
+ "217": {
+  "invented": [
+   "I want to start with a situation I think most of us have experienced by now.",
+   "You open Cursor, Claude, or whichever AI coding assistant you prefer",
+   "within a few seconds, you have 100 lines of code sitting in front of you",
+   "And honestly, you probably are.",
+   "I don't think the solution is to use AI less.",
+   "If anything, I think we should be experimenting with it more.",
+   "The opportunity is enormous",
+   "I do think we need to change how we measure productivity."
+  ],
+  "count": 8
+ },
+ "218": {
+  "invented": [
+   "Three years ago",
+   "I don't think I wanted Welsh more than I wanted to be fit.",
+   "Welsh was one lesson, a few minutes, every day.",
+   "You can't half-do it or over-do it.",
+   "The gym never had a version that small.",
+   "The number sits on the screen and goes up by one each day",
+   "once it's past a few hundred it is genuinely painful to imagine it going back to zero",
+   "My gym resolution had no counter.",
+   "There was no 23 to protect",
+   "Not in a nagging way",
+   "The diet was entirely private",
+   "I can't tell you when it ended.",
+   "Willpower didn't come into it",
+   "it's the only combination that's ever worked for me"
+  ],
+  "count": 14
+ },
+ "219": {
+  "invented": [],
+  "count": 0
+ },
+ "220": {
+  "invented": [
+   "with people I don't see often",
+   "at the time that felt like a verdict",
+   "all year",
+   "an attempt that breaks in week five and leaves you with a written note",
+   "Four attempts in eighteen months"
+  ],
+  "count": 5
+ },
+ "221": {
+  "invented": [
+   "I hadn't noticed it was a cigarette with a coffee attached rather than the other way round.",
+   "Drinks, a crowd, somebody holding a pack out",
+   "five weeks gone in about a minute",
+   "The third showed me driving, and my brother.",
+   "Different trigger each time",
+   "by spring most of them are back where they started",
+   "I failed to quit smoking in three separate years",
+   "Nobody could have told me that in advance",
+   "The only way to find out what trips you up is to try, trip, and look at what your foot caught on."
+  ],
+  "count": 9
+ },
+ "222": {
+  "invented": [],
+  "count": 0
+ },
+ "223": {
+  "invented": [
+   "Every January I used to think the problem was me.",
+   "I'd pick something, go hard for three weeks, then quietly stop",
+   "I am not Welsh.",
+   "I have no plan to move to Wales.",
+   "By any sensible measure this is the least necessary thing I do.",
+   "which is longer than I have kept up anything that wasn't a job or a mortgage.",
+   "I could have skipped the running and the world would have shrugged.",
+   "I could have let the reading list rot",
+   "no one at dinner would have said, 'So how's that going?'",
+   "Every other resolution I've made had something in common: nobody would have noticed if I stopped.",
+   "a twelve-year-old would have asked, with the faint cruelty only twelve-year-olds can manage, why my number had gone back to zero.",
+   "Three hundred days in, the lessons were genuinely dull.",
+   "The dinner conversation wasn't."
+  ],
+  "count": 13
+ },
+ "224": {
+  "invented": [
+   "I think AI coding assistants are one of the best things to happen to engineering in years.",
+   "They help us move faster, explore ideas we might otherwise not have had time to explore, and take care of work that doesn't necessarily require our deepest attention.",
+   "whether deliveries happen and whether customers can trust us",
+   "Faster development and prototyping.",
+   "Less time spent on repetitive coding.",
+   "More room to focus on architecture and higher-value problems.",
+   "Better leverage for engineers across the organisation.",
+   "Our responsibility isn't just to ship features. It's to keep the business running.",
+   "Less confidence in reasoning through a problem without immediately asking an assistant.",
+   "One night, we had an outage.",
+   "did what many of us would instinctively do"
+  ],
+  "count": 11
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "123": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses the person's actual team metrics and measured, nuanced position to build a specific argument rather than a generic AI debate."
+ },
+ "124": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Makes the August incident the central narrative, translates engineering costs for non-technical colleagues, and clearly advances her proposed policy."
+ },
+ "125": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 uses the QA lead's actual test-suite data and suspected duplication to make a distinctive, actionable argument; Piece 1 is generic."
+ },
+ "126": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 turns the specific test-suite deterioration into a credible five-minute argument with concrete asks, whereas Piece 2 falls back on generic QA advice."
+ },
+ "127": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The Welsh-learning story and dinner-time accountability create a vivid, personal explanation that is far more distinctive than Piece 1's standard habit advice."
+ },
+ "128": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 is more usable for an inexperienced, relatively neutral speaker, while Piece 2 has a sharper and more original argument about ownership and unread code."
+ },
+ "129": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 captures his blunt experimental framing, uses the wedding trigger concretely, and gives practical advice without self-help language."
+ },
+ "130": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 develops the unusual argument that January supplies a date without a reason, giving a new blogger a distinctive thesis rather than familiar fresh-start advice."
+ },
+ "131": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 directly addresses the real migration incident, review burden, non-engineering audience, and all three specific policy changes she wants."
+ },
+ "132": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 has a sharper voice, memorable shift-worker imagery, and a particularly effective explanation of event-based habit anchoring."
+ }
+}

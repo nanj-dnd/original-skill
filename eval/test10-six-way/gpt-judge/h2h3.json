@@ -1,0 +1,62 @@
+{
+ "25": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The Welsh streak and dinner ritual provide a vivid, genuinely personal explanation that makes the argument distinctive and memorable."
+ },
+ "26": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It captures his philosophy that attempts are experiments, uses his actual quitting history, and turns the wedding relapse into practical advice."
+ },
+ "27": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The specific outage, incident metrics, and aviation analogy reflect his actual concerns while explicitly establishing that he is pro-AI."
+ },
+ "28": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It directly challenges 9-to-5-centric advice through her three failed January attempts and successful event-anchored gym habit."
+ },
+ "29": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The argument about January 1 being an arbitrary starting point is thoughtful and distinctive without inventing personal experiences or convictions."
+ },
+ "30": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The concrete outage story, measured incident evidence, and manual-flying analogy make it substantially more credible and tailored to his position."
+ },
+ "31": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It preserves the aviation analogy and skill-atrophy argument while delivering a polished opening that establishes his balanced position on AI."
+ },
+ "32": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It uses her actual shift-rotation experience and fourteen-month solution rather than recycling generic habit-building advice."
+ },
+ "33": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 offers a balanced, conventional position appropriate to Jo's limited convictions, while Piece 2 develops a sharper and more original argument about ownership."
+ },
+ "34": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It turns his actual test-suite experience into a specific argument about accumulated infrastructure costs, with a practical proposal for engineers and PMs."
+ },
+ "35": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It directly addresses the structural mismatch between shift work and conventional resolution advice, supported by her unusually specific personal example."
+ },
+ "36": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The test-suite metrics and concrete runtime consequences give the talk a distinctive, evidence-based argument that Piece 1 lacks."
+ }
+}

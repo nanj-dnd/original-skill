@@ -1,0 +1,57 @@
+{
+ "112": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The January 1 argument gives Max's blog a distinctive perspective and a memorable central thesis rather than recycling familiar motivation advice."
+ },
+ "113": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses the actual outage, incident metrics, aviation analogy and six-month junior debugging proposal while making clear that the speaker supports AI."
+ },
+ "114": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "The balanced structure better matches Jo's moderate views and lack of a strong personal position, whereas Piece 1 invents a much more forceful philosophy."
+ },
+ "115": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Develops the actual incident, metrics and aviation analogy into a coherent, actionable speech while carefully distinguishing skill atrophy from opposition to AI."
+ },
+ "116": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 matches her straightforward belief that motivation fades without inventing a personal anecdote, making it safer and more authentic to use."
+ },
+ "117": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Directly addresses shift workers through her three failed January attempts and successful event-based gym habit, with an excellent practical recommendation and authentic voice."
+ },
+ "118": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The unconventional argument about dates preceding reasons is distinctive, engaging and better suited to Max's suspicion that conventional resolution advice is repetitive."
+ },
+ "119": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The contract-volume analogy makes the engineering problem understandable to non-technical colleagues, while the three-part accountability rule and specific metrics make the proposal actionable."
+ },
+ "120": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The QA perspective, insurance-specific reliability concerns and balanced attitude suit his relatively moderate position without introducing an overly elaborate organisational diagnosis."
+ },
+ "121": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Uses her real shift-work experience and successful 14-month habit to challenge conventional resolution advice with a practical alternative tailored to her readers."
+ },
+ "122": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The sharper opening, memorable kitchen analogy and concise event-versus-clock framework create a more distinctive and engaging personal blog post."
+ }
+}

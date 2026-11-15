@@ -1,0 +1,62 @@
+{
+ "37": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Uses the actual 2am outage, incident metrics, and aviation analogy to make a measured, credible argument that distinguishes skill atrophy from opposition to AI."
+ },
+ "38": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "A polished but generic explanation of resolutions as a strategy problem is more usable than inventing a deeply personal Welsh-learning story that contradicts the instruction to mention the hidden detail only when asked."
+ },
+ "39": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Connects the team's actual test-suite growth and nightly runtime to a specific, nuanced problem of accumulating infrastructure costs, with a concrete audit proposal."
+ },
+ "40": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The real outage, firsthand incident-review observations, aviation analogy, and explicit accommodation for managers make it substantially more authentic and actionable."
+ },
+ "41": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The August migration story makes accountability tangible, while the outline translates review costs for non-engineers and articulates all three requested guardrails."
+ },
+ "42": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Replaces a generic AI pros-and-cons presentation with the manager's actual accountability problem, business consequences, and specific policy proposals."
+ },
+ "43": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Its accessible power-tool analogy and balanced, conventional recommendations fit Jo's moderate views and lack of personal anecdotes better than Piece 2's unusually forceful process manifesto."
+ },
+ "44": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 offers the same core argument and evidence in a more presentation-ready structure, with a particularly effective aviation analogy and operational framing."
+ },
+ "45": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Combines the real migration incident, quantified review burden, non-engineer explanations, and all three requested rules into a coherent, immediately usable talk."
+ },
+ "46": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The experimental framing, precise wedding-trigger lesson, and practical instruction to document each attempt reflect his lived experience without resorting to motivational clich\u00e9s."
+ },
+ "47": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The concrete migration incident and detailed accountability proposal fit her actual management priorities far better than a generic co-pilot analogy and broad AI guidance."
+ },
+ "48": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The accessible, balanced power-tool framing suits Jo's moderate position and junior-level role, whereas Piece 2 imposes a much stronger ownership manifesto than Jo has expressed."
+ }
+}

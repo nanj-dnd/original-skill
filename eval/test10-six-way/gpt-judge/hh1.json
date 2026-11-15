@@ -1,0 +1,57 @@
+{
+ "101": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The distinctive argument about January 1 being an arbitrary trigger gives the post a memorable perspective without inventing personal experiences."
+ },
+ "102": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It directly reflects his four smoking attempts, specific triggers and experimental mindset, with a blunt tone that avoids self-help clich\u00e9s."
+ },
+ "103": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 is more measured and ready to publish, accurately incorporating his experience without overstating the lesson, while Piece 2 has the more distinctive experimental framing."
+ },
+ "104": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 offers a balanced, accessible argument appropriate for someone without strong opinions or personal anecdotes, whereas Piece 1 imposes a more assertive position."
+ },
+ "105": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It uses the actual outage, incident-resolution figures and aviation analogy to make his skill-atrophy argument concrete, while proposing a specific policy and addressing managers."
+ },
+ "106": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It translates her actual August incident, review-time increases and proposed engineering rules into a compelling company-wide argument rather than a generic AI debate."
+ },
+ "107": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 is the safer publication choice because Piece 1 improperly introduces a personal Welsh-learning story that was explicitly not to be mentioned."
+ },
+ "108": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 fits her stated belief about motivation without inventing or revealing personal experiences she did not volunteer for this topic."
+ },
+ "109": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 directly embodies his belief that unsuccessful attempts are experiments, using his actual smoking history and specific triggers rather than generic resolution advice."
+ },
+ "110": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 is exceptionally tailored to his experience, aviation analogy, incident data and six-month debugging proposal, while explicitly distinguishing skill atrophy from opposition to AI."
+ },
+ "111": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 provides a balanced, accessible outline suited to Jo's limited personal convictions and company-wide audience, while Piece 2 introduces a much more distinctive ownership argument that Jo never expressed."
+ }
+}

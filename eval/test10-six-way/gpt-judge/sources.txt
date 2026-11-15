@@ -1,0 +1,9 @@
+abs1-3: codex gpt-6.1-sol (low effort not used; high)
+abs4: chatgpt web free plan
+hh1: chatgpt web free plan
+hh2: chatgpt web free plan
+hh3: chatgpt web free plan
+h2h1: chatgpt web free plan
+h2h2: chatgpt web free plan
+h2h3: chatgpt web free plan
+h2h4: chatgpt web free plan

@@ -160,6 +160,14 @@ and a Gemini judge. Data in `eval/test8-cross-model/`, `test9-head-to-head/`,
   ("mention only if asked") as a rule for the writer, an artifact of the setup. Twice it
   preferred ChatGPT's middle-ground piece for Jo, a vague user who agrees with the
   default, over the skill's firmer stance. Once it preferred ChatGPT's tone (Marcus).
+- **GPT as a third judge** (gpt-6.1-sol via Codex for 36 pieces, ChatGPT's free web app
+  for the rest): head to head `/original` won 98 of 120 judged matchups and lost 8; 36 of
+  48 against the two ask-first rivals (15 of 24 against ChatGPT). On three-judge means
+  ChatGPT asking first edged it on use as is (3.79 against 3.59) and fit (4.25 against
+  3.84); the skill led on originality, specificity and writing. GPT's main objection was
+  the same as Gemini's (Jo: too firm a stance for a moderate speaker), and it counted
+  3.25 invented details per skill piece against 0.38 for ChatGPT asking first: small
+  made-up personal details in first-person pieces.
 - The skill was the only contestant to use every user's own material when there was some
   (6 of 6, against 4 of 6 for both ask-first rivals) and used the fewest stock phrases.
 

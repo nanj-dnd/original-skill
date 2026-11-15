@@ -1,0 +1,62 @@
+{
+ "1": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "P1 captures his attempts-not-failures philosophy, uses his exact smoking experience, and delivers the blunt, experimental framing he prefers."
+ },
+ "2": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "P2 is more appropriate without disclosing the explicitly restricted Welsh detail, although its invented gym anecdote is problematic; P1 is substantially more distinctive."
+ },
+ "3": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "P1 incorporates the actual migration incident, review-time figures, onboarding benefits, and all three proposed rules while addressing the mixed company audience."
+ },
+ "4": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "P1 directly reflects his personal philosophy and uses the wedding-trigger experience to make a distinctive, actionable argument rather than recycling generic resolution advice."
+ },
+ "5": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "P1 captures her specific shift-work experience, explains the event-anchoring solution with concrete examples, and matches her practical, slightly wry voice."
+ },
+ "6": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "P2 avoids revealing the explicitly restricted Welsh detail and provides a usable general article, although P1 is much more original and memorable."
+ },
+ "7": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "P1 develops Max's vague suspicion about January 1 into an interesting, coherent argument without inventing a personal transformation story."
+ },
+ "8": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "P1 speaks directly to healthcare workers' scheduling realities and builds its argument around her actual three-year struggle and successful 14-month solution."
+ },
+ "9": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "P2 is grounded in his actual smoking history, corrects the failure-versus-attempt framing, and sounds like his blunt, teacherly voice."
+ },
+ "10": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "P2 better reflects Jo's moderate, non-prescriptive position and gives a balanced, practical discussion without imposing an unusually forceful company-wide policy."
+ },
+ "11": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "P2 uses his actual experience and distinctive experimental framing, whereas P1 is interchangeable self-help advice that contradicts his central beliefs."
+ },
+ "12": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "P2 uses the real August migration incident, quantifies the review burden, acknowledges faster onboarding, and translates her three proposed rules for the entire company."
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "13": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The Welsh streak and dinner ritual provide a genuinely personal, memorable explanation that fits her actual experience and audience."
+ },
+ "14": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The test-suite numbers give the talk concrete internal evidence and a credible, actionable argument rather than generic AI advice."
+ },
+ "15": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The January 1 thesis offers a distinctive angle that matches Max's mild skepticism about resolution culture without inventing personal experiences."
+ },
+ "16": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The calendar-versus-reason argument is more original and engaging than another conventional motivation-and-habits article."
+ },
+ "17": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The specific test-suite problem makes the presentation unusually relevant to his QA role, with practical recommendations for engineers and PMs."
+ },
+ "18": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "The power-tool analogy and straightforward balanced position suit a relatively junior engineer addressing an unspecified company-wide audience without requiring invented experience."
+ },
+ "19": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The internal testing metrics and proposed audit make this substantially more credible, specific and useful than generic coding-assistant guidance."
+ },
+ "20": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The unusual argument about January 1 being a poor trigger fits Max's skepticism and gives his young blog a more distinctive voice."
+ },
+ "21": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The Welsh-learning story is authentic, specific and compelling, turning her general belief about motivation into a personal insight."
+ },
+ "22": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The distinction between work that's about typing and work that's about thinking is accessible, balanced and appropriately actionable for Jo's audience."
+ },
+ "23": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The January 1 argument is more distinctive and intellectually engaging, while the alternative relies on familiar motivational clich\u00e9s and forced audience engagement."
+ },
+ "24": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "The shift-work experience, concrete 14-month success and event-based habit strategy directly address her readers' circumstances and challenge conventional advice."
+ }
+}

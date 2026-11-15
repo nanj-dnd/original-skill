@@ -1,0 +1,82 @@
+{
+ "817": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Builds on her own 'people lose motivation' view and her Welsh streak instead of contradicting her with a design-flaw thesis."
+ },
+ "818": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Written in the QA lead's own voice, with a concrete merge norm and a measurable follow-up he owns."
+ },
+ "819": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Uses her real Welsh streak and witness insight; Piece 1 is a stock motivation-vs-habit essay."
+ },
+ "820": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Plain language for non-engineers with no pro/con framing; Piece 2 drifts into a benefits section and generic bullets."
+ },
+ "821": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Translates the numbers for the room (a third of their week), glosses jargon, and explicitly rejects pros and cons as she wants."
+ },
+ "822": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Opens on the 2am story, avoids gushing pro-AI preamble, and makes a sharp case for his proposal with the aviation analogy."
+ },
+ "823": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Sharper translation for non-engineers, a postmortem gloss, and an opening that says up front it won't be pros and cons."
+ },
+ "824": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Built on his real test-suite numbers with a concrete norm; Piece 1 is a generic speed-vs-quality talk."
+ },
+ "825": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Blunt, no self-help tone, ends with one concrete move; Piece 2 is softer and closer to the fluff he hates."
+ },
+ "826": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "The 'every engineer/task/line' structure gives Jo a clear middle position without inventing facts about the company."
+ },
+ "827": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Punchier wedding hook and a sharper 'one move' close suit his blunt, anti-self-help voice."
+ },
+ "828": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Blunt reframe with a concrete method; Piece 1 reads like a gentle self-help post."
+ },
+ "829": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses his real suite numbers and a concrete proposal instead of a generic AI-responsibility outline."
+ },
+ "830": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Matches Max's real experience of resolutions simply being forgotten and develops the date idea freshly; Piece 1 is stock."
+ },
+ "831": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Wry and specific to rotating 12s, written for nurse readers; Piece 2 is a flatter, more generic retelling."
+ },
+ "832": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Measured and true to Max's thin experience without invented vivid details like hangovers or knee aches."
+ }
+}

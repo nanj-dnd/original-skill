@@ -1,0 +1,7 @@
+1: none of these quite fits. I'm not sceptical of the tools, and I'm fine with people using them for writing new code. Please don't frame me as the anti-AI guy. My worry is skill atrophy, not code quality. We're losing the ability to debug without it. Pilots fly on autopilot most of the time, but they still train on manual flying, because when the automation hands control back at the worst moment you need the stick-and-rudder skills. My actual proposal: juniors do their first six months of debugging without an assistant.
+
+2a, plus a number. 2am outage, P2. The on-call engineer pasted the error into the assistant four times and got four different confident fixes. None of them were right. I got pulled in, read the log, and found it in about ten minutes. The number: over the last six months our median time-to-resolve for P2s went from 38 to 61 minutes. In incident reviews I keep seeing engineers who can't follow a stack trace through code they "wrote."
+
+3: an engineer talking to fellow engineers. More specifically, I'm the staff engineer who runs on-call and the incident reviews, so I'm the one who sees this. It's the whole company, but the people I really need to hear it are engineers and their managers, since managers would have to sign off on the junior thing.
+
+4a, plain, how I'd say it standing up. Maybe a touch of c on the debugging point, because the comfortable "use judgment" answer is exactly what got us here. No TED opener, please.

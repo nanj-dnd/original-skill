@@ -1,6 +1,6 @@
 # Evaluation of this skill, November 2026
 
-Six rounds, 14–15 Nov 2026: a pilot of v1, a check of v2, Test 3 (generic questions), Test 4 (vague users), Test 5 (the pause), Test 6 (v3). Small samples and
+Rounds from 14–16 Nov 2026: a pilot of v1, a check of v2, Test 3 (generic questions), Test 4 (vague users), Test 5 (the pause), Test 6 (v3). Small samples and
 model-written personas, so read the numbers as direction, not effect size.
 
 ## Setup
@@ -183,6 +183,18 @@ and a Gemini judge. Data in `eval/test8-cross-model/`, `test9-head-to-head/`,
   posts, invented details fell to 0 (Claude auditor) and 2.25 (ChatGPT auditor, mostly
   opinions in the user's voice), from 3.5 and 5.5 under the first fix; use as is rose to
   4.0 (ChatGPT asking first: 3.08), with specificity and originality down about 0.3.
+- **Test 13, sampling the real default** (`eval/test13-real-default/`): the skill now
+  runs 3 plain answers in the background and keeps out what they share; it also asks
+  first-person users for one real moment and has rules for "just write it", coursework
+  and length. Round 1 tied the old version on scores and lost the head-to-head 3 to 5
+  (Claude judge): steering away from the samples pushed Jo, a mild user, to a firmer
+  stance than Jo holds. The rule was changed so samples swap examples, structure and
+  phrasing but never move the stance. Round 2, new pieces, same 8 users: preferred over
+  the old version 12 of 16 times (Claude judge) and 9 of 16 (ChatGPT judge); against
+  ChatGPT asking first, 16 of 16 and 13 of 16. Overlap with 3 held-out plain answers fell
+  from 2.5 to 1.75 of 5; fit 4.75 against 4.62; use as is 4.38 against 4.5; invented
+  details 0.88 against 0.5 per piece (Claude auditor). A "just write it" run asked
+  nothing more, added no personal details and said it stayed partly close to the default.
 - The skill was the only contestant to use every user's own material when there was some
   (6 of 6, against 4 of 6 for both ask-first rivals) and used the fewest stock phrases.
 

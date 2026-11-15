@@ -1,0 +1,173 @@
+{
+ "judges": [
+  "claude"
+ ],
+ "scores": {
+  "v4": {
+   "use_as_is": {
+    "claude": 4,
+    "mean": 4
+   },
+   "fit": {
+    "claude": 4.12,
+    "mean": 4.12
+   },
+   "originality": {
+    "claude": 4.12,
+    "mean": 4.12
+   },
+   "specificity": {
+    "claude": 4.5,
+    "mean": 4.5
+   },
+   "tone": {
+    "claude": 4.12,
+    "mean": 4.12
+   },
+   "writing": {
+    "claude": 4.38,
+    "mean": 4.38
+   },
+   "invented_claude": 0.75,
+   "shared_claude": 1.62
+  },
+  "v3": {
+   "use_as_is": {
+    "claude": 4,
+    "mean": 4
+   },
+   "fit": {
+    "claude": 4.12,
+    "mean": 4.12
+   },
+   "originality": {
+    "claude": 4.25,
+    "mean": 4.25
+   },
+   "specificity": {
+    "claude": 4.38,
+    "mean": 4.38
+   },
+   "tone": {
+    "claude": 4.25,
+    "mean": 4.25
+   },
+   "writing": {
+    "claude": 4.25,
+    "mean": 4.25
+   },
+   "invented_claude": 0.88,
+   "shared_claude": 2
+  },
+  "chatgpt_asks": {
+   "use_as_is": {
+    "claude": 2.75,
+    "mean": 2.75
+   },
+   "fit": {
+    "claude": 3.25,
+    "mean": 3.25
+   },
+   "originality": {
+    "claude": 1.88,
+    "mean": 1.88
+   },
+   "specificity": {
+    "claude": 3,
+    "mean": 3
+   },
+   "tone": {
+    "claude": 3,
+    "mean": 3
+   },
+   "writing": {
+    "claude": 2.88,
+    "mean": 2.88
+   },
+   "invented_claude": 0.25,
+   "shared_claude": 3
+  }
+ },
+ "by_task": {
+  "talk": {
+   "v4": {
+    "claude": {
+     "use_as_is": 4.25,
+     "fit": 4.25,
+     "originality": 4.25,
+     "specificity": 4.75
+    }
+   },
+   "v3": {
+    "claude": {
+     "use_as_is": 4,
+     "fit": 4.25,
+     "originality": 4.25,
+     "specificity": 4.5
+    }
+   },
+   "chatgpt_asks": {
+    "claude": {
+     "use_as_is": 2.5,
+     "fit": 3,
+     "originality": 1.75,
+     "specificity": 3
+    }
+   }
+  },
+  "blog": {
+   "v4": {
+    "claude": {
+     "use_as_is": 3.75,
+     "fit": 4,
+     "originality": 4,
+     "specificity": 4.25
+    }
+   },
+   "v3": {
+    "claude": {
+     "use_as_is": 4,
+     "fit": 4,
+     "originality": 4.25,
+     "specificity": 4.25
+    }
+   },
+   "chatgpt_asks": {
+    "claude": {
+     "use_as_is": 3,
+     "fit": 3.5,
+     "originality": 2,
+     "specificity": 3
+    }
+   }
+  }
+ },
+ "h2h": {
+  "claude": {
+   "v3": {
+    "prefer": {
+     "both_orders": 3,
+     "split": 0,
+     "lost_both": 5
+    },
+    "less_generic": {
+     "both_orders": 5,
+     "split": 0,
+     "lost_both": 3
+    }
+   },
+   "chatgpt_asks": {
+    "prefer": {
+     "both_orders": 8,
+     "split": 0,
+     "lost_both": 0
+    },
+    "less_generic": {
+     "both_orders": 8,
+     "split": 0,
+     "lost_both": 0
+    }
+   }
+  }
+ }
+}

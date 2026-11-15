@@ -32,6 +32,16 @@ numbers as direction.
 - Divergence on a question with one right answer is just error, so closed tasks get a
   plain answer.
 
+- **Sample the real default** (added 2026-11-16, Code only): "What everyone gets" was the
+  model's guess. `sample_default.py` runs 3 plain answers in the background while the user
+  answers, and the writer keeps out what two of them share: examples, structure,
+  opening and phrasing, never the stance. Two plain samples of a LinkedIn task opened
+  with the identical first line. Test 13: overlap with held-out plain answers fell from
+  2.5 to 1.75 of 5 and the new version was preferred 21 of 32 times across two judges;
+  an earlier wording that also avoided the samples' claim pushed a mild user's stance too
+  far and lost.
+- **Coursework**: ideas and angle only, and any rule the user set for that course holds.
+
 ## 2. Ask
 
 - **Few questions, one round.** Cutting an interview by 80% barely changed what a model
@@ -43,6 +53,14 @@ numbers as direction.
 - **Real material, including a number.** A real case was the strongest single ingredient
   in every fitted output; in Test 4 a user's best material was a figure no "real case"
   option had room for.
+- **One real moment for first-person pieces** (added 2026-11-16): the no-invention rule cut
+  made-up details to 0 but specificity fell (4.67 to 4.33 in Test 12), because the piece had
+  less to work with. Asking for one thing that happened, a number or a line someone said
+  gives it true colour instead.
+- **Options carry their material**: when the conversation or files already hold a draft,
+  notes or figures, a click should pass them in rather than asking the user to retype.
+- **"Just write it"**: no second ask; one non-default choice from the task alone, no
+  personal details, and the distance line says it stays close to the default.
 - **Tone.** In Test 7 the skill never asked about tone, wrote in the user's casual
   founder voice, and the user wanted formal copy for that reader. The plain model asked.
 

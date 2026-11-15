@@ -116,6 +116,7 @@ def write_skill_dir(dest: Path, target: str, body: str) -> Path:
         shutil.copy2(ref, skill / "references" / ref.name)
     if target == "code":
         shutil.copy2(SRC / "export_pdf.py", skill / "export_pdf.py")
+        shutil.copy2(SRC / "sample_default.py", skill / "sample_default.py")
     return skill
 
 

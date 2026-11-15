@@ -1,0 +1,82 @@
+{
+ "617": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Gives Jo a concrete, company-facing angle he can use without inventing a story; Piece 2 is a stock pros/cons talk."
+ },
+ "618": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Its blunt 'wrong unit' correction and 'failure is a location' fit his teacher voice and dodge self-help tone."
+ },
+ "619": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Gives Jo a concrete, company-facing angle he can use without inventing a story; Piece 1 is a stock pros/cons talk."
+ },
+ "620": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Translates the jargon for non-engineers, puts the cost on the two seniors and commits to reporting the review-hours number back."
+ },
+ "621": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Explains things in plain language for sales and compliance and avoids drifting into a pro/con framing; Piece 1 leans on jargon like NOT NULL."
+ },
+ "622": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Builds on her own 'people lose motivation' view in essay form rather than a generic listicle."
+ },
+ "623": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Builds the talk on his team's real test-suite numbers; Piece 2 is boilerplate AI-caution content."
+ },
+ "624": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Develops Max's January 1 hunch as a fluid personal essay rather than a numbered list."
+ },
+ "625": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Sharp and specific with no self-help softness; Piece 2 drifts into motivational filler."
+ },
+ "626": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Wry, specific shift-worker voice with concrete anchors like handover; Piece 2 reads like a generic inspirational post."
+ },
+ "627": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "A ready-to-speak 'use it, own the output' message closer to Jo's mild 'be careful' view."
+ },
+ "628": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Ends on a small, concrete ask (dedupe one module) that suits a terse QA lead better than an open debate."
+ },
+ "629": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Explains things in plain language for the mixed room and centres on her review-cost thesis rather than a pro/con list."
+ },
+ "630": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Wry, specific shift-worker voice with concrete anchors like handover; Piece 1 reads like a generic inspirational post."
+ },
+ "631": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Sharp and specific with no self-help softness; Piece 1 drifts into motivational filler."
+ },
+ "632": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses her own motivation view and the dinner-table streak, while Piece 2 is generic habit advice."
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "601": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1's 'use the tools, own the output' fits Jo's mild 'use it, be careful' view; Piece 2 takes a stronger pro-AI stance than Jo holds."
+ },
+ "602": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Builds on her 'people lose motivation' view and grounds it in her real Welsh-streak ritual instead of generic motivation advice."
+ },
+ "603": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Matches Max's hunch about January 1 and his forgotten resolutions, with concrete, lightly funny reasoning rather than stock reflection."
+ },
+ "604": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A tighter essay on the date as the problem that fits Max's forgotten-resolutions angle and avoids the listicle format."
+ },
+ "605": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Puts the numbers up front, scopes the rule precisely, and gives managers and non-engineers clear asks; Piece 1 invents that the outage code wasn't AI-written."
+ },
+ "606": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Develops her 'lose motivation' view directly into why structure outlasts mood, in a natural blog voice rather than a numbered list."
+ },
+ "607": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Matches Max's January-1 suspicion and his forgotten resolutions with specific, wry reasons; Piece 1 is soft generic reflection."
+ },
+ "608": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Translates the August bug and review-hour numbers well for non-engineers, states the three rules plainly, and closes on a metric to report back."
+ },
+ "609": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Blunter and explicitly refuses the 'failure is secretly fine' fluff he hates, while keeping his attempts-not-outcomes framing and wedding trigger."
+ },
+ "610": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Leads with the real outage and numbers and gives a tight, concrete rule; Piece 1 opens with generic AI praise and a padded benefits list."
+ },
+ "611": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Uses his real numbers and ends with a small, concrete dedupe experiment that suits a terse QA lead; Piece 1 is more conceptual."
+ },
+ "612": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Opens on his real incident, keeps the pilot analogy tight, and makes a specific ask of managers; Piece 2 is generic and padded."
+ },
+ "613": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Wry, specific and tight, and centres her event-not-time anchor for shift workers; edges out the also-good alternative."
+ },
+ "614": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Opening carries the numbers, the proposal is scoped carefully with a measurement plan, and it avoids Piece 2's invented 'wasn't AI-written' claim."
+ },
+ "615": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Punchier and wry ('calendar problem wearing a discipline costume'), with her gym-after-any-shift story front and centre for nurse readers."
+ },
+ "616": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Built on his team's real test-suite numbers, where Piece 1 is a generic speed-vs-quality talk any AI would produce."
+ }
+}

@@ -1,0 +1,9 @@
+1c 2a 3d 4a
+
+1: Closest is c, but I want to be clear I'm not anti-AI, and I'll be annoyed if the talk reads that way. I use it, my team uses it, and I'm happy with it for writing new code. My worry isn't code quality, it's skill atrophy. The places I'd keep it out are debugging, and especially juniors' debugging. My proposal is that new engineers do their first six months of debugging without an assistant. It's the same reason pilots still train on hand-flying even though the autopilot is better than they are most of the time. You need the manual skill for the day the automation hands you the airplane at the worst possible moment.
+
+2: It went wrong at 2am during an outage. The on-call engineer pasted the error into the assistant four times and got four different confident fixes. It took me about 10 minutes to find the problem by just reading the log. The number behind that is our median time-to-resolve for P2 incidents, which has gone from 38 to 61 minutes over the last six months. In incident reviews I keep seeing engineers who can't read a stack trace through code they "wrote."
+
+3: It's the whole company, so non-engineers will be there and some of them want to know about policy. But the people I really need to reach are the engineers and their managers. The managers are the ones who'd actually have to back a "no assistant for debugging in your first six months" norm.
+
+4: Plain and direct. I run the incident reviews, so I want it to sound like one of those: here's what happened, here's the data, here's what I think we should do. Skip the upbeat corporate framing. I'm fine if it lands a bit pointed, as long as it's not "AI bad."

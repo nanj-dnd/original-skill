@@ -1,0 +1,1 @@
+1: honestly I think people just lose motivation, that's about it 2b: learning Welsh on an app, I'm on a 700-day streak. My 12-year-old daughter does it too and we check each other's streaks at dinner, so neither of us wants to be the one who breaks it 3a 4d

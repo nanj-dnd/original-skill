@@ -1,0 +1,1 @@
+1: honestly I just think people lose motivation. b is probably closest. 2b: I've kept one, learning Welsh on an app. 700-day streak now. My daughter (she's 12) does it too and we check each other's streaks at dinner. 3c 4a

@@ -1,0 +1,82 @@
+{
+ "801": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Opens bluntly on the wedding relapse, keeps the attempts-not-outcomes correction sharp, and ends on one concrete move with no self-help softness."
+ },
+ "802": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Built for a half non-engineer room: it explains the NOT NULL drop plainly, says up front it won't do pros and cons, and turns the review hours into fractions of a week."
+ },
+ "803": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Speaks directly to nurses on rotating 12s with wry specifics; Piece 1 reads like generic blog filler."
+ },
+ "804": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Gives Jo a ready-made middle position with a clear structure and no invented story; Piece 1 is a stock AI pro/con talk."
+ },
+ "805": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Tighter and ready to deliver, with a small concrete ask; it avoids Piece 1's placeholder and the new ownership commitment that a terse, neutral speaker wouldn't want."
+ },
+ "806": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Keeps her own 'people lose motivation' view and builds it around the dinner streak check; Piece 2 argues against that view."
+ },
+ "807": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A specific, true story about the Welsh streak with her daughter, versus a generic motivation essay."
+ },
+ "808": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Opens on the 2am incident, puts the aviation analogy to real use and closes on 38\u219261; Piece 1 is padded and sounds generic."
+ },
+ "809": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A neutral, middle-ground structure that fits Jo; Piece 2 invents facts such as 'no policy' that Jo never gave."
+ },
+ "810": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Puts the numbers in the opening, addresses non-engineers and makes no invented 'use-judgment policy' claim, unlike Piece 2."
+ },
+ "811": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Warmer and more nurse-specific ('which night? which morning?'), with a wry close aimed at her readers."
+ },
+ "812": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Carries the data into the opening, scopes the debugging rule clearly and invents nothing about existing policy."
+ },
+ "813": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Warmer and more nurse-specific, with a wry close aimed at her readers."
+ },
+ "814": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Matches Max's real experience of forgetting resolutions with an original angle about where they come from; Piece 2 is boilerplate."
+ },
+ "815": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "More vivid and lightly funny while still matching Max's vague January-1 suspicion; reads like a real personal post."
+ },
+ "816": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Gives Jo a clear middle position with a strong structure; Piece 2 is a stock AI talk."
+ }
+}

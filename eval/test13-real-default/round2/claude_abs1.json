@@ -1,0 +1,122 @@
+{
+ "701": {
+  "use_as_is": 4,
+  "fit": 5,
+  "originality": 4,
+  "specificity": 5,
+  "tone": 4,
+  "writing": 5,
+  "invented": 0,
+  "unsupported_stats": 0
+ },
+ "702": {
+  "use_as_is": 3,
+  "fit": 3,
+  "originality": 2,
+  "specificity": 2,
+  "tone": 3,
+  "writing": 3,
+  "invented": 0,
+  "unsupported_stats": 0
+ },
+ "703": {
+  "use_as_is": 4,
+  "fit": 4,
+  "originality": 4,
+  "specificity": 3,
+  "tone": 4,
+  "writing": 4,
+  "invented": 0,
+  "unsupported_stats": 0
+ },
+ "704": {
+  "use_as_is": 4,
+  "fit": 4,
+  "originality": 4,
+  "specificity": 4,
+  "tone": 4,
+  "writing": 4,
+  "invented": 0,
+  "unsupported_stats": 0
+ },
+ "705": {
+  "use_as_is": 3,
+  "fit": 3,
+  "originality": 2,
+  "specificity": 2,
+  "tone": 3,
+  "writing": 3,
+  "invented": 0,
+  "unsupported_stats": 0
+ },
+ "706": {
+  "use_as_is": 4,
+  "fit": 5,
+  "originality": 4,
+  "specificity": 4,
+  "tone": 4,
+  "writing": 4,
+  "invented": 0,
+  "unsupported_stats": 0
+ },
+ "707": {
+  "use_as_is": 3,
+  "fit": 3,
+  "originality": 2,
+  "specificity": 2,
+  "tone": 3,
+  "writing": 3,
+  "invented": 0,
+  "unsupported_stats": 1
+ },
+ "708": {
+  "use_as_is": 5,
+  "fit": 5,
+  "originality": 4,
+  "specificity": 5,
+  "tone": 5,
+  "writing": 5,
+  "invented": 1,
+  "unsupported_stats": 0
+ },
+ "709": {
+  "use_as_is": 3,
+  "fit": 4,
+  "originality": 3,
+  "specificity": 4,
+  "tone": 3,
+  "writing": 3,
+  "invented": 0,
+  "unsupported_stats": 1
+ },
+ "710": {
+  "use_as_is": 5,
+  "fit": 5,
+  "originality": 5,
+  "specificity": 5,
+  "tone": 5,
+  "writing": 5,
+  "invented": 0,
+  "unsupported_stats": 0
+ },
+ "711": {
+  "use_as_is": 4,
+  "fit": 5,
+  "originality": 3,
+  "specificity": 4,
+  "tone": 3,
+  "writing": 4,
+  "invented": 0,
+  "unsupported_stats": 0
+ },
+ "712": {
+  "use_as_is": 4,
+  "fit": 4,
+  "originality": 5,
+  "specificity": 5,
+  "tone": 4,
+  "writing": 4,
+  "invented": 0,
+  "unsupported_stats": 0
+ }
+}

@@ -41,9 +41,10 @@ Build from whatever they gave you, even picked options. If they agree with the d
 ## 4. Write
 
 - Verify the facts. Check any statistic or study with a search if you can; otherwise leave it out unless the argument needs it.
-- Make it ready to use: no brackets, placeholders or "[unchecked]" marks inside it. Don't invent anecdotes or personal details.
+- Make it ready to use: no brackets, placeholders or "[unchecked]" marks inside it.
+- Every fact about the user, their life, their work or their past must come from their answers or the conversation. In first-person pieces that includes small colour: past attempts, other habits, how they felt, what someone said. If they didn't give it, write around the gap instead of filling it with a plausible detail.
 - Use the tone they chose. Hand it to a voice skill (such as `anshul-voice`) only if they asked for their own voice.
-- Before showing it, reread it once as a reader who doubts the angle, and fix where it goes thin or generic.
+- Before showing it, reread it once as a reader who doubts the angle: fix where it goes thin or generic, and cut any personal detail you can't trace to an answer.
 
 After it, only if something applies, **Before you use it**: figures you couldn't check, details to confirm, a real detail worth adding. Then one line of **Distance from the default**: what changed and which answer caused it, or that little did.
 

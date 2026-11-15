@@ -66,7 +66,12 @@ numbers as direction.
 - **Clean piece, note after.** Placeholders and "[unchecked]" marks inside the text cost
   quality points (Test 5); moved to a note after, they leaked into 0 of 16 pieces
   (Test 6).
-- **No invented details.** Runs added small personal details the user hadn't given.
+- **No invented details, including small colour** (tightened 2026-11-15): runs added small personal
+  details the user hadn't given. In Test 10 the GPT judge counted 3.25 invented details per skill
+  piece against 0.38 for ChatGPT asking first; one first-person blog post made up past
+  resolutions about running and a reading list. The push for specifics fills gaps with plausible
+  details, so the rule now names that colour and the reread checks each personal detail against
+  the answers. Untested.
 - **Voice skill only on request.** See Tone above.
 - **One critic pass.** The research found a critic weak at killing ideas but useful for
   depth of revision; one pass, since gains stop after two or three rounds.

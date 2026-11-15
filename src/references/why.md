@@ -71,7 +71,8 @@ numbers as direction.
   piece against 0.38 for ChatGPT asking first; one first-person blog post made up past
   resolutions about running and a reading list. The push for specifics fills gaps with plausible
   details, so the rule now names that colour and the reread checks each personal detail against
-  the answers. Untested.
+  the answers. Test 11: invented details in talks fell from 7.25 to 2.75 per piece, but in
+  first-person blog posts they rose from 5.5 to 9.25, so the rule is not yet enough there.
 - **Voice skill only on request.** See Tone above.
 - **One critic pass.** The research found a critic weak at killing ideas but useful for
   depth of revision; one pass, since gains stop after two or three rounds.

@@ -1,0 +1,1 @@
+1c 2a: Our apartment basement flooded overnight in December 2023, damaging around 30 cars because nobody noticed the water rising after midnight. 2c: Team of 3, Python backend, design and hardware. We have Arduino and water-level sensors, 36 hours. 3b 4c: I want a physical live demo, technical but straightforward.

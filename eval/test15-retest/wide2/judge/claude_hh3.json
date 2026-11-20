@@ -1,0 +1,82 @@
+{
+ "4033": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Makes closed encrypted messaging the core section, anchors on Rainpada, and gives a sharper, more arguable thesis with a stronger two-part counterargument."
+ },
+ "4034": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Builds his design-over-content view into a full argument (Lessig framework, friction vs. traceability vs. takedowns) with rich Indian specifics and sources."
+ },
+ "4035": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Ready to send without inventing numbers or filling placeholders, which suits an SDR who doesn't know the product figures yet."
+ },
+ "4036": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Leads with the boring change that worked and skips the 'here's what I learned' framing she finds cringe."
+ },
+ "4037": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Centres closed messaging channels, uses the specific Rainpada case, and sets out a sharper mechanism-by-mechanism thesis."
+ },
+ "4038": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Matches Jordan's honest 'it was fine' year in a short, low-key post without inventing a deep narrative."
+ },
+ "4039": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Gives a crisp, original contest-versus-settle framework with fresh cases, likely to stand out for a good grade."
+ },
+ "4040": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Uses exactly the communicate/delegate/feedback lessons Jordan agrees with, in a short, ready-to-post form."
+ },
+ "4041": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "A solid standard pain-value-ask email with his real number, plus merge fields and subject options that suit a sequence."
+ },
+ "4042": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Honest and thoughtful, frames his mistakes as things not done, and includes the candid 'can't prove it' note that fits his voice."
+ },
+ "4043": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Stays under 120 words, plain, with hard numbers and one clear ask; Piece 1 runs over the word limit."
+ },
+ "4044": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Balanced thesis built on the Arab Spring, dense with evidence and AP Gov terms, and well organised for the grading criteria."
+ },
+ "4045": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Commits to a clearer conditional verdict about where gains or costs dominate, with well-chosen cases and theory."
+ },
+ "4046": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Explicitly balanced thesis centred on her Arab Spring example and tied to Brutus and Madison for AP Gov; Piece 1 claims a request she never made."
+ },
+ "4047": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Fits under 120 words with the LinkedIn hook, hard numbers, the reference, and a 20-minute ask; Piece 2 runs over the limit."
+ },
+ "4048": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Blunt opening and dry close ('the fix was on my side') match her plain voice and her logistics-over-inspiration view."
+ }
+}

@@ -9,6 +9,7 @@ One source, two builds: Claude Code (installed skill) and claude.ai (upload zip)
 - `src/references/`: `why.md` (the reason behind each rule), `research.md`, `pilot.md`.
   Shipped with every target.
 - `src/export_pdf.py`: PDF exporter, Claude Code only.
+- `src/stats.py`: counts "would use" answers and blind picks from runs/ for `/original stats`, Claude Code only.
 - `src/sample_default.py`: samples 3 plain answers to the task so the skill can see the real default, Claude Code only.
 - `build.py`: descriptions per target live at the top of this file.
 - `dist/`: build output. Regenerated each time; don't edit.

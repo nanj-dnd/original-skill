@@ -1,0 +1,1 @@
+1. AP Government, high school. 2. It's complicated, social media has both helped and hurt democracy. 3. Keep it global, especially the Arab Spring. 4. A combination, but participation and public debate are important. 5. Use relevant cases like the Arab Spring and misinformation. 6. Intro, body paragraphs, counterargument and conclusion. 7. Clear and academic.

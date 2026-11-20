@@ -1,0 +1,1 @@
+"1d (anyone can type in a town)"

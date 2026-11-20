@@ -1,0 +1,1 @@
+1d It's mostly logistics, honestly. 2b I manage 18 staff. I started putting the rota out 3 weeks ahead instead of 1. Last-minute sick calls went from about 6 a month to 2, and two people who'd been thinking of leaving stayed. 3b 4a

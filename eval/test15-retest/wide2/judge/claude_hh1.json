@@ -1,0 +1,82 @@
+{
+ "4001": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A sharper, more original thesis built on vivid, specific cases is more likely to earn a good grade with no extra effort from Ben."
+ },
+ "4002": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Its demo is timed to the second for the 3-minute limit, and the sensor-fault moment is a strong beat for the utility engineer."
+ },
+ "4003": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Tighter scope with a timed 3-minute demo, where Piece 1 adds rainfall and business extras that spread the team thin."
+ },
+ "4004": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "It states her 'management is mostly logistics' view and names the supermarket, so it fits her stance and her retail readers."
+ },
+ "4005": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It folds the usual delegation and feedback lessons into one specific marketing insight without inventing a story, so it reads better than a stock list."
+ },
+ "4006": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Simple and fun to build, with scope levels by time and a work split that suits a team whose skills are unknown."
+ },
+ "4007": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A clear, arguable, well-sourced thesis organised as tests stands out more for a grade than the standard good-versus-bad structure."
+ },
+ "4008": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Chart-centred and finishable solo, with free open data, matching his practical, data-visualisation preference."
+ },
+ "4009": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "It includes both of his real mistakes, the bottleneck and the result since, with the honesty he wants for engineer readers."
+ },
+ "4010": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "The thesis keeps his point that the design change mattered, and the full citations make it ready for the three-source requirement."
+ },
+ "4011": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A balanced thesis tied to Federalist 10 and the Arab Spring hits AP Gov grading on thesis and organisation without overloading her."
+ },
+ "4012": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Blunt and dry, with her logistics-not-inspiration view and the anti-cringe 'no speech' line in her voice."
+ },
+ "4013": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It honestly frames a fine year with no dramatic story, which matches Jordan's actual experience."
+ },
+ "4014": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Focused build with a timed 3-minute demo and a fault-detection highlight, where Piece 2 adds scope creep."
+ },
+ "4015": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "A cohesive, specific insight about letting go of the craft reads better than a generic list and still covers his lessons."
+ },
+ "4016": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "It names the supermarket and her logistics view, fitting her retail readers and her stance."
+ }
+}

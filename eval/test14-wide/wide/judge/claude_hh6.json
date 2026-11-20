@@ -1,0 +1,82 @@
+{
+ "2081": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 is a clean, standard email built on his real number; Piece 1 adds an invented product name and sign-off that aren't his."
+ },
+ "2082": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 builds the thesis on his design argument and the WhatsApp forward cap; Piece 1 argues the generic 'bad' verdict he rejects."
+ },
+ "2083": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 gives a balanced but arguable conditional thesis anchored in the Arab Spring, with Federalist 10 links that suit AP Gov grading."
+ },
+ "2084": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Shadeway is the 'something cool' Wen wants, with a fully specified build and a visual demo ready to follow."
+ },
+ "2085": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 invents no numbers and is ready to send; Piece 1 relies on made-up stats and placeholders Ollie can't fill."
+ },
+ "2086": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 gives a balanced but arguable conditional thesis built on the Arab Spring, with AP Gov course links."
+ },
+ "2087": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 uses his real resignation story and his clarity lesson; Piece 2 is generic, with placeholders and invented details."
+ },
+ "2088": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 honestly frames a 'fine' year with no dramatic story, which matches Jordan, in a usable first-person voice."
+ },
+ "2089": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 uses his monsoon post, the pilot numbers and leads with late deliveries; Piece 1 is a generic template with invented stats."
+ },
+ "2090": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 asks for the 20-minute call she wants, is tighter and has a founder voice; Piece 1 asks for 15 minutes and runs longer."
+ },
+ "2091": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 offers a richly sourced, defensible outline likely to earn a good grade with minimal extra work."
+ },
+ "2092": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Forkcast is a fresh, buildable idea with a memorable audience demo; GridWise is a common hackathon concept."
+ },
+ "2093": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 presents the 2-hour-to-20-minute figure as a customer-wide result in a solid standard email; Piece 1 undersells it as one customer."
+ },
+ "2094": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 asks for the 20-minute call she wants, is tighter and leads with the hard number in a founder voice."
+ },
+ "2095": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 is a natural first-person post covering the usual lessons Jordan agrees with."
+ },
+ "2096": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 keeps the balanced conditional verdict she wants, built on the Arab Spring; Piece 1 concludes 'more bad than good'."
+ }
+}

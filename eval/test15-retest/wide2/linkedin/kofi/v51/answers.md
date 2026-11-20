@@ -1,0 +1,1 @@
+1a 2a: In month 4, one of my engineers quit. In her exit interview, she told me she'd never once had clear feedback on her work. I'd thought things were fine. That made me realise being liked and being a good manager aren't necessarily the same thing. I started weekly 1:1s with a written agenda and one thing to change. 3a 4a. Around 150–200 words.

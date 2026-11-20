@@ -1,0 +1,14 @@
+{
+ "hackathon/fatima/v42": "1b 2b 3a: In December 2023, our apartment building's basement car park flooded overnight. Around 30 cars were damaged because nobody noticed the water rising after midnight. I really want to build something around flood detection and early warnings in Chennai. 4d: 3 people \u2014 I'm doing Python backend, one designer, and one hardware person with an Arduino kit and water-level sensors. 36 hours, 3-minute live demo. There's also a city water utility engineer judging.",
+ "hackathon/fatima/asks1": "1. Team of 3. I'm comfortable with Python/backend, one person handles design, and the third is our hardware person. We have an Arduino kit and water-level sensors. 2. True 36 hours. 3. Technical depth and real-world impact. There's an engineer from the city water utility judging. 4. Definitely adaptation and flood resilience. I don't want another carbon-footprint calculator. 5. Building managers or apartment associations. 6. Happy to use sensors and public weather APIs. 7. Live demo, just 3 minutes. 8. Something ambitious but that we can actually demonstrate working. 9. We had a real incident in December 2023 when our apartment basement flooded overnight and around 30 cars were damaged because nobody noticed the rising water.",
+ "hackathon/luca/v51": "1b 2a 3d 4a \u2014 solo, frontend developer, 24 hours. I'd prefer something with a nice dashboard and visualisations that I can actually finish.",
+ "hackathon/luca/v52": "1c 2a 3: Solo frontend developer, 24 hours. No hardware or specific dataset. 4a \u2014 short pitch and live demo. Keep it realistic, something I can finish myself.",
+ "hackathon/luca/v41": "1a 2a \u2014 solo, mostly frontend, 24 hours. 3d \u2014 not sure about the judges. 4b \u2014 something I can show judges on a laptop. I'd prefer a polished dashboard over something too complicated.",
+ "hackathon/luca/v42": "1a 2d 3a 4c \u2014 I'm solo, frontend-focused, and have 24 hours. No specific dataset. I'd like a polished, visual product with a clear demo.",
+ "hackathon/luca/asks1": "1. Just me, frontend developer. Comfortable with React. 2. 24 hours, mostly looking to build something polished. 3. Climate is open-ended, I guess. 4. Probably general judges, live demo. 5. Safe and polished, definitely. 6. No hardware. 7. Public APIs are fine if they're easy to integrate. 8. Nothing specific, carbon footprint tracker is fine. 9. Just a few key demo beats.",
+ "hackathon/wen/v51": "1a 2a 3b 4b",
+ "hackathon/wen/v52": "1a 2a 3c 4a. Not sure about team size, joined with friends. Anything cool and easy to demo.",
+ "hackathon/wen/v41": "1a 2d 3d 4a",
+ "hackathon/wen/v42": "1c 2d 3a 4d",
+ "hackathon/wen/asks1": "idk, joined with friends. Probably 48 hours. Anything cool, maybe something with AI. No idea about the skills or judging. Anything is fine."
+}

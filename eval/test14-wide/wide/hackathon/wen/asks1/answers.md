@@ -1,0 +1,1 @@
+idk, joined with friends. Probably 48 hours. Anything cool, maybe something with AI. No idea about the skills or judging. Anything is fine.

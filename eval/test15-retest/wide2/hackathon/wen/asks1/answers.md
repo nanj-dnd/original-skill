@@ -1,0 +1,1 @@
+1. A few friends, not sure about everyone's skills. 2. Idk, probably around 24-48 hours. 3. No idea about judging. 4. Anything, maybe consumers. 5. No idea about hardware or data. 6. Safe and easy to demo. 7. Nothing specific. 8. Probably a short live demo.

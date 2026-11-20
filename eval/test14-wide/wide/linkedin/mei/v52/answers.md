@@ -1,0 +1,1 @@
+1c The job is mostly repetition and making things predictable. 2b I manage 18 staff. Started posting the rota 3 weeks ahead instead of 1. Last-minute sick calls dropped from around 6 a month to 2, and two people who'd been talking about quitting stayed. 3a 4a

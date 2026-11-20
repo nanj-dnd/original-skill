@@ -1,0 +1,1 @@
+1d 2d 3a. It's for my AP Government class, and I think a balanced argument is best. 4d. I'd like it to be clear and formal, with a strong thesis and good organisation.

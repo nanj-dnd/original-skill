@@ -1,0 +1,6 @@
+"**Friday night**"
+"We've been drying this towel since Friday night."
+"hang a wet towel near the venue"
+"Fetch and render the hourly Open-Meteo data for the venue's coordinates."
+"The live forecast for this room's location"
+"If venue wifi drops"

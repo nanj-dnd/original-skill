@@ -1,0 +1,82 @@
+{
+ "2065": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Shadeway is a fully worked, visual, offline-safe plan that a clueless first-timer can pick up as is, and it is more distinctive than a fridge-scanning app."
+ },
+ "2066": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "She wants a balanced thesis, and Piece 2's conditional stress-test thesis gives her that; Piece 1 argues that social media is net bad."
+ },
+ "2067": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 states her own view that management is mostly logistics, in her blunt, dry voice."
+ },
+ "2068": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Twins is pure frontend data-viz with no API risk, which is ideal for a solo dev who likes visualisation."
+ },
+ "2069": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Sentinel keeps the demo to 3 minutes and adds a forecast backtest and utility angle for the water-utility judge; Wake Call's demo runs to 4 minutes."
+ },
+ "2070": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Forkcast's interactive phones-out demo is the 'something cool' a first-timer with an unknown team can pull off."
+ },
+ "2071": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 uses her real pilot numbers and the target's monsoon post in plain sentences; Piece 2 is a templated buzzword pitch."
+ },
+ "2072": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 is her rota story, told bluntly; Piece 2 is the generic office-manager listicle she finds cringe."
+ },
+ "2073": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2's two-layer network/ranking thesis is clean, committed and easy to execute for a good grade."
+ },
+ "2074": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Forkcast's live audience demo is more memorable and easier for a mixed team than a standard grid-carbon scheduler."
+ },
+ "2075": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Retrofit Rank is scoped as solo, frontend-only and viz-heavy; Dispatch assumes a 4-person team and a backend."
+ },
+ "2076": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Sentinel fits the 3-minute limit and speaks to the utility judge with a forecast backtest; Wake Call's demo runs to 4 minutes."
+ },
+ "2077": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1's substitution thesis is original, vivid and well organised with ready cases, so Ben can just write it."
+ },
+ "2078": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2's substitution thesis with fresh cases beats Piece 1's standard 'net bad' essay."
+ },
+ "2079": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Basement Watch has a precisely timed 3-minute demo, a utility screen aimed at the judge, and a concrete 36-hour plan."
+ },
+ "2080": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2's balanced conditional thesis with clear good/bad/why sections suits her preference and the AP organisation grading."
+ }
+}

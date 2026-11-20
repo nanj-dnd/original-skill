@@ -1,0 +1,82 @@
+{
+ "2049": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Frontend-only, solo 24-hour plan built around data viz, while Piece 1 assumes a 4-person team and a backend."
+ },
+ "2050": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Ready to send with no invented numbers, while Piece 1 needs metrics Ollie doesn't have."
+ },
+ "2051": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Short, standard pain-value-ask built on his real 2h-to-20min number."
+ },
+ "2052": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "No fabricated stats or placeholders, so Ollie can send it as is."
+ },
+ "2053": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Personal, visual reveal that demos very well and is easily finishable solo in the browser."
+ },
+ "2054": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Covers both real lessons, including 'liked isn't clear', in his short, honest voice."
+ },
+ "2055": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Tells the exit-interview story and includes the actual fix (weekly 1:1s with 'one thing to change')."
+ },
+ "2056": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Works without a story Jordan doesn't have, and has no placeholders to fill."
+ },
+ "2057": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Built on his real exit-interview case, while Piece 1 is a generic listicle with invented details and placeholders."
+ },
+ "2058": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Clean and short using his real number, without an invented product name or placeholders."
+ },
+ "2059": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Scripted to fit the 3-minute limit, with a concrete rig and a per-person build plan."
+ },
+ "2060": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Instant visual payoff and a judge-participation demo that is easy to finish solo."
+ },
+ "2061": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Concise, number-free pain angle that is ready to send."
+ },
+ "2062": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Delivers the usual lessons Jordan agrees with (delegate, communicate, feedback) cleanly."
+ },
+ "2063": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Short and solid, with no invented product name or signature."
+ },
+ "2064": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Fits the 3-minute constraint with a tight script, while Piece 1 runs four minutes."
+ }
+}

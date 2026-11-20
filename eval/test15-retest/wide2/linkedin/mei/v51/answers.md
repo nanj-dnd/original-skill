@@ -1,0 +1,1 @@
+1a 2b: I started putting the staff rota out three weeks ahead instead of one. Last-minute sick calls dropped from around 6 a month to 2. Two people who'd been talking about quitting stayed. 3a 4a. I'm a supermarket store manager with 18 staff. Keep it short, around 150 words. No hashtags or motivational language.

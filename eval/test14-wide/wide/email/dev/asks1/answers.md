@@ -1,0 +1,1 @@
+1. Routewise. Route optimisation software for logistics companies. 2. Customers report dispatch planning dropping from about 2 hours a day to 20 minutes. 3. Sales/BD, 4 years in sales. 4. 15-minute call. 5. No specific target; heads of ops at mid-size logistics companies. 6. Friendly and professional, UK spelling. 7. First email in a sequence, under 120 words.

@@ -1,0 +1,1 @@
+1b. 2d. Don't know any real numbers yet. 3b. 4: I'm an SDR, no specific person or company. Not sure about the product details. Whatever works, just don't invent anything.

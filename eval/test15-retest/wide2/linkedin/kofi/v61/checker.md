@@ -1,0 +1,5 @@
+"that's the moment I keep coming back to"
+"I assumed that if I wasn't raising problems, people knew where they stood"
+"not whenever I get round to it"
+"I'm not going back"
+"That's what I'm working on in year two."

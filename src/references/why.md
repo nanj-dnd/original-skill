@@ -36,7 +36,8 @@ numbers as direction.
   model's guess. `sample_default.py` runs 3 plain answers in the background while the user
   answers, and the writer keeps out what two of them share: examples, structure,
   opening and phrasing, never the stance. Two plain samples of a LinkedIn task opened
-  with the identical first line. Test 13: overlap with held-out plain answers fell from
+  with the identical first line. Test 14 (new tasks): overlap 1.29 of 5 against 1.62 for
+  the previous version, but no gain in preference. Test 13: overlap with held-out plain answers fell from
   2.5 to 1.75 of 5 and the new version was preferred 21 of 32 times across two judges;
   an earlier wording that also avoided the samples' claim pushed a mild user's stance too
   far and lost.
@@ -95,6 +96,16 @@ numbers as direction.
   opinions, timelines and quotes the user gave, put colour in general terms, and check every
   I/my/me sentence on the reread. Test 12: invented details in blog posts fell to 0 (Claude
   auditor) and 2.25 (ChatGPT auditor), and use as is rose, at a small cost in specificity.
+- **Fresh-reader check** (added 2026-11-16): a subagent that sees only the piece and the
+  user's material lists every unsupported claim about the user, and the writer fixes or
+  cuts each. Test 14: made-up details fell from 1.25 to 0.83 per piece (Claude auditor)
+  and from 4 to 2 (ChatGPT auditor, excluding the hackathon task). A writer rereading its
+  own piece misses what it just invented; a reader without the writer's context doesn't.
+- **Must-haves and limits** (added 2026-11-19; Test 15: preferred over Claude asking first
+  61% and 62% by two judges, up from 46% and 50%): in Test 14 Claude asking first
+  won on fit because its open questions collected names, the exact ask and hard limits,
+  and the skill's pieces broke some of them (a 15-minute ask instead of 20, a 4-minute
+  demo for a 3-minute slot). Users who wanted the usual thing preferred it done well.
 - **Voice skill only on request.** See Tone above.
 - **One critic pass.** The research found a critic weak at killing ideas but useful for
   depth of revision; one pass, since gains stop after two or three rounds.

@@ -1,0 +1,1 @@
+1d 2c: Solo frontend developer, 24 hours, mostly web development. 3c: Storytelling and polish, ideally a 3-minute demo. 4d: Open, whatever is easiest to build and looks impressive.

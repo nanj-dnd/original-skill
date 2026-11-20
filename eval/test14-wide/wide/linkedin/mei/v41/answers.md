@@ -1,0 +1,1 @@
+1d It's mostly about making the day-to-day run properly. 2b 18 staff. I started posting the rota 3 weeks ahead instead of 1. Sick calls went from about 6 a month to 2, and two people who were thinking of leaving stayed. 3a 4a

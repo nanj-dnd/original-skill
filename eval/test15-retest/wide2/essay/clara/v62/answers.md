@@ -1,0 +1,1 @@
+1d 2b 3a. I know the Arab Spring from class, and I'd like to use it as an example. 4b. It's for a high-school AP Government essay, so clear and structured but not too complicated.

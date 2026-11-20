@@ -1,0 +1,82 @@
+{
+ "2001": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 names his exact 'liked vs clear' lesson and also covers the coding bottleneck, which suits engineer readers."
+ },
+ "2002": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 is dry and plain, states her 'management is mostly logistics' view outright, and doesn't invent quotes from staff."
+ },
+ "2003": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 is tighter and honest, and it mentions the weekly 1:1 fix that Piece 1 leaves out."
+ },
+ "2004": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1's closed-channels-versus-public-feeds thesis directly matches his argument that the damage comes from unaccountable private channels."
+ },
+ "2005": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1's clear good/bad/why structure fits her balanced view and an AP rubric better."
+ },
+ "2006": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Kaaval is built on her flood, her team's hardware and adaptation, while GridShift is the generic emissions app she dislikes."
+ },
+ "2007": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 keeps her 20-minute ask, names Routewise and ties the pitch to cold-chain; Piece 1 changes the ask and signs with a guessed name."
+ },
+ "2008": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Kaaval fits her flood story, the Arduino sensors, the utility-engineer judge and the 3-minute live demo."
+ },
+ "2009": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Piece 2 states her logistics-not-mindset view plainly and doesn't invent quotes from staff."
+ },
+ "2010": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 is tighter and drier with less hedging, which matches her blunt voice."
+ },
+ "2011": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Piece 2 keeps his closed-channels thesis, while Piece 1 shifts the argument onto institutional trust."
+ },
+ "2012": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Piece 1 matches his claim that closed, unaccountable channels are the core problem."
+ },
+ "2013": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 is a ready-to-post reflection on a calm year with no invented story, while Piece 2 is a clich\u00e9 listicle with placeholders."
+ },
+ "2014": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 is concise, honest about the cost of his mistake, and mentions the 1:1 fix."
+ },
+ "2015": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 builds his design/closed-channel thesis around the forwarding cap, while Piece 2 is a generic 'bad for democracy' essay."
+ },
+ "2016": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Piece 1 openly avoids made-up numbers and keeps the ask simple, which suits a new SDR who doesn't know the figures yet."
+ }
+}

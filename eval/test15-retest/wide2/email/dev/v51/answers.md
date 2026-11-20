@@ -1,0 +1,1 @@
+1d — Customers say dispatch planning drops from about 2 hours a day to 20 minutes. 2a — daily dispatcher workload and manual route planning. 3b — sales/account rep, professional but not stiff. 4c — short call, tied to reducing planning time. Reusable template for heads of ops at mid-size logistics companies.

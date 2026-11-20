@@ -1,0 +1,1 @@
+1a 2b: I'm managing 18 people in a supermarket. I started putting the rota out three weeks ahead instead of one. Last-minute sick calls went from about 6 a month to 2. Two people who were talking about leaving also stayed. 3a 4. Store manager, supermarket. About 150 words. Don't name the store. No hashtags or motivational stuff.

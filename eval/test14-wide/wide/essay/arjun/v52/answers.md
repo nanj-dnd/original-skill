@@ -1,0 +1,1 @@
+1d 2b 3b — WhatsApp and encrypted, forward-friendly group messaging, particularly the 2018 India forwarding restriction. 4a — Undergraduate political science coursework, 1,500 words, formal and argument-driven, at least three sources.

@@ -1,0 +1,1 @@
+1b 2a — Pune dairy distributor, 40 vans. Three-month pilot: fuel spend down 14%, late deliveries from 1 in 9 to 1 in 25. 3a 4a. Product: Routewise. Company: Routewise. Prospect is a mid-size cold-chain pharma distributor; their ops head posted about monsoon delivery delays.

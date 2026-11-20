@@ -1,0 +1,1 @@
+1b 2a: In month 4, one of my engineers resigned. In her exit interview, she said she'd never received clear feedback on her work. I'd thought everything was fine, which was a bit of a wake-up call. I started weekly 1:1s with a written agenda and a 'one thing to change' section. Nobody else has left since. 3a 4b

@@ -195,6 +195,32 @@ and a Gemini judge. Data in `eval/test8-cross-model/`, `test9-head-to-head/`,
   from 2.5 to 1.75 of 5; fit 4.75 against 4.62; use as is 4.38 against 4.5; invented
   details 0.88 against 0.5 per piece (Claude auditor). A "just write it" run asked
   nothing more, added no personal details and said it stayed partly close to the default.
+- **Test 14, four new tasks** (`eval/test14-wide/`): a cold sales email, a LinkedIn post,
+  an essay thesis and outline, and a hackathon idea; 3 users each (one with a real case,
+  one who mostly agrees with the default, one vague), played by ChatGPT; two runs per user
+  for the new and current versions; judged by Claude and ChatGPT. The new version (the
+  fresh-reader checker added) was preferred over the current one 50% (Claude) and 42%
+  (ChatGPT) of the time, and over Claude asking first 46% and 50%; it beat plain Claude
+  every time and was less generic than Claude asking first in 100% and 92% of matchups.
+  The checker cut made-up details from 1.25 to 0.83 per piece (Claude auditor; current
+  version 1.38, Claude asking first 1.5) and from 4 to 2 per piece on the ChatGPT auditor
+  outside the hackathon task, where it counted planned features as claims. Overlap with
+  held-out plain answers: 1.29 of 5, against 1.62 and 2.42. Claude asking first led on fit
+  (4.58 against 4.04): its 7 or 8 open questions collected the must-haves (product and
+  sender names, "a 20-minute call", "under 120 words", "a 3-minute demo") that the
+  skill's 4 multiple-choice questions missed, and users who wanted the usual thing done
+  well got it. Rules added after the test, untested: collect the must-haves, keep the
+  default's claim and shape for users who want the usual thing, and let stated limits and
+  feasibility beat distance from the default. The last 10 checker passes ran on Opus
+  because Fable, which wrote every piece, began to require usage credits.
+- **Test 15, re-test of the must-haves rules** (`eval/test15-retest/`): same 12 users and
+  tasks as Test 14, played by ChatGPT; every contestant written by Opus because Fable
+  needed usage credits. The new version now asks for names, the exact ask, limits and
+  things to avoid. Preferred over Claude asking first 61% (Claude judge) and 62% (ChatGPT
+  judge), up from 46% and 50% in Test 14; less generic 89% and 79%. Against the previous
+  version: 43% and 54%, a tie. Made-up details 0.5 per piece against 1.17 for Claude
+  asking first; overlap with plain answers 1.58 of 5 against 3.17. Hackathon matchups
+  against Claude asking first went from 17% to 75% and 83%.
 - The skill was the only contestant to use every user's own material when there was some
   (6 of 6, against 4 of 6 for both ask-first rivals) and used the fewest stock phrases.
 

@@ -1,0 +1,1 @@
+1d 2d 3d 4: We're a few friends, not really sure about everyone's skills. First hackathon, so something simple and cool. Don't know the hours or judging criteria yet.

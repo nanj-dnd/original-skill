@@ -1,0 +1,1 @@
+1c 2a 3: Solo frontend developer, 24 hours. No hardware or specific dataset. 4a — short pitch and live demo. Keep it realistic, something I can finish myself.

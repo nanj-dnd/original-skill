@@ -1,0 +1,1 @@
+1d 2d 3a. I know the Arab Spring example from class, so I'd like to keep that. 4a. It's for my AP Government class, so a formal academic essay.

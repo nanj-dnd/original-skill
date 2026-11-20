@@ -1,0 +1,1 @@
+1b 2a — Pune dairy distributor, 40 vans: over a 3-month pilot, fuel spend fell 14% and late deliveries went from about 1 in 9 to 1 in 25. Their ops head is happy to be a reference. 3a 4a. Not a blind send — he posted on LinkedIn last month about monsoon delays wrecking delivery windows.

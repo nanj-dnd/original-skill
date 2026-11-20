@@ -1,0 +1,1 @@
+1b 2a The moment that changed things was in month four, when one of my engineers left. In her exit interview, she said she'd never once received clear feedback on her work. I'd genuinely thought things were fine. 3b 4a

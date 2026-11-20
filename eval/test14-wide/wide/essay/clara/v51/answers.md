@@ -1,0 +1,1 @@
+1c 2d 3a 4a — AP Government coursework, formal but balanced. The Arab Spring is the main example I know well, so please use that alongside the other examples.

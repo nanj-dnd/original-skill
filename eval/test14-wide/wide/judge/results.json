@@ -1,0 +1,253 @@
+{
+ "scores": {
+  "v5": {
+   "use_as_is": 4.04,
+   "fit": 4.04,
+   "originality": 4.04,
+   "specificity": 4.21,
+   "tone": 4.12,
+   "writing": 4.25,
+   "invented_claude": 0.83,
+   "shared": 1.29,
+   "invented_gpt": 8.25
+  },
+  "v5pre": {
+   "invented_claude": 1.25
+  },
+  "v4": {
+   "use_as_is": 4.12,
+   "fit": 4.17,
+   "originality": 3.92,
+   "specificity": 4.17,
+   "tone": 4.08,
+   "writing": 4.25,
+   "invented_claude": 1.38,
+   "shared": 1.62,
+   "invented_gpt": 7.25
+  },
+  "asks": {
+   "use_as_is": 4.17,
+   "fit": 4.58,
+   "originality": 3.08,
+   "specificity": 4.08,
+   "tone": 4.25,
+   "writing": 4.33,
+   "invented_claude": 1.5,
+   "shared": 2.42
+  },
+  "plain": {
+   "use_as_is": 2.25,
+   "fit": 2,
+   "originality": 1.92,
+   "specificity": 3.08,
+   "tone": 2.83,
+   "writing": 3.5
+  }
+ },
+ "by_task": {
+  "email": {
+   "v5": {
+    "use_as_is": 3.83,
+    "fit": 3.83,
+    "originality": 3.5
+   },
+   "v4": {
+    "use_as_is": 4,
+    "fit": 4.33,
+    "originality": 3.17
+   },
+   "asks": {
+    "use_as_is": 4.33,
+    "fit": 5,
+    "originality": 2.67
+   },
+   "plain": {
+    "use_as_is": 1.67,
+    "fit": 1.67,
+    "originality": 1.33
+   }
+  },
+  "linkedin": {
+   "v5": {
+    "use_as_is": 3.83,
+    "fit": 3.83,
+    "originality": 3.83
+   },
+   "v4": {
+    "use_as_is": 4.33,
+    "fit": 4.17,
+    "originality": 3.83
+   },
+   "asks": {
+    "use_as_is": 4,
+    "fit": 4.33,
+    "originality": 3
+   },
+   "plain": {
+    "use_as_is": 2,
+    "fit": 2,
+    "originality": 1.67
+   }
+  },
+  "essay": {
+   "v5": {
+    "use_as_is": 4.33,
+    "fit": 4.17,
+    "originality": 4.33
+   },
+   "v4": {
+    "use_as_is": 3.83,
+    "fit": 3.83,
+    "originality": 4.33
+   },
+   "asks": {
+    "use_as_is": 4.33,
+    "fit": 4.67,
+    "originality": 3.33
+   },
+   "plain": {
+    "use_as_is": 3,
+    "fit": 2.33,
+    "originality": 2.33
+   }
+  },
+  "hackathon": {
+   "v5": {
+    "use_as_is": 4.17,
+    "fit": 4.33,
+    "originality": 4.5
+   },
+   "v4": {
+    "use_as_is": 4.33,
+    "fit": 4.33,
+    "originality": 4.33
+   },
+   "asks": {
+    "use_as_is": 4,
+    "fit": 4.33,
+    "originality": 3.33
+   },
+   "plain": {
+    "use_as_is": 2.33,
+    "fit": 2,
+    "originality": 2.33
+   }
+  }
+ },
+ "h2h": {
+  "claude": {
+   "v4": {
+    "prefer": {
+     "won_share": 0.5,
+     "pairs": 24,
+     "both": 10,
+     "split": 4,
+     "lost": 10
+    },
+    "less_generic": {
+     "won_share": 0.44,
+     "pairs": 24,
+     "both": 8,
+     "split": 5,
+     "lost": 11
+    },
+    "prefer_by_task": {
+     "linkedin": 0.33,
+     "essay": 0.75,
+     "email": 0.5,
+     "hackathon": 0.42
+    }
+   },
+   "asks": {
+    "prefer": {
+     "won_share": 0.46,
+     "pairs": 12,
+     "both": 5,
+     "split": 1,
+     "lost": 6
+    },
+    "less_generic": {
+     "won_share": 1.0,
+     "pairs": 12,
+     "both": 12,
+     "split": 0,
+     "lost": 0
+    },
+    "prefer_by_task": {
+     "linkedin": 0.33,
+     "essay": 0.67,
+     "email": 0.67,
+     "hackathon": 0.17
+    }
+   },
+   "plain": {
+    "prefer": {
+     "won_share": 1.0,
+     "pairs": 12,
+     "both": 12,
+     "split": 0,
+     "lost": 0
+    },
+    "less_generic": {
+     "won_share": 1.0,
+     "pairs": 12,
+     "both": 12,
+     "split": 0,
+     "lost": 0
+    },
+    "prefer_by_task": {
+     "hackathon": 1.0,
+     "linkedin": 1.0,
+     "essay": 1.0,
+     "email": 1.0
+    }
+   }
+  },
+  "gpt": {
+   "v4": {
+    "prefer": {
+     "won_share": 0.42,
+     "pairs": 24,
+     "both": 5,
+     "split": 10,
+     "lost": 9
+    },
+    "less_generic": {
+     "won_share": 0.52,
+     "pairs": 24,
+     "both": 9,
+     "split": 7,
+     "lost": 8
+    },
+    "prefer_by_task": {
+     "linkedin": 0.42,
+     "essay": 0.5,
+     "email": 0.25,
+     "hackathon": 0.5
+    }
+   },
+   "asks": {
+    "prefer": {
+     "won_share": 0.5,
+     "pairs": 12,
+     "both": 4,
+     "split": 4,
+     "lost": 4
+    },
+    "less_generic": {
+     "won_share": 0.92,
+     "pairs": 12,
+     "both": 10,
+     "split": 2,
+     "lost": 0
+    },
+    "prefer_by_task": {
+     "linkedin": 0.33,
+     "essay": 0.5,
+     "email": 0.67,
+     "hackathon": 0.5
+    }
+   }
+  }
+ }
+}

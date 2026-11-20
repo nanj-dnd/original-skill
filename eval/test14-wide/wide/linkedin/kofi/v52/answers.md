@@ -1,0 +1,1 @@
+1b 2a A team member left in month four and said in her exit interview that she'd never received clear feedback from me. I thought everything was fine. That was a fairly uncomfortable wake-up call. 3b 4a

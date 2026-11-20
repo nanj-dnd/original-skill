@@ -1,0 +1,1 @@
+1. Just me, frontend developer. Comfortable with React. 2. 24 hours, mostly looking to build something polished. 3. Climate is open-ended, I guess. 4. Probably general judges, live demo. 5. Safe and polished, definitely. 6. No hardware. 7. Public APIs are fine if they're easy to integrate. 8. Nothing specific, carbon footprint tracker is fine. 9. Just a few key demo beats.

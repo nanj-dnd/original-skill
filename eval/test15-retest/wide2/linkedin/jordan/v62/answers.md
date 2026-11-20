@@ -1,0 +1,1 @@
+1c 2d: Nothing specific comes to mind. I'm a marketing team lead at a mid-size company, managing 3 people. 3c 4a

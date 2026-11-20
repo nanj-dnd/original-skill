@@ -1,0 +1,1 @@
+1d 2: Nothing specific really. The year was fine and I learned a lot. I'm a marketing team lead managing 3 people. 3a 4a. Around 150 words.

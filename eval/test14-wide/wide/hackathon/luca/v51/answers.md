@@ -1,0 +1,1 @@
+1b 2a 3d 4a — solo, frontend developer, 24 hours. I'd prefer something with a nice dashboard and visualisations that I can actually finish.

@@ -1,0 +1,82 @@
+{
+ "4049": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Builds the balanced thesis around the Arab Spring, the one example she knows, and stays manageable for an AP essay."
+ },
+ "4050": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Plain and under 120 words, opens on his monsoon post and offers the reference without generic product lines."
+ },
+ "4051": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Argues his own claim that the damage comes from closed channels and that design friction is the fix, with richer Indian detail."
+ },
+ "4052": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "A solid, conventional sequence email with subject-line options and usable placeholders, which is what he asked for."
+ },
+ "4053": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses his LinkedIn post and the willing reference while staying short and plain."
+ },
+ "4054": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Plain and dry, without LinkedIn-style line breaks, which suits her dislike of cringe posts."
+ },
+ "4055": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Clean contestation/settlement structure with clear sections that Ben can follow for a good grade."
+ },
+ "4056": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Built around her team's actual Arduino kit and sensors, with a full 36-hour plan and a strong live demo."
+ },
+ "4057": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Stays under her 120-word limit and keeps it plain; the other piece runs well over."
+ },
+ "4058": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Simple, fun and scoped for a team whose skills are unknown, so it suits a first-timer."
+ },
+ "4059": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Makes no savings claims, which fits Ollie not knowing the numbers yet, and is ready to send."
+ },
+ "4060": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Covers both honest mistakes, vague feedback and becoming the bottleneck, for engineers thinking about management."
+ },
+ "4061": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "An accessible thesis with a full evidence-backed outline that gives a first-year a safe route to a good grade."
+ },
+ "4062": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "A cool, personal idea that beginners can realistically build, with a judge-participation demo."
+ },
+ "4063": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Delivers the carbon tracker he's fine with, built around rich data visualisation and a solo plan."
+ },
+ "4064": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "A visualisation-heavy scroll story that matches his love of data viz and is finishable solo."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "1018": {
+  "use_as_is": 4,
+  "fit": 3,
+  "originality": 4,
+  "specificity": 5,
+  "tone": 3,
+  "writing": 4
+ },
+ "1019": {
+  "use_as_is": 4,
+  "fit": 4,
+  "originality": 2,
+  "specificity": 2,
+  "tone": 4,
+  "writing": 4
+ },
+ "1020": {
+  "use_as_is": 4,
+  "fit": 4,
+  "originality": 3,
+  "specificity": 4,
+  "tone": 4,
+  "writing": 4
+ },
+ "1021": {
+  "use_as_is": 2,
+  "fit": 2,
+  "originality": 2,
+  "specificity": 2,
+  "tone": 3,
+  "writing": 3
+ },
+ "1022": {
+  "use_as_is": 5,
+  "fit": 5,
+  "originality": 5,
+  "specificity": 5,
+  "tone": 5,
+  "writing": 5
+ },
+ "1023": {
+  "use_as_is": 3,
+  "fit": 3,
+  "originality": 4,
+  "specificity": 5,
+  "tone": 3,
+  "writing": 4
+ },
+ "1025": {
+  "use_as_is": 3,
+  "fit": 4,
+  "originality": 3,
+  "specificity": 3,
+  "tone": 4,
+  "writing": 4
+ },
+ "1026": {
+  "use_as_is": 4,
+  "fit": 4,
+  "originality": 3,
+  "specificity": 4,
+  "tone": 4,
+  "writing": 4
+ },
+ "1027": {
+  "use_as_is": 1,
+  "fit": 1,
+  "originality": 2,
+  "specificity": 4,
+  "tone": 2,
+  "writing": 3
+ },
+ "1031": {
+  "use_as_is": 4,
+  "fit": 3,
+  "originality": 5,
+  "specificity": 5,
+  "tone": 4,
+  "writing": 5
+ },
+ "1032": {
+  "use_as_is": 2,
+  "fit": 2,
+  "originality": 1,
+  "specificity": 2,
+  "tone": 3,
+  "writing": 3
+ },
+ "1033": {
+  "use_as_is": 3,
+  "fit": 2,
+  "originality": 2,
+  "specificity": 4,
+  "tone": 3,
+  "writing": 4
+ }
+}

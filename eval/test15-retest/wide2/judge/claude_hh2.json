@@ -1,0 +1,77 @@
+{
+ "4017": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Gut Check is carbon-adjacent and fully offline, so a solo dev can finish it in 24 hours with no API risk, and the drag-to-reveal is a strong demo moment."
+ },
+ "4018": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It is a clean standard pain-value-ask email with merge fields ready for a sequence, and it avoids the odd fuel-saving disclaimer."
+ },
+ "4019": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "It maps directly onto her team of three (Arduino, Python FastAPI, designer) with a 36-hour plan and a hardware-centred live demo."
+ },
+ "4020": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It opens with the number and stays dry and logistical, which matches her blunt voice and her dislike of lesson-y posts."
+ },
+ "4021": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Lifetime Heat is tight in scope and heavy on data visualisation, and the judge's-hometown hook makes it the more striking solo demo."
+ },
+ "4022": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It needs no product numbers Ollie lacks and opens a conversation with a real question instead of a formal pitch."
+ },
+ "4023": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Jordan agrees with the usual communicate, delegate and feedback lessons, and this piece delivers exactly that, ready to post."
+ },
+ "4024": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It is warmer and more natural for a sequence than the stiff 'Dear' and 'I would welcome' version, and uses the same key number."
+ },
+ "4026": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "It answers good-versus-bad directly with a clear, gradeable framework and a well-structured outline Ben can follow."
+ },
+ "4027": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "It is a standard, sequence-ready email with merge fields, subject options and a signature, which is exactly the solid version he wants."
+ },
+ "4028": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It uses his LinkedIn post about monsoon delays and her willing reference customer, both of which she would want in the email."
+ },
+ "4029": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It is simple and fun, and it scopes by available time and splits work by job, which suits a team whose hours and skills are unknown."
+ },
+ "4030": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "It is a personal and beginner-friendly build with a weekend plan and a demo that turns the judges into users."
+ },
+ "4031": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "It names his real lesson, that being liked is not the same as being clear, and ends with a pointed message for engineers."
+ },
+ "4032": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Tally is the carbon tracker he is fine with, built around rich visualisation, fully offline and with clear cut lines for a solo build."
+ }
+}

@@ -1,0 +1,1 @@
+1a 2a 3c: Solo frontend developer, around 24 hours. No special APIs or hardware. I've seen the usual carbon tracker idea, but I'm fine with it if it's practical. 4c: A polished live demo with good visualisations.

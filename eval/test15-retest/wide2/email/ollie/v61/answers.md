@@ -1,0 +1,1 @@
+1d. Not sure about the numbers yet. 2a. 3a. 4b. I'm an SDR, don't have the product details or prospect name yet. Whatever works, just don't make up numbers.

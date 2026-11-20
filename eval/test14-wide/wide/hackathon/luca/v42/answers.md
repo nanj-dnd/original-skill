@@ -1,0 +1,1 @@
+1a 2d 3a 4c — I'm solo, frontend-focused, and have 24 hours. No specific dataset. I'd like a polished, visual product with a clear demo.

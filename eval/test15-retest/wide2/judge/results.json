@@ -1,0 +1,226 @@
+{
+ "scores": {
+  "v6": {
+   "use_as_is": 4.25,
+   "fit": 4.42,
+   "originality": 4,
+   "specificity": 4.38,
+   "tone": 4.17,
+   "writing": 4.33,
+   "invented_claude": 0.5,
+   "shared": 1.58
+  },
+  "v5": {
+   "use_as_is": 4.33,
+   "fit": 4.42,
+   "originality": 4.25,
+   "specificity": 4.33,
+   "tone": 4.25,
+   "writing": 4.5,
+   "invented_claude": 0.33,
+   "shared": 1.58
+  },
+  "asks": {
+   "use_as_is": 4.58,
+   "fit": 4.5,
+   "originality": 3.08,
+   "specificity": 4.25,
+   "tone": 4.25,
+   "writing": 4.33,
+   "invented_claude": 1.17,
+   "shared": 3.17
+  },
+  "plain": {
+   "use_as_is": 2.33,
+   "fit": 1.92,
+   "originality": 2,
+   "specificity": 3,
+   "tone": 2.83,
+   "writing": 3.5
+  }
+ },
+ "by_task": {
+  "email": {
+   "v6": {
+    "use_as_is": 3.83,
+    "fit": 4.17,
+    "originality": 3.5
+   },
+   "v5": {
+    "use_as_is": 4.67,
+    "fit": 4.67,
+    "originality": 3.33
+   },
+   "asks": {
+    "use_as_is": 4.33,
+    "fit": 4.33,
+    "originality": 2.67
+   },
+   "plain": {
+    "use_as_is": 2,
+    "fit": 1.67,
+    "originality": 1.33
+   }
+  },
+  "linkedin": {
+   "v6": {
+    "use_as_is": 4.17,
+    "fit": 4.33,
+    "originality": 3.5
+   },
+   "v5": {
+    "use_as_is": 4.33,
+    "fit": 4.67,
+    "originality": 3.67
+   },
+   "asks": {
+    "use_as_is": 4.67,
+    "fit": 4.67,
+    "originality": 3.33
+   },
+   "plain": {
+    "use_as_is": 2,
+    "fit": 2,
+    "originality": 1.67
+   }
+  },
+  "essay": {
+   "v6": {
+    "use_as_is": 4.33,
+    "fit": 4.17,
+    "originality": 4.5
+   },
+   "v5": {
+    "use_as_is": 4,
+    "fit": 4,
+    "originality": 5
+   },
+   "asks": {
+    "use_as_is": 4.67,
+    "fit": 4.67,
+    "originality": 3.33
+   },
+   "plain": {
+    "use_as_is": 2.67,
+    "fit": 2,
+    "originality": 2.33
+   }
+  },
+  "hackathon": {
+   "v6": {
+    "use_as_is": 4.67,
+    "fit": 5,
+    "originality": 4.5
+   },
+   "v5": {
+    "use_as_is": 4.33,
+    "fit": 4.33,
+    "originality": 5
+   },
+   "asks": {
+    "use_as_is": 4.67,
+    "fit": 4.33,
+    "originality": 3
+   },
+   "plain": {
+    "use_as_is": 2.67,
+    "fit": 2,
+    "originality": 2.67
+   }
+  }
+ },
+ "h2h": {
+  "claude": {
+   "asks": {
+    "prefer": {
+     "won_share": 0.61,
+     "pairs": 23,
+     "both": 11,
+     "split": 6,
+     "lost": 6
+    },
+    "less_generic": {
+     "won_share": 0.89,
+     "pairs": 23,
+     "both": 19,
+     "split": 3,
+     "lost": 1
+    },
+    "prefer_by_task": {
+     "essay": 0.6,
+     "hackathon": 0.75,
+     "linkedin": 0.5,
+     "email": 0.58
+    }
+   },
+   "v5": {
+    "prefer": {
+     "won_share": 0.43,
+     "pairs": 23,
+     "both": 7,
+     "split": 6,
+     "lost": 10
+    },
+    "less_generic": {
+     "won_share": 0.39,
+     "pairs": 23,
+     "both": 6,
+     "split": 6,
+     "lost": 11
+    },
+    "prefer_by_task": {
+     "hackathon": 0.6,
+     "linkedin": 0.42,
+     "essay": 0.5,
+     "email": 0.25
+    }
+   }
+  },
+  "gpt": {
+   "asks": {
+    "prefer": {
+     "won_share": 0.62,
+     "pairs": 24,
+     "both": 10,
+     "split": 10,
+     "lost": 4
+    },
+    "less_generic": {
+     "won_share": 0.79,
+     "pairs": 24,
+     "both": 17,
+     "split": 4,
+     "lost": 3
+    },
+    "prefer_by_task": {
+     "essay": 0.5,
+     "hackathon": 0.83,
+     "linkedin": 0.67,
+     "email": 0.5
+    }
+   },
+   "v5": {
+    "prefer": {
+     "won_share": 0.54,
+     "pairs": 24,
+     "both": 10,
+     "split": 6,
+     "lost": 8
+    },
+    "less_generic": {
+     "won_share": 0.42,
+     "pairs": 24,
+     "both": 7,
+     "split": 6,
+     "lost": 11
+    },
+    "prefer_by_task": {
+     "hackathon": 0.75,
+     "linkedin": 0.25,
+     "essay": 0.58,
+     "email": 0.58
+    }
+   }
+  }
+ }
+}

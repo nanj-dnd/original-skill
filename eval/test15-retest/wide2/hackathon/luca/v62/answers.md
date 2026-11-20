@@ -1,0 +1,1 @@
+1a 2a 3d: Just me, frontend development, around 24 hours. No special data or hardware. 4a: Short live demo, probably around 3 minutes. Something I can actually finish and make look good.

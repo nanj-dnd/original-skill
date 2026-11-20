@@ -1,0 +1,82 @@
+{
+ "4065": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A clean, balanced voice/machinery thesis built around the Arab Spring she knows; tight enough for a student who wants it short."
+ },
+ "4066": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Shorter and safe to send with no figures, which suits a two-week SDR who just needs something workable."
+ },
+ "4067": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Leads with late deliveries and the perishable-stock parallel and drops the generic product line, which matches her plain, one-hard-number style."
+ },
+ "4068": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A solid, standard pain-value-ask email with his 2h-to-20min number, warmer and less stiff than the formal version."
+ },
+ "4069": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Frames the lesson as liked versus clear, which is his contrarian point, and avoids clich\u00e9s and the thank-you sign-off."
+ },
+ "4070": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Uses the Arduino kit, water-level sensors and Python backend they actually have, and gives a realistic 36-hour split for a team of three."
+ },
+ "4071": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "A balanced thesis anchored in Federalist 10, Brutus and the Arab Spring, which is strong AP Gov material built on what she knows."
+ },
+ "4072": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "A straightforward, sendable pitch with no invented numbers; the question email risks inviting a polite exit."
+ },
+ "4073": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Needs no fill-in figures, whereas the template pushes Ollie to insert results he doesn't know."
+ },
+ "4074": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Shorter and simpler planning-time pitch with no numbers, easy for a new SDR to send as is."
+ },
+ "4075": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Explicitly designed around unknown skills and time, with scope tiers and a simple static build suited to a first hackathon."
+ },
+ "4076": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Includes both honest mistakes, the missing feedback and the coding bottleneck, which speaks directly to engineers considering management."
+ },
+ "4077": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Ready to send and honest about not quoting savings, unlike the template that needs invented numbers filled in."
+ },
+ "4078": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Short and honest about a fine year, without inventing a struggle or insight Jordan never mentioned."
+ },
+ "4079": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Sequence-ready with a merge field, a clear pain-value-ask structure and his number, which is exactly the solid standard version he wants."
+ },
+ "4080": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Blunt and dry, with 'no speech, just a spreadsheet', which captures her logistics-over-inspiration view in her own voice."
+ }
+}

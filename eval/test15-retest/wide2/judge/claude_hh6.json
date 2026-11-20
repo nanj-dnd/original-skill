@@ -1,0 +1,77 @@
+{
+ "4081": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Uses both real mistakes with candid lines like 'I can't prove that's the reason' and 'a manager who is also the reviewer becomes a queue', which fits his honest voice."
+ },
+ "4082": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Builds the essay around the Arab Spring she knows and ties it to Brutus and Federalist 10, with a balanced thesis graders will reward."
+ },
+ "4083": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "A polished, usable post on the standard delegation lesson Jordan already agrees with; Piece 1's 'my year was fine' framing is honest but thin."
+ },
+ "4084": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "A fresher, personal idea that a beginner team can build, with a demo that pulls the judges in, rather than the familiar grid-timing app."
+ },
+ "4085": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "A browser-only, visualization-led reveal a solo frontend dev can finish in 24 hours and that demos memorably."
+ },
+ "4086": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Stays on his actual thesis, that being liked is not the same as being clear, built around the exit-interview story."
+ },
+ "4087": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "The thesis leans directly on his point that the forward limit was a design change, not a content rule, and the structure is clean, with solid sources."
+ },
+ "4088": {
+  "prefer": 2,
+  "less_generic": 2,
+  "reason": "Deeper India-specific detail and the Lessig framework, and it argues outright that design friction beats content rules and traceability, which is exactly his view."
+ },
+ "4089": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "Simpler and centered on the Arab Spring, with a balanced voice-versus-machinery thesis suited to a high-school AP Gov essay."
+ },
+ "4090": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Gives the most technical depth for her backend role, including rate estimation, sensor-fault alerts and an hour-by-hour plan, plus a tight 3-minute live demo."
+ },
+ "4091": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "An original, concrete idea with a memorable towel-test demo and a clear build plan for a beginner team."
+ },
+ "4092": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "Uses the sensors and 3-person team she actually has, with a vivid replay-the-night demo; Piece 2 swaps in different hardware."
+ },
+ "4093": {
+  "prefer": 2,
+  "less_generic": 1,
+  "reason": "A balanced, clearly structured argument that is easy to execute for a good grade."
+ },
+ "4094": {
+  "prefer": 1,
+  "less_generic": 1,
+  "reason": "Plain and number-led, admits honestly that dairy isn't pharma, offers the reference credibly and avoids generic pitch lines."
+ },
+ "4096": {
+  "prefer": 1,
+  "less_generic": 2,
+  "reason": "A solid, standard sequence-ready email with subject-line options and a signature, exactly the sensible version he asked for."
+ }
+}

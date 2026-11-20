@@ -1,0 +1,1 @@
+idk, it's for my intro politics class. Just pick whatever works. A detailed outline is fine.

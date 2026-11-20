@@ -1,0 +1,1 @@
+1c. 2d — Customers say dispatch planning goes from about 2 hours a day to 20 minutes. 3a. 4b — Plain and direct, signed by a sales/account rep. Reusable template for heads of ops at mid-size logistics companies. No specific recipient. Avoid unsupported savings claims.

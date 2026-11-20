@@ -1,0 +1,1 @@
+1b 2a In month four, one of my engineers quit. In her exit interview, she told me she'd never once received clear feedback on her work. I genuinely thought things were fine. That changed how I approached weekly 1:1s. 3b 4a

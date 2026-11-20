@@ -1,0 +1,1 @@
+1b 2c One engineer left in month four. In her exit interview, she said she'd never once had clear feedback on her work. I'd thought things were fine. After that, I started weekly 1:1s with a written agenda and one thing to change. 3a 4a

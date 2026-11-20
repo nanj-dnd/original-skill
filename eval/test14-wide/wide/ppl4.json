@@ -1,0 +1,14 @@
+{
+ "essay/clara/v52": "1d 2d 3b 4a",
+ "essay/clara/v41": "1d 2d 3b 4b",
+ "essay/clara/v42": "1d 2d 3c 4a",
+ "essay/clara/asks1": "1. AP Government, high school. 2. It's complicated, social media has both helped and hurt democracy. 3. Keep it global, especially the Arab Spring. 4. A combination, but participation and public debate are important. 5. Use relevant cases like the Arab Spring and misinformation. 6. Intro, body paragraphs, counterargument and conclusion. 7. Clear and academic. ",
+ "essay/ben/v51": "1d 2d 3a 4a",
+ "essay/ben/v52": "1a 2d 3a 4a",
+ "essay/ben/v41": "1d 2d 3d 4a",
+ "essay/ben/v42": "1d 2a 3a 4a",
+ "essay/ben/asks1": "1. Undergrad politics. 2. idk, pick the best one. 3. Global. 4. Any. 5. Academic sources I guess. 6. Any. 7. Whatever works. 8. Nothing.",
+ "hackathon/fatima/v51": "1b 2c 3c 4a. We're a team of three in Chennai. I'm doing the backend in Python, we have a designer, and our third member has an Arduino kit and water-level sensors. Our apartment basement flooded overnight in December 2023 and around 30 cars were damaged because nobody noticed the rising water after midnight. I'd love to build a flood early-warning system for basement parking areas.",
+ "hackathon/fatima/v52": "1b 2b 3b 4c. We're based in Chennai. Our team has a Python backend developer (me), a designer, and someone with an Arduino kit and water-level sensors. I really want to build something for flood adaptation. Our apartment basement flooded overnight in December 2023, damaging around 30 cars because nobody noticed the water rising after midnight. We could build a live sensor-based warning system for buildings.",
+ "hackathon/fatima/v41": "1b 2b 3b 4a. We're three people in Chennai: I do backend in Python, one person handles design, and the third has an Arduino kit and water-level sensors. In December 2023, our apartment basement car park flooded overnight and about 30 cars were damaged because nobody noticed the water rising after midnight. I want to build a real-time basement flood detection and alert system. We need to demonstrate it live in three minutes."
+}

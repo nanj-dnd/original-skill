@@ -1,0 +1,1 @@
+1b — Customers report dispatch planning dropping from about 2 hours a day to 20 minutes. 2c. 3a. 4b. I'm an account executive at a route-optimisation SaaS company. It's a reusable sequence for heads of ops at mid-size logistics companies. Keep it straightforward, no invented percentages.

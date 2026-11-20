@@ -1,0 +1,1 @@
+Not sure about most of this yet. I work for a route optimisation software company. Don't know the exact product differentiator or any customer results. We usually target ops people in logistics. I'd probably use placeholders for the recipient. A 15-minute call sounds fine. Sales rep, plain and short. Nothing specific to avoid.

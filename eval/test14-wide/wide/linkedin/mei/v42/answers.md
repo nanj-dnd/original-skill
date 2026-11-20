@@ -1,0 +1,1 @@
+1c 2b I manage 18 staff. I started putting the rota out 3 weeks ahead instead of 1. Last-minute sick calls dropped from around 6 a month to 2, and two people who'd been talking about quitting stayed. 3c 4a

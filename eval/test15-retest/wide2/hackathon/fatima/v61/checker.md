@@ -1,0 +1,5 @@
+"30 cars lost because nobody saw the water after midnight"
+"1c, which points at a physical place rather than individuals"
+"3b, a team that can handle backend, data and hardware"
+"That matches a team of 3 to 5"
+"The cars weren't lost because the flood was unstoppable"

@@ -1,0 +1,1 @@
+1a 2a — solo, mostly frontend, 24 hours. 3d — not sure about the judges. 4b — something I can show judges on a laptop. I'd prefer a polished dashboard over something too complicated.

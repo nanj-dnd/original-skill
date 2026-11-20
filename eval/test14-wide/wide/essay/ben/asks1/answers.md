@@ -1,0 +1,1 @@
+1. Undergrad politics. 2. idk, pick the best one. 3. Global. 4. Any. 5. Academic sources I guess. 6. Any. 7. Whatever works. 8. Nothing.

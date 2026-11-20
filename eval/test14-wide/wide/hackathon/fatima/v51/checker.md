@@ -1,0 +1,1 @@
+"This chain would have fired an hour before the water reached them."

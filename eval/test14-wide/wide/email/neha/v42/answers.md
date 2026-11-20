@@ -1,0 +1,1 @@
+1b 2a — Pune dairy distributor, 40 vans; 14% lower fuel spend and late deliveries reduced from 1 in 9 to 1 in 25 over three months. 3a — founder, 20-minute call. Prospect posted on LinkedIn about monsoon delays.

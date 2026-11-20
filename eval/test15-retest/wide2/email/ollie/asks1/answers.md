@@ -1,0 +1,1 @@
+1. Not sure about the product name or proof yet. 2. Reusable template for ops people. 3. Not sure, probably logistics companies. 4. Whatever works. 5. Not sure. 6. I'm an SDR. 7. Professional but conversational, UK spelling.

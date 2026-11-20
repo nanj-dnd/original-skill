@@ -26,7 +26,7 @@ FRONTMATTER = {
         "description": (
             "Gives a non-default answer to an open task (an essay angle, an argument, a pitch, "
             "a strategy, a product or research idea, a talk, a post). Writes what everyone would "
-            "get, asks Anshul a few targeted questions, then builds from what only he knows. Use "
+            "get, asks a few targeted questions, then builds from what only the user knows. Use "
             "for /original, or when he says \"not the generic answer\", \"make this less generic\", "
             "\"what would everyone else get\" or \"give me an angle nobody else has\". Also for "
             "\"/original export\" or \"export this run\" to make a PDF of a run. Not for tasks with "
